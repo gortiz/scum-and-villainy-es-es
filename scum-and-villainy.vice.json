@@ -1,0 +1,41 @@
+{
+	"label": "Vícios",
+  "mapping": {
+    "description": "data.description"
+  },
+  
+	"entries": {
+		"Faith": {
+			"name": "Fé",
+      "description": "Formas parte de un culto u observas ceremonias específicas a intervalos regulares."
+		},
+		"Gambling": {
+			"name": "Apuestas",
+      "description": "Te apetece jugar a juegos de azar o apostar en eventos deportivos, etc."
+		},
+		"Home Cooking": {
+			"name": "Cocina Casera",
+      "description": "Puedes aprovechar los talentos culinarios de la tripulación. (Requiere la habilidad especial de cocina casera de la bailarina estelar)"
+		},
+		"Luxury": {
+			"name": "Lujo",
+      "description": "Buscas un alto nivel de vida, con muestras de riqueza caras y ostentosas."
+		},
+		"Obligation": {
+			"name": "Obligaciones",
+      "description": "Te dedicas a una familia, una causa, una organización, una organización benéfica, etc."
+		},
+		"Pleasure": {
+			"name": "Placer",
+      "description": "Buscas la gratificación hedonista con amantes, comida, bebida, drogas, arte, etc."
+		},
+		"Stupor": {
+			"name": "Estupor",
+      "description": "Anestesias tus sentidos con el uso de drogas, el consumo excesivo de alcohol, la lucha hasta la extenuación, etc."
+		},
+		"Weird": {
+			"name": "Extraño",
+      "description": "Realizas extraños experimentos, exploras la Senda, comulgas con artefactos de Ur, etc."
+		}
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"label": "Legado",
+  "mapping": {
+    "description": "data.description"
+  },
+  
+	"entries": {
+		"Colonist": {
+			"name": "Colono",
+      "description": "Familias de colonos. Los agricultores, mineros y terraformadores forman la columna vertebral de la Hegemonía. Luchando por vivir en las fronteras de los planetas, estas personas se enfrentan a bestias alienígenas y a extrañas ruinas de Precursores más que la mayoría."
+		},
+		"Imperial": {
+			"name": "Imperial",
+      "description": "Los que tienen herencia imperial proceden de Warren o de los mundos centrales.\n\nHas sido educado en los métodos de la Hegemonía, a través de la educación vocacional del Gremio, las enseñanzas del Culto o los tutores de las familias nobles."
+		},
+		"Manufactured": {
+			"name": "Fabricado",
+      "description": "\"Las familias\" fabricadas están fundamentalmente controladas de alguna manera por los Gremios - por ejemplo, un clon de Yaru que se escapó de una instalación o un Urbot que evitó los borrados de memoria rutinarios.\n\nA menudo será necesario ocultar su origen e independencia."
+		},
+		"Spacer": {
+			"name": "Explorador Espacial",
+      "description": "Si prefieres estar más cómodo en una nave antigua, puedes pertenecer a una familia de Exploradores del Espacio. Los mineros del hielo, los mecánicos de las estaciones y muchos comerciantes nacen, envejecen y mueren en el espacio, y pueden o no ver sus aventuras terrestres con recelo."
+		},
+		"Wanderer": {
+			"name": "Vagabundo",
+      "description": "Si no quieres un planeta al que llamar hogar, es posible que tengas una herencia andante.\n\nUna pequeña pero notable parte de la Hegemonía se desplaza de un planeta a otro a medida que surgen oportunidades y cambian los ciclos económicos galácticos. O simplemente deja que la Senda te lleve."
+		},
+		"Xeno": {
+			"name": "Xeno",
+      "description": "Las familias de xenos son tan diversas como los innumerables tipos de xenos de la galaxia. Te criaste en una cultura no humana. Los xenos luchan por ser aceptados en la Hegemonía, y muchas de sus prácticas se consideran extrañas o inusuales."
+		}
+	}
+}
+

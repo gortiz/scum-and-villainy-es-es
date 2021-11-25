@@ -1,0 +1,41 @@
+{
+	"label": "Reputación de la Tripulação",
+  "mapping": {
+    "description": "data.description"
+  }, 
+  
+	"entries": {
+		"Ambitious": {
+			"name": "Ambiciosa",
+      "description": "Tener o mostrar un fuerte deseo y determinación para tener éxito."
+		},
+		"Brutal": {
+			"name": "Brutal",
+      "description": "Extremadamente violenta."
+		},
+		"Daring": {
+			"name": "Osada",
+      "description": "Aventureros o audaces."
+		},
+		"Honorable": {
+			"name": "Honrada",
+      "description": "Digna de honor."
+		},
+		"Professional": {
+			"name": "Profesional",
+      "description": "Tener las cualidades asociadas a las personas formadas y cualificadas, como la eficacia, la habilidad, la organización y la seriedad."
+		},
+		"Savvy": {
+			"name": "Experta",
+      "description": "Astuta y experimentada; tiene buen juicio y buen sentido de la situación."
+		},
+		"Strange": {
+			"name": "Extraña",
+      "description": "Inusual o sorprendente de una manera que es inquietante o difícil de entender."
+		},
+		"Subtle": {
+			"name": "Sutil",
+      "description": "Utiliza métodos inteligentes e indirectos para conseguir algo."
+		}
+	}
+}

@@ -1,0 +1,360 @@
+{
+	"label": "Habilidades",
+  "mapping": {
+    "description": "data.description",
+    "class":"data.class"
+  },
+  
+	"entries": {
+		"(Me) Analyst": {
+			"name": "(Me) Analista",
+      "description": "Al hackear un sistema también puedes preguntar por el propietario o la ubicación del sistema como si sacaras un 6 en la obtención de información.\n\nCuando te resistas a las consecuencias del hackeo, tira +1d.\n\nSin importar el propósito por el que estés hackeando, aprendes algo sobre los sistemas que estás manipulando. Si estabas recopilando información, puedes rodar para aprender una segunda cosa, o simplemente puedes aceptar el 6 por lo que querías saber",
+      "class":"Mecánico"      
+		},
+		"(Me) Bailing Wire and Mech Tape": {
+			"name": "(Me) Alambre de amarre y cinta americana",
+      "description": "Obtienes una actividad extra de reparación, y la actividad de reparación cuesta 0 créditos.\n\nLa actividad de reparación normalmente usa 1 cred para realizarse. Con esta capacidad, puedes realizar la actividad sin coste alguno. Las reparaciones gratuitas no se pueden 'salvar'. Tienes una por tiempo libre.",
+      "class":"Mecánico"      
+		},
+		"(Me) Construct Whisperer": {
+			"name": "(Me) Susurrador de máquinas",
+      "description": "Las máquinas te hablan cuando las estudias.\n\nLa primera vez que tires un crítico al arreglar o construir una máquina en particular, puedes añadirle una simple modificación (ver Construcción, página 282).\n\n¿Cómo te susurran las máquinas sus secretos? ¿Es intuitivo? ¿Sientes lo que ellos sienten? No se consigue la modificación si se mejora el resultado con cred.",
+      "class":"Mecánico"      
+		},
+		"(Me) Fixed": {
+			"name": "(Me) Arreglado",
+      "description": "Puedes usar tu armadura especial para resistir las consecuencias de que las máquinas se rompan o se dañen, o esforzarte en reparar o construir una máquina.\n\nCuando uses esta habilidad, marca la casilla de armadura en tu ficha. Las máquinas pueden incluir tu nave, por lo que puedes utilizarlo como blindaje especial para tu nave si está a bordo reparando daño. Si usas esta habilidad para esforzarte, obtienes uno de los beneficios (+1d, +1 efecto, actuar a pesar del gran daño), pero no obtienes 2 de estrés. Tu armadura especial se recupera cuando seleccionas tu carga al comienzo de un trabajo.",
+      "class":"Mecánico"
+		},
+		"(Me) Hacker": {
+			"name": "(Me) Hacker",
+      "description": "Puedes gastar tu armadura especial para resistir las consecuencias del Hackeo o para esforzarte al hackear o recuperar información electrónicamente.\n\nCuando uses esta habilidad, marca la casilla de armadura en tu ficha. Si usas esta habilidad para esforzarte, obtienes uno de los beneficios (+1d, +1 efecto, actuar a pesar del daño grave), pero no obtienes 2 de estrés. Tu armadura especial se restablece cuando seleccionas tu carga al comienzo de un trabajo.",
+      "class":"Mecánico"      
+		},
+		"(Me) Junkyard Hunter": {
+			"name": "(Me) Cazador de Desguaces",
+      "description": "Cuando compras piezas o equipos durante tu tiempo libre, puedes ganar dos recursos o un recurso con calidad +1.\n\nTus contactos en el desguace pueden conseguirte lo que necesitas, reacondicionado o en oferta. Si ganas dos recursos, ambos tendrán la misma calidad que tu tirada.",
+      "class":"Mecánico"      
+		},
+		"(Me) Mechanic's Heart": {
+			"name": "(Me) Corazón de Mecánico",
+      "description": "Al hablar desde el corazón, tus palabras pueden llegar incluso al criminal más endurecido, y ganas potencia. \n\nEsta habilidad funciona en todas las situaciones, sin restricciones. Si hablas con sinceridad y autenticidad, tus palabras serán escuchadas",
+      "class":"Mecánico"      
+		},
+		"(Me) Overclock": {
+			"name": "(Me) Overclock",
+      "description": "Cuando gastes un gambito para una tirada de apañar para reparar o mejorar, trata el sistema en el que estás trabajando como de calidad +1 hasta el final del trabajo actual.\n\nPuedes hacer una tirada de apañar durante un trabajo simplemente para obtener más del sistema, pero estos aumentos temporales son sólo situacionales y necesitan ser revertidos la próxima vez que vuelvas al muelle. Puedes hacer overclocking en los sistemas que no son de la nave, mejorando su calidad.",
+      "class":"Mecánico"      
+		},
+		"(Me) Tinker": {
+			"name": "(Me) Chatarrero",
+      "description": "Cuando se trabaja en un reloj con apañar o hackear, o cuando estudias un esquema, rellena +1 segmento.\n\nNo se pueden elegir las habilidades iniciales a través de la habilidad especial de Veterano.\n\nObtienes este segmento de bonificación independientemente de si es una acción fuera de servicio o no. Es decir, ignorar la seguridad en un trabajo o hacer un parche de emergencia mientras se huye de una nave que te persigue es más fácil para ti que para otros.",
+      "class":"Mecánico"      
+		},
+		"(Me) Xeno": {
+			"name": "(Me) Xeno",
+      "description": "Puedes gastar Estrés (0-2) para realizar una hazaña sobrehumana de la que sólo son capaces los miembros de tu especie. (Página 296)\n\nCada especie tiene mecánicos, así que cuando juegues con un xeno, ten en cuenta cómo se relaciona ese xenotipo con las máquinas.\n\nAlgunos xenos tienen una relación inusual con la tecnología (particularmente con la tecnología basada en Ur), como los Sah'iir, mientras que otros usan materiales inusuales, como Mem.",
+      "class":"Mecánico"      
+		},
+		"(Mu) Backup": {
+			"name": "(Mu) Refuerzo",
+      "description": "El esfuerzo de un aliado cuesta 1 estrés (no 2) en cualquier acción que facilites o ayudes.\n\nLas acciones de facilitación y ayuda (ver página 158) siguen otorgando tu dado o efecto extra como siempre.",
+      "class":"Músculo"      
+		},
+		"(Mu) Battleborn": {
+			"name": "(Mu) Nacido para la batalla",
+      "description": "Puedes gastar tu armadura especial para reducir el daño de un ataque en combate o para esforzarte durante una pelea.\n\nCuando uses esta habilidad, marca la casilla de armadura en tu ficha. 'Reducir el daño' significa reducir el daño en un nivel. Si usas esta habilidad para esforzarte, obtienes uno de los beneficios (+1d, +1 efecto, actuar a pesar del daño severo), pero no obtienes 2 de estrés. Tu armadura especial se restablece cuando seleccionas tu carga al comienzo de un trabajo.",
+      "class":"Músculo"      
+		},
+		"(Mu) Bodyguard": {
+			"name": "(Mu) Guardaespaldas",
+      "description": "Al proteger a un miembro de la tripulación, resiste con +1d. Al recibir daño, ganas 1 estrés.\n\nLa maniobra de protección del trabajo en equipo (ver página 158) te permite enfrentar una consecuencia por un compañero de equipo.",
+      "class":"Músculo"      
+		},
+		"(Mu) Flesh Wound": {
+			"name": "(Mu) Herida Superficial",
+      "description": "Si te hieren al principio del descanso, marca +3 segmentos en tu reloj de curación.\n\nSi te esfuerzas para ignorar las penalizaciones por heridas, sólo recibes 1 estrés (no 2).\n\nSi eres resistente por naturaleza, las heridas no te molestan. Para más información, consulte Recuperación en la página 187.",
+      "class":"Músculo"      
+		},
+		"(Mu) Predator": {
+			"name": "(Mu) Depredador",
+      "description": "Recibe +1d en las tiradas contra objetivos debilitados o vulnerables.\n\nAl obtener información sobre una debilidad o vulnerabilidad, lo peor que puedes obtener es un resultado de 4/5.\n\nSabes cómo aprovechar el miedo, el dolor y la vulnerabilidad para conseguir lo que quieres. Al intentar descubrir estas sensaciones en una persona, a menudo se obtiene algo, aunque la información no sea inmediatamente útil o esté incompleta. Alguien en estado vulnerable puede estar drogado, gravemente herido o asustado.",
+      "class":"Músculo"      
+		},
+		"(Mu) Ready For Anything": {
+			"name": "(Mu) Preparado para todo",
+      "description": "Cuando te emboscan, ganas potencia para todas las acciones durante un flashback, y tu primer flashback cuesta 0 de estrés.\n\nSiempre esperas las emboscadas y te preparas para ellas. Recuerda esta preparación cuando se produce una emboscada. Si tu preparación requiere tiradas de acción, ganas potencia en ellas.",
+      "class":"Músculo"      
+		},
+		"(Mu) Scary": {
+			"name": "(Mu) Terrorífico",
+      "description": "Exudas un aire de amenaza y peligro evidente. Si se hace inmediatamente después de una demostración de fuerza, también se obtiene +1d.\n\nInstigas miedo a la gente que te rodea, especialmente cuando te pones violento. La reacción depende de ellos. Algunos huirán de ti, otros se impresionarán, otros se volverán violentos en cambio. El master juzga la respuesta de un PNJ en particular.\n\nLa intimidación suele tratarse con una tirada de mando, y tus esfuerzos por hacerlo serán más exitosos si demuestras que lo dices en serio.",
+      "class":"Músculo"      
+		},
+		"(Mu) Unstoppable": {
+			"name": "(Mu) Imparable",
+      "description": "Puedes intentar hacer una de las siguientes cosas:\n\nUna hazaña de fuerza física que roza lo sobrehumano: enfrentarte a una pequeña banda en igualdad de condiciones en un combate cuerpo a cuerpo.\n\nTen en cuenta que las habilidades iniciales no se pueden elegir a través de la habilidad especial de Veterano.\n\nAl hacer el esfuerzo para activar esta habilidad, sigues obteniendo uno de los beneficios del esfuerzo normal (+1d, +1 efecto, etc.) además de la habilidad especial.\n\nUna hazaña sobrehumana es aquella que una persona normal no podría realizar sin ayuda, como romper grilletes de metal. Si te enfrentas a una banda pequeña en igualdad de condiciones, tendrás la misma escala.",
+      "class":"Músculo"      
+		},
+		"(Mu) Wrecking Crew": {
+			"name": "(Mu) Equipo de Demolición",
+      "description": "Tu fuerza y ferocidad son infames. Al atacar en combate cuerpo a cuerpo, obtienes +1d.\n\nAl gastar un gambito en combate, también obtienes +1 de efecto en esa acción.\n\nTanto si eres un maestro de las artes marciales como si fuiste criado por místicos para luchar con armas antiguas, tu habilidad marcial en el combate cuerpo a cuerpo es legendaria (y puede atraer a aquellos que deseen aprender o desafiarte).\n\nSi gastas una tirada de combate, recibe +1 de efecto en esa acción. Esto puede golpear más a un solo oponente o compensar las penalizaciones de escala o calidad. Esto también se acumula con el +1d del gambito y el +1d de la habilidad principal del Equipo de Demolición.",
+      "class":"Músculo"      
+		},
+		"(Mu) Xeno": {
+			"name": "(Mu) Xeno",
+      "description": "Puedes gastar Estrés (0-2) para realizar una hazaña sobrehumana de la que sólo son capaces los miembros de tu especie. (Página 296)\n\nDesde Worf hasta D'Argo y Chewbacca, los alienígenas poderosos en la batalla han sido una necesidad del género de la space opera. La habilidad inicial del Músculo es significativa, pero muchos xenos tienen una fuerza muy superior a la de un humano normal.\n\nAlgunos pueden tener más extremidades o adaptaciones para entornos hostiles.\n\nConsidera cómo tu herencia xeno puede convertirte en un Músculo más útil y habla con tu mesa sobre cómo deseas utilizar tu habilidad xeno.",
+      "class":"Músculo"      
+		},
+		"(My) Center": {
+			"name": "(Mi) Centro",
+      "description": "Ganas la meditación como un vício. Al satisfacerlo, elimina +1 de estrés y añade Visiones Oscuras como un posible exceso.\n\nContemplar el universo conlleva sus riesgos. Al elegir Visiones Oscuras como exceso, la Senda te muestra a un ser querido, un contacto o un amigo en gran peligro.",
+      "class":"Místico"      
+		},
+		"(My) Kinetics": {
+			"name": "(Mi) Telekinesis",
+      "description": "Puedes esforzarte por hacer lo siguiente: utilizar la Senda para lanzar un objeto del tamaño de una mesa con fuerza peligrosa - impulsárte brevemente con una velocidad sobrehumana.\n\nFuerza peligrosa significa ser lo suficientemente rápido como para herir gravemente a una persona normal. La velocidad sobrehumana significa ser lo suficientemente rápido como para convertirte en poco más que un borrón. Su rango es aproximadamente del tamaño de una habitación grande. Sí, las personas pueden contar como objetos.",
+      "class":"Místico"      
+		},
+		"(My) Psy-blade": {
+			"name": "(Mi) Hoja-Psi",
+      "description": "Puedes concentrar la energía de la Senda en tu arma cuerpo a cuerpo.\n\nMientras esté cargada, el arma puede cortar fácilmente materiales sin escudo y ganas potenica en los ataques cuerpo a cuerpo.\n\nLas placas de metal pesado no tienen escudo, por lo que puedes cortar la mayoría de las puertas sin problemas. Las construcciones blindadas son raras, pero ofrecen suficiente protección para que el ataque pierda su poder. No puedes infundir poder a tus puños (o guantes, puños americanos, etc.).",
+      "class":"Místico"      
+		},
+		"(My) Psy-dancing": {
+			"name": "(Mi) Danza-Psi",
+      "description": "Te puedes forzar para nublar la mente de un objetivo y convencerlo frente a pruebas contradictorias.\n\n'Haga lo que le digo. Soy el embajador'.\n\nGasta 1 de estrés por cada recurso adicional: sólo tienen recuerdos vagos del evento - funciona en un grupo pequeño.\n\nEstas confusiones no persisten indefinidamente, aunque los que tienen recuerdos vagos a menudo llenan los detalles que faltan con suposiciones. 'Debo haber revisado su placa. Siempre lo compruebo'.",
+      "class":"Místico"      
+		},
+		"(My) Sundering": {
+			"name": "(Mi) Separación",
+      "description": "Puedes esforzarte para sintonizar con la Senda y distorsionarla, infligiendo daño psíquico a cualquiera que se encuentre en el área vulnerable a tu ataque.\n\nPuedes gastar 1 estrés por cada rasgo adicional:\n\n- causa daño en lugar de aturdimiento- tú y cualquiera que elijas recibís +2d para resistir los efectos.\n\n-Distorsionas la Senda dentro de ti y, por extensión, distorsionas la Senda en otros-una propuesta arriesgada en el mejor de los casos. La separación no puede dañar los objetos inanimados. Cuando causa daños, los síntomas pueden incluir convulsiones de corta duración y rotura de vasos sanguíneos. Aquellos especialmente entrenados para resistir los ataques psíquicos o protegidos de otra manera pueden reducir su efecto.",
+      "class":"Místico"      
+		},
+		"(My) The Way": {
+			"name": "(Mi) La Senda",
+      "description": "Puedes gastar un gambito en lugar de pagar los costes de estrés.\n\nTen en cuenta que las habilidades iniciales no se pueden elegir a través de la habilidad especial de Veterano.\n\nCuando necesites gastar estrés, puedes hacer una tirada de riesgo. Esto incluye las resistencias y los costes de esfuerzo. En el caso de las habilidades que tienen un coste variable, como la separación, estos costes adicionales formarán parte de la misma activación, por lo que el esfuerzo y todos los recursos adicionales juntos sólo cuestan un gambito.",
+      "class":"Místico"      
+		},
+		"(My) Visions": {
+			"name": "(Mi) Visiones",
+      "description": "Gasta 1 estrés para ver a distancia un lugar lejano o una persona conectada a ti de alguna manera íntima.\n\nGasta 1 estrés por cada característica extra:\n\n-dura un minuto en lugar de un momento;\n\n-tu objetivo también puede verte y oírte;\n\n-puedes ver algo sólo familiar para ti, no íntimo.\n\nGastar un gambito en tu habilidad inicial ('la Senda') cubre todos los costes. Cuando tu objetivo también puede verte y oírte, ambos estáis dentro de la misma 'área' a efectos de otras habilidades.",
+      "class":"Místico"      
+		},
+		"(My) Warded": {
+			"name": "(Mi) Protegido",
+      "description": "Puedes gastar tu armadura especial para resistir las consecuencias de un ataque de Senda o del uso de un artefacto, o esforzarte cuando uses poderes místicos.\n\nCuando uses esta habilidad, marca la casilla de armadura en tu ficha. Si lo usas para esforzarte, obtienes uno de los beneficios (+1d, +1 efecto, actuar a pesar del daño severo), pero no recibes 2 de estrés. Tu armadura especial se restablece cuando seleccionas tu carga al comienzo de un trabajo.",
+      "class":"Místico"      
+		},
+		"(My) Way Shield": {
+			"name": "(Mi) Escudo de la Senda",
+      "description": "Puedes bloquear los rayos blaster con la Senda (resiste con Determinación).\n\nSi resistes un ataque blaster, puedes gastar 1 estrés para redirigir el fuego y hacer tu propio ataque con él.\n\nResistir los blasters de esta manera suele reducir el daño a cero.",
+      "class":"Místico"      
+		},
+		"(My) Xeno": {
+			"name": "(Mi) Xeno",
+      "description": "El sector está lleno de especies que están en sintonía con la Senda. Algunos afirman tener ascendencia con Ur, mientras que otros afirman haber evolucionado en un planeta dominado por la Senda.\n\nIndependientemente, como xeno místico, estás renunciando a una importante habilidad inicial y debes considerar cómo influye en tu desarrollo como Místico.\n\nTrabaja con tu Maestro y la mesa para definir habilidades y permisos especiales para tu tradición mística específica.",
+      "class":"Místico"      
+		},
+		"(P) Ace Pilot": {
+			"name": "(P) Piloto Estrella",
+      "description": "Tienes potencia en todas las tiradas relacionadas con la velocidad. Cuando se tira para resistir las consecuencias del pilotaje, se gana +1d.\n\nTen en cuenta que las habilidades iniciales no pueden ser elegidas a través de la habilidad especial de Veterano.\n\nTu poder puede ser contrarrestado por una mejor calidad (si los motores de las naves enemigas son mejores que los tuyos, por ejemplo). Recuerda que las consecuencias del pilotaje no siempre son daños en la nave, pero a menudo se pueden resistir igualmente.",
+      "class":"Piloto"      
+		},
+		"(P) Commander": {
+			"name": "(P) Comandante",
+      "description": "Siempre que dirijas una acción colectiva, ganas +1 a la escala (por ejemplo, un grupo pequeño cuenta como un grupo mediano).\n\nSi diriges una acción en grupo en combate, puedes contar varios 6 de tiradas diferentes como críticos.\n\nUna acción en grupo es aquella en la que varios PJs realizan la misma acción y tiran sus respectivos dados por ella (ver Dirigir una Acción en Grupo, página 158). Si ya tienes escala sobre tu oponente, ganas escala adicional (y por tanto nivel de efecto). Si dos o más jugadores sacan 6, el resultado de la prueba para todos es un crítico. Todavía debes sufrir los costes de estrés de cualquier participante cuya puntuación sea de 1-3.",
+      "class":"Piloto"      
+		},
+		"(P) Exceed Specs": {
+			"name": "(P) Exceder Especificaciones",
+      "description": "Mientras estés a bordo de una nave, puedes dañar un sistema de la misma al que tengas acceso para ganar +1d o +1 de efecto en una tirada.\n\nSobrecarga un sistema para obtener un impulso a corto plazo. La calidad del sistema sigue siendo la misma para la tirada que estás incrementando. Después de la tirada, el sistema se fríe y la calidad se reduce.",
+      "class":"Piloto"      
+		},
+		"(P) Hedonist": {
+			"name": "(P) Hedonista",
+      "description": "Al satisfacer tu vicio, puedes ajustar el resultado de los dados en +/- 2.\n\nUn aliado que se una a ti puede hacer lo mismo.\n\nEl aliado debe unirse a ti en el vicio que estés satisfaciendo (o puedes satisfacer uno a través de una habilidad de la tripulación, como Cocina Casera de la Bailarina Estrella). Puede ajustar la puntuación en menos de 2 o no ajustarla en absoluto. También puedes recuperar más de 6 de estrés en una tirada de vicio de esta manera.",
+      "class":"Piloto"      
+		},
+		"(P) Keen Eye": {
+			"name": "(P) Ojo Avizor",
+      "description": "Tienes una vista de águila y te das cuenta de pequeños detalles que muchos pasan por alto.\n\nGanas +1d al disparar armas de la nave o hacer tiros complicados.\n\nPuedes usar esto como base para las tiradas de resistencia para actuar primero. 'No, quiero actuar antes de que él lo haga, me habría dado cuenta cuando tuviera la pistola'. Además, los disparos complicados pueden realizarse con casi cualquier tipo de arma de largo alcance, no sólo con armas de la nave.",
+      "class":"Piloto"      
+		},
+		"(P) Leaf On the Wind": {
+			"name": "(P) Hoja al Viento",
+      "description": "Cuando te esfuerzas, puedes gastar +1 de estrés (3 de estrés en total) para ganar ambos +1 de efecto y +1d en lugar de uno de los dos.\n\nNormalmente, se necesitan dos esfuerzos distintos (4 de estrés en total) para conseguir el mismo efecto. Se puede utilizar en cualquier tirada.",
+      "class":"Piloto"      
+		},
+		"(P) Punch It!": {
+			"name": "(P) Golpeálo!",
+      "description": "Cuando gastas un Gambito en una tirada desesperada, cuenta como arriesgada.\n\nComo gastaste un gambito en la tirada, aun contando como arriesgada, la tirada no puede generar otro gambito (a menos que tengas otra habilidad que diga lo contrario). También ganas +1d por la tirada de gambito, pero la posición de la tirada debe ser ajustada, así como las consecuencias. Recuerda: esto se puede utilizar para cualquier tirada (no sólo para pilotar).",
+      "class":"Piloto"      
+		},
+		"(P) Side Job": {
+			"name": "(P) Trabajo Secundario",
+      "description": "Puedes pasar el tiempo libre en el puerto haciendo trabajos extraños.\n\nObtén 1 cred.\n\nSi hay rumores por ahí, el master te informará de ellos.\n\nPuede que no haya rumores por ahí, pero el master debe tratar esto como una tirada de recopilación de información en la que sacas un 6 para averiguar las noticias y cotilleos de ese puerto.",
+      "class":"Piloto"      
+		},
+		"(P) Traveler": {
+			"name": "(P) Viajero",
+      "description": "Te sientes cómodo con las culturas inusuales y los xenos. Ganas potencia cuando intentas socializarlos o convencerlos.\n\nAunque cualquier personaje puede tener algo de experiencia con xenoculturas específicas, esta habilidad representa un amplio rango de experiencia y entendimiento. Tanto si parece profundamente respetuoso como si sólo sabe de qué hilos tirar, es más eficaz de lo esperado.",
+      "class":"Piloto"      
+		},
+		"(P) Xeno": {
+			"name": "(P) Xeno",
+      "description": "Los pilotos xenos suelen estar asociados a las naves xeno.\n\nSi eliges esta opción, pregunta a tu master sobre las modificaciones que podrías hacer a tu nave o las mejoras inusuales a las que tu gente podría tener acceso.\n\nAl desarrollar a tu gente, piensa en cómo podría afectar a su pilotaje el hecho de tener sentidos inusuales (quizás vean la gravedad u otros espectros) o formas únicas de interactuar (como conexiones neurales directas).",
+      "class":"Piloto"      
+		},
+		"(Sc) Ask Questions Later": {
+			"name": "(Ca) Perguntar Después",
+      "description": "Cuando socializas para recabar información, se obtiene un efecto +1 y también se puede preguntar: ¿Quién puede beneficiarse de esto? Como ganas poder, el peor resultado de una tirada de recopilación de información sería un resultado estándar.",
+      "class":"Canalla"      
+		},
+		"(Sc) Daredevil": {
+			"name": "(Ca) Temerario",
+      "description": "Cuando haces una tirada desesperada, puedes recibir +1d. Si lo haces, no marques xp en el atributo de esa acción. Sólo puedes tomar este dado extra en caso de que la posición final de la tirada sea desesperada, así que si usas una facilitación para cambiar la posición a arriesgada, por ejemplo, no puedes tomar el dado extra.",
+      "class":"Canalla"      
+		},
+		"(Sc) Devil's Own Luck": {
+			"name": "(Ca) Suerte del Diablo",
+      "description": "Puedes gastar tu armadura especial para resistir las consecuencias de los disparos de blaster o para esforzarte hablando para salir (o escapar) de los problemas.\n\nCuando uses esta habilidad, marca la casilla de armadura en tu ficha. Los disparos de blaster pueden extenderse a las pistolas o a los disparos de cualquier tipo, y huir de los problemas puede ser por medio de una nave espacial o usando los pies. Si usas esta habilidad para esforzarte, obtienes uno de los beneficios (+1d, +1 efecto, actuar a pesar del daño severo), pero no obtienes 2 de estrés. Tu armadura especial se restablece cuando seleccionas tu carga al comienzo de un trabajo.",
+      "class":"Canalla"      
+		},
+		"(Sc) I Know a Guy": {
+			"name": "(Ca) Conozco a alguien",
+      "description": "Cuando atraques en un puerto después de haber estado fuera, elige uno y pregunta al master por un trabajo:\n\n- no es mortal\n\n- paga lo suficientemente bien\n\n- no es un trabajo urgente\n\n- viene de una facción en la que confías\n\n- afecta a un enemigo tuyo.\n\nPuedes gastar 1 cred por cada recurso adicional.\n\nAunque estés atento, se necesita bastante tiempo para que aparezcan nuevos trabajos en un puerto (normalmente uno o dos periodos libres). El maestro te dirá cómo te enteras del trabajo; puede ser una recompensa disponible públicamente o algo que te pasa un contacto.",
+      "class":"Canalla"      
+		},
+		"(Sc) Never Tell Me the Odds": {
+			"name": "(Ca) Nunca me Digas las Probabilidades.",
+      "description": "Generas gambitos en acciones desesperadas. También puedes generar gambitos si ya has utilizado un gambito. Tu capacidad de 'estirar' los gambitos, regenerándolos en jugadas en las que ya los ha gastado, te da la capacidad de ponerte en situaciones que otros ni siquiera querrían considerar.",
+      "class":"Canalla"      
+		},
+		"(Sc) Serendipitous": {
+			"name": "(Ca) Fortuito",
+      "description": "Tu tripulación comienza con +1 gambito cuando se restablece la reserva de dados.\n\nTen en cuenta que las habilidades iniciales no pueden ser elegidas a través de la habilidad especial de Veterano.\n\nEsto aumenta los gambitos iniciales de la tripulación en un trabajo. Simplemente tienes más suerte que otras personas.",
+      "class":"Canalla"      
+		},
+		"(Sc) Shoot First": {
+			"name": "(Ca) Disparar Primero",
+      "description": "Cuando atacas desde una cobertura o activas una trampa, recibes +1d.\n\nCuando hay una pregunta sobre quién actúa primero, la respuesta eres tú (dos personajes con Disparo primero actúan simultáneamente).\n\nPara atacar desde una cobertura, tu objetivo no debe ser consciente de ti. Si estás activando una trampa, tu objetivo no debe ser consciente de la misma.",
+      "class":"Canalla"      
+		},
+		"(Sc) Tenacious": {
+			"name": "(Ca) Tenaz",
+      "description": "Las penalizaciones de daño son un nivel menos severas (aunque el daño de nivel 4 sigue siendo letal).\n\nCuando las penalizaciones de daño se aplican a las tiradas de acción, trátalas como un nivel menos de lo que esperabas, así que el daño de nivel 1 se ignora y el de nivel 3 es -1d. El daño de nivel 4, también llamado daño letal, sigue siendo letal a menos que puedas usar la armadura o una tirada de resistencia para reducirlo primero.",
+      "class":"Canalla"      
+		},
+		"(Sc) When the Chips Are Down": {
+			"name": "(Ca) Cuando las fichas están en juego",
+      "description": "Ganas un segundo uso de armadura especial entre cada descanso.\n\nAsí puedes usar una segunda armadura especial o usar la misma armadura especial dos veces.",
+      "class":"Canalla"      
+		},
+		"(Sc) Xeno": {
+			"name": "(Ca) Xeno",
+      "description": "Las canallas suelen ser representaciones del público, una 'persona corriente'.\n\nUn xeno canalla es un ejercicio de humanización del Otro y de hacer accesibles los personajes inusuales de Procyon.\n\nPiensa en tu cultura y en tu gente cuando crees tu xeno. ¿Acepta tu gente aburrida tu desprecio por las normas? ¿Son bienvenidos en la sociedad hegemónica o están en el límite de lo aceptable? ¿Son de Percyon o de algún otro lugar de la galaxia?",
+      "class":"Canalla"      
+		},
+		"(Sp) Air of Respectability": {
+			"name": "(Com) Aire de Respeto",
+      "description": "Obtienes una actividad extra para adquirir recursos o para pasar desapercibido.\n\nTen en cuenta que las habilidades iniciales no pueden ser elegidas a través de la habilidad especial de Veterano.\n\nTus conexiones proporcionan un flujo constante de material y personas que te sirven para arreglar las cosas después de tus aventuras.",
+      "class":"Comunicador"      
+		},
+		"(Sp) Disarming": {
+			"name": "(Com) Desarmar",
+      "description": "Cuando usas un gambito mientras hablas, las hostilidades y el peligro también se detienen mientras hablas.\n\nSigues ganando +1d a cualquier tirada que necesites hacer para explicarte, probablemente socializar, convencer o mandar.",
+      "class":"Comunicador"      
+		},
+		"(Sp) Favors Owed": {
+			"name": "(Com) Favores Debidos",
+      "description": "Mientras no estés de servicio, obtienes +1d al adquirir recursos o pasar desapercibido. Cuando recojas información, usa +1d.\n\nUsando tu autoridad, conexiones o información interna, obtienes mejor información y acceso a mejores recursos.",
+      "class":"Comunicador"      
+		},
+		"(Sp) Heart To Heart": {
+			"name": "(Com) Franco",
+      "description": "Al proporcionar un consejo significativo o sincero y que un miembro de la tripulación lo siga, ambos eliminan 1 de estrés.\n\nUn consejo significativo puede significar cambiar el curso de acción habitual de alguien, hacer que tome un curso de acción difícil y costoso, o hacer que reconsidere sus elecciones. Si hay alguna duda sobre lo que es significativo o sincero, discutan en grupo y decidan juntos.",
+      "class":"Comunicador"      
+		},
+		"(Sp) Infiltrator": {
+			"name": "(Com) Infiltrador",
+      "description": "No te afecta la calidad o el nivel cuando ignoras las medidas de seguridad.\n\nEsta habilidad te permite enfrentarte a enemigos de mayor nivel en igualdad de condiciones. Al hackear un sistema de seguridad electrónico, abrir una cerradura o colarte entre los guardias de élite, tu nivel de efecto nunca se ve reducido debido al mayor nivel o calidad de tu rival.",
+      "class":"Comunicador"      
+		},
+		"(Sp) Old Friends": {
+			"name": "(Com) Viejos Amigos",
+      "description": "Cuando aterrices en una nueva ubicación, registra a un amigo conocido allí (en Amigos influyentes en la ficha de tu personaje).\n\nAl igual que con tus Amigos influyentes iniciales, puedes ampliar tu lista de amigos la primera vez que aterrices en una nueva ubicación.",
+      "class":"Comunicador"      
+		},
+		"(Sp) Player": {
+			"name": "(Com) Jugador",
+      "description": "Siempre sabes cuando alguien te está mintiendo.\n\nEsta habilidad funciona en todas las situaciones, sin restricciones. Es muy poderoso, pero también una maldición. Ves todas las mentiras, incluso las amables.",
+      "class":"Comunicador"      
+		},
+		"(Sp) Purpose": {
+			"name": "(Com) Objetivo",
+      "description": "Você pode gastar sua armadura especial para se esforçar quando for derrotado por sua oposição ou quando estiver sob o efeito de ferimentos.\n\nAo resistir com Convicção, ganhe +1d.\n\nAo usar essa habilidade, marque a caixa de armadura na sua cartilha. Ser superado pode ser devido à qualidade, potência ou escala. Estar sob o efeito de ferimentos significa agir com uma penalidade de dano, embora você possa usar este esforço para ignorar a penalidade de dano (como por se esforçar). Se usar esta habilidade para se esforçar, você obtém um dos benefícios (+1d, +1 efeito, agir apesar de danos graves), mas não recebe 2 de estresse. Sua armadura especial é reestabelecida ao selecionar sua carga no início de um trabalho.",
+      "class":"Comunicador"      
+		},
+		"(Sp) Subterfuge": {
+			"name": "(Com) Subterfúgio",
+      "description": "Puedes gastar tu armadura especial para resistir una consecuencia de la persuasión o la sospecha.\n\nCuando resistas inteligentemente, gana +1d.\n\nCuando uses esta habilidad, tacha la casilla de armadura en tu ficha. Las personas que dudan de tus mentiras, historias, disfraces, etc., cuentan con el propósito de sospechar o persuadir. Tu armadura especial se restablece cuando seleccionas tu carga al comienzo de un trabajo.",
+      "class":"Comunicador"      
+		},
+		"(Sp) Xeno": {
+			"name": "(Com) Xeno",
+      "description": "Aparte de ser diplomáticos, los xenos comunicadores son algo poco común en la Hegemonía.\n\nEn el crimen organizado, los xenos son mucho más aceptados y, para algunos, incluso preferidos.\n\nEn las aventuras espaciales hay muchos ejemplos de empáticos naturales, especies con funciones cognitivas avanzadas, o incluso robots de protocolo que sirven como comunicadores para su tripulación.\n\nCuando consideres tu legado xeno, piensa en cómo se comunica tu especie y trabaja con tu master para descubrir cómo estos estilos de comunicación podrían manifestarse en el juego.",
+      "class":"Comunicador"      
+		},
+		"(St) Book Learning": {
+			"name": "(Dr) Lectura",
+      "description": "Hablas varios idiomas y tienes una amplia formación.\n\nEstudiar durante una actividad fuera del trabajo te da +1d.\n\nComunicarte casi nunca es un problema para ti. Además, tienes experiencia en casi todas las materias académicas que se te presenten, y eres capaz de reunir información para descubrir lo que has aprendido en esos estudios.",
+      "class":"Doctor"      
+		},
+		"(St) Combat Medic": {
+			"name": "(Dr) Médico de Combate",
+      "description": "Eres capaz de usar tu armadura especial para resistir cualquier consecuencia mientras atiendes a un paciente.\n\nCuando medicas a alguien en combate, eliminas 1 estrés.\n\nCuando uses esta habilidad, marca la casilla de armadura en tu ficha. Al resistir las consecuencias, pueden ser para ti, como resultado de una de tus tiradas, o para proteger al paciente. Tu armadura especial se restablece cuando seleccionas tu carga al comienzo de un trabajo.",
+      "class":"Doctor"      
+		},
+		"(St) Dr. Strange": {
+			"name": "(Dr) Dr. Extraño",
+      "description": "Tus investigaciones y campos de estudio son extraños, esotéricos y tienen un enfoque místico.\n\nSiempre puedes manipular artefactos Precursores de forma segura.\n\nCuando estudies un artefacto o hagas una tiradad de Medicina con una sustancia extraña, puedes preguntarte una de las siguientes cosas:\n\n¿Qué puede hacer esto?\n\n¿Por qué puede ser peligroso?\n\nSe requiere una tirada de sintonizar para manipular un artefacto Precursor de forma segura. Cuando hagas tus preguntas, puede ser además de cualquier otra cosa que vaya a hacer con el artefacto o la sustancia. Trata esto como una tirada de recopilación de información en la que has obtenido un 6.",
+      "class":"Doctor"      
+		},
+		"(St) I'm a Doctor Not a...": {
+			"name": "(Dr) Soy un Médico, No un...",
+      "description": "Puedes forzarte para usar tu puntuacion de Medicina mientras realizas una acción diferente. Indica qué paciente, investigación o rango te ha enseñado este truco.\n\nTen en cuenta que las habilidades iniciales no pueden ser elegidas a través de la habilidad especial de Veterano.\n\nCuando usas esta habilidad, aprendemos un poco más sobre tu pasado. Considere la posibilidad de presentar a tus contactos estos hallazgos cuando corresponda.",
+      "class":"Doctor"      
+		},
+		"(St) Moral Compass": {
+			"name": "(Dr) Brújula Moral",
+      "description": "Cuando hagas lo correcto a costa de ti mismo, marca xp (cualquier categoría).\n\nEl coste para ti debe ser real, aunque no tiene por qué ser devastador. Perder una oportunidad importante, sufrir un revés en un proyecto o tener una discusión acalorada con un amigo son algunos ejemplos.",
+      "class":"Doctor"      
+		},
+		"(St) Patch": {
+			"name": "(Dr) Remiendo",
+      "description": "Puedes medicar a alguien durante un trabajo permitiendo que el paciente ignore los efectos de una penalización por daño.\n\nUna tirada exitosa dura todo el trabajo. Aunque tu paciente puede ignorar los efectos de la penalización por daño, esto no elimina la penalización; sigue habiendo menos casos de heridas adicionales.",
+      "class":"Doctor"      
+		},
+		"(St) Physicker": {
+			"name": "(Dr) Terapeuta",
+      "description": "Eres capaz de estudiar una enfermedad, una herida o un cadáver y reunir información de la escena del crimen. Además, tu equipo recibe +1d a las tiradas de recuperación.\n\nEsta habilidad suele representar un entrenamiento formal, ya que te permite realizar una investigación forense de un cadáver o deconstruir científicamente una enfermedad. La bonificación de recuperación de tu tripulación sólo se aplica si ayudas a tratar las heridas o lesiones en cualquier momento de la recuperación.",
+      "class":"Doctor"      
+		},
+		"(St) Under Pressure": {
+			"name": "(Dr) Bajo Presión",
+      "description": "Añade un gambito a la reserva de dados cada vez que tú o un miembro de la tripulación reciba un daño de nivel 2 o superior.\n\nPara ganar el gambito, la consecuencia aplicada resultante debe ser de nivel 2 o superior; si se resiste o se reduce por debajo de ese nivel, no ganas el gambito.",
+      "class":"Doctor"      
+		},
+		"(St) Welcome Anywhere": {
+			"name": "(Dr) Bienvenido en Cualquier Lugar",
+      "description": "Mientras lleves tu traje de médico, serás bienvenido, incluso en lugares peligrosos.\n\nObtén +1d a Socializar y Convencer ofreciéndote a cuidar a cualquiera que lo necesite.\n\nCuando te necesiten, serás reconocible como médico y valioso para los que viven la dura vida de Procyon.", 
+      "class":"Doctor"      
+		},
+		"(St) Xeno": {
+			"name": "(Dr) Xeno",
+      "description": "Hay innumerables especies con un talento especial para la ciencia médica y con sentidos mejorados que hacen innecesario un escáner médico.\n\nPiensa en cómo podrías abordar la curación de forma diferente a la de un médico humano.\n\nPuede que no estés acostumbrado a especies con un solo corazón. O puede que te resulte irritante que otras personas no puedan regenerar sus miembros como los tuyos.\n\nDisfruta y celebra las diferencias.",
+      "class":"Doctor"      
+		}
+	}
+}

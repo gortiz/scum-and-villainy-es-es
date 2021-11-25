@@ -1,0 +1,249 @@
+{
+	"label": "Módulos de la Nave",
+  "mapping": {
+    "description": "data.description",
+    "class":"data.class"
+  },
+
+	"entries": {
+		"(A) AI Module": {
+			"name": "(A) Módulo IA",
+      "description": "Software conectado a un núcleo Ur de inteligencia artificial, con filamentos de fibra óptica en toda la nave. Puede automatizar tareas o gestionar la nave en nombre de la tripulación. Módulo de personalidad sarcástica disponible de forma gratuita."
+		},
+		"(A) Armory": {
+			"name": "(A) Armería",
+      "description": "Una sala segura con las armas y armaduras de la tripulación. Todas las armas y armaduras de la tripulación se consideran superiores, si no lo son ya."
+		},
+		"(A) Brig": {
+			"name": "(A) Celdas",
+      "description": "La prisión del espacio. No es adecuado para el encarcelamiento a largo plazo. Impedirá la mayoría de los intentos de fuga."
+		},
+		"(A) Galley": {
+			"name": "(A) Cantina",
+      "description": "Una cocina combinada con una zona de comedor. Hace que los viajes más largos sean mucho más fáciles. Incluye almacenamiento para alimentos frescos."     
+		},
+		"(A) Medical Bay": {
+			"name": "(A) Ala Médica",
+      "description": "Una sala limpia con equipos médicos. No es un verdadero hospital, pero es suficiente para curar la mayoría de las heridas. Almacenamiento de medicamentos y escáneres médicos. Añade +1d a todas las tiradas de recuperación de la tripulación."
+		},
+		"(A) Science Bay": {
+			"name": "(A) Ala Cinetífica",
+      "description": "Puede utilizarse para analizar las anomalías y los artefactos de los precursores. Almacenamiento seguro para cosas que podrían reaccionar de forma extraña con el resto de la nave (o la física)."
+		},
+		"(A) Shields": {
+			"name": "(A) Escudos",
+      "description": "Trampas de partículas y deflectores electromagnéticos. Puede ser sometido con fuego concentrado. Cuenta como blindaje contra las armas de la nave y las descargas de energía. Absorbe completamente los disparos de los blasters. Cuesta dos mejoras en lugar de una."
+		},
+		"(C) Fake Transponder": {
+			"name": "(C) Transpondedor Falso",
+      "description": "Transmite la señal de otra nave o reproduce una potente grabación de los ecos de los sensores (o actúa como baliza). Puede utilizarse a distancia."
+		},
+		"(C) Long-Range Scanner": {
+			"name": "(C) Escáner de Largo Alcance",
+      "description": "Proporciona una variedad de lecturas del espectro electromagnético y gravimétricas, dando a la tripulación un aviso previo de hasta una docena de minutos-luz de distancia."
+		},
+		"(C) Nexus Link": {
+			"name": "(C) Conexión Nexus",
+      "description": "Una conexión a la Red del Sistema Hegemónico. Permite la actualización de noticias, la mensajería dentro del sistema en tiempo real y el acceso a las redes de sensores de todo el sistema. Inseguro."
+		},
+		"(C) Quantum Encryptor": {
+			"name": "(C) Encriptador Cuántico",
+      "description": "Cifra las comunicaciones y el almacenamiento de datos. Asegura el blindaje contra la interceptación de las comunicaciones digitales. Los datos de la nave se almacenan en un estado seguro hasta que se desbloquean."
+		},
+		"(C) Targeting Computer": {
+			"name": "(C) Mira Automática",
+      "description": "Maneja los cálculos y los objetivos de los sistemas de armas sin que un miembro de la tripulación tenga que hacerlo. Haz una tirada de comunicación al disparar."
+		},
+		"(Ce) Hard Knocks": {
+			"name": "(Ce) Golpes Fuertes",
+      "description": "A veces la suerte es sólo la experiencia ganada con esfuerzo. Tu equipo comienza cada trabajo con +1 gambito. Desbloquearlo cuesta dos mejoras, en lugar de las habituales.",
+      "class":"Cerberus"      
+		},
+		"(Ce) Personal Vehicles": {
+			"name": "(Ce) Vehículos Personales",
+      "description": "Tu tripulación cuenta con unas cuantas (quizás una por miembro de la tripulación) elegantes naves monoplaza que pueden plegarse lo suficiente como para caber en un espacio de aparcamiento razonable.\n\nPueden llevar armas básicas, aunque no pueden dañar seriamente nada del tamaño de un carguero o más grande. Puede que quieras una pista de aterrizaje en tu nave. Desbloquearlo cuesta dos mejoras, en lugar de las habituales.",
+      "class":"Cerberus"      
+		},
+		"(Ce) Smooth Criminals": {
+			"name": "(Ce) Criminales de Guante Blanco",
+      "description": "A veces la legalidad es sólo una cuestión de quién tiene el arma. Cada miembro de la tripulación gana +1 casilla de estrés (total 10). Desbloquearlo cuesta tres mejoras, en lugar de las habituales.",
+      "class":"Cerberus"      
+		},
+		"(Ce) Stun Weapons": {
+			"name": "(Ce) Armas Aturdidoras",
+      "description": "Una gran variedad de armas para capturar y proteger a los prisioneros sin que sufran lesiones (graves). Esto incluye, pero no se limita a:\n\n- Esposas. [0 carga]\n- Bastones de aturdimiento. [1 carga]\n- Modo aturdidor en los blasters. No de tipo pesado. [1 carga]\n- Granadas de aturdimiento. Reemplaza el detonador en la ficha. [1 cargo]\n- Drogas de noqueo. Puede que no funcione con algunos xenos. [0 carga]",
+      "class":"Cerberus"      
+		},
+		"(Ce) Tracers": {
+			"name": "(Ce) Rastreadores",
+      "description": "Muchas maneras de seguir tus objetivos. Incluye pequeños clips que se pueden ocultar en la ropa con una ligera palmada en la espalda, balizas que se pueden fijar al casco e incluso clonadores de transmisión para las comunicaciones. La legalidad varía (normalmente según la importancia del objetivo), pero una licencia lo hace todo legal.",
+      "class":"Cerberus"      
+		},
+		"(E) Afterburners": {
+			"name": "(Mo) Post-combustión",
+      "description": "Vierte el combustible crudo en los motores para una corta ráfaga de velocidad. Puede tratar los motores como de mayor valor para una tirada, pero puede dañarlos."
+		},
+		"(E) Cloaking Device": {
+			"name": "(Mo) Dispositivo de Camuflage",
+      "description": "No hace necesariamente que la nave sea invisible a los ojos, pero enmascara su firma térmica y eléctrica, lo que hace muy difícil detectarla o identificarla. Súper ilegal."
+		},
+		"(E) Gravitic Field Generator": {
+			"name": "(Mo) Generador de Campo Gravitacional",
+      "description": "Crea un gran campo gravitatorio que se extiende de nave a nave. Se puede utilizar para agarrar o remolcar. Temperamental y peligroso. Sólo un prototipo del Gremio. No es legal."
+		},
+		"(E) Jump Drive": {
+			"name": "(Mo) Motor de Salto",
+      "description": "Un motor especial que puede activar las puertas Ur que conectan los sistemas y trasladar las naves a las vías hiperespaciales."
+		},
+		"(Fi) Black Market Contacts": {
+			"name": "(Dr) Contactos en el Mercado Negro",
+      "description": "Capaz de conseguir todos los módulos (incluso los ilegales) que necesita tu nave, aunque estés en búsqueda. Ingenioso. Móvil. Los módulos ilegales (como es habitual) pueden requerir que hagas algún trabajo para adquirirlos. Tu contacto puede saber dónde encontrarlos y ayudarte, pero depende de que consigas cosas que simplemente no están disponibles a cualquier precio (prototipos, dispositivos raros y cosas increíblemente ilegales como cañones integrados).",
+      "class":"Dragón de Fuego"      
+		},
+		"(Fi) Driven": {
+			"name": "(Dr) Determinado",
+      "description": "Cada PJ obtiene +1 caja de trauma. Puedes traer a un PJ con 4 traumas de vuelta al juego si lo deseas. Desbloquearlo cuesta 3 mejoras, en lugar de las habituales.",
+      "class":"Dragón de Fuego"      
+		},
+		"(Fi) Popular Support": {
+			"name": "(Dr) Apoyo Popular",
+      "description": "Se necesita mucho trabajo para ganar los corazones y las mentes, pero tu causa tiene partidarios entre la gente. Cuando te acerques a un planeta o estación, pregunta al master quién puede ser un simpatizante. Esto podría hacer que las fugas -y el simple hecho de andar por ahí mientras estés en búsqueda- sean mucho más fáciles. Desbloquearlo cuesta tres mejoras, en lugar de las habituales.",
+      "class":"Dragón de Fuego"      
+		},
+		"(Fi) Secret Base": {
+			"name": "(Dr) Base Secreta",
+      "description": "Podría estar dentro de las antiguas ruinas de Ur en un planeta. Quizás construcciones dentro de un enorme asteroide. Posiblemente una vieja estación olvidada, abandonada hace tiempo pero ahora reutilizada. Has encontrado y encargado un escondite lejos del ojo maligno de la Hegemonía, donde tú y tus aliados podéis reuniros, esconderos, lamer vuestras heridas y planear vuestros trabajos, todo ello sin que la Hegemonía se entere. Es secreto... por ahora.",
+      "class":"Dragón de Fuego"      
+		},
+		"(Fi) Way Blessed": {
+			"name": "(Dr) Bendecido por la Senda",
+      "description": "Algunas personas simplemente tienen suerte. La gente normal piensa que es una especie de señal. No lo pienses demasiado. Empiezas con +1 gambito al principio de cada trabajo. Desbloquearlo cuesta dos mejoras, en lugar de las habituales.",
+      "class":"Dragón de Fuego"      
+		},
+		"(G) Alien Pet": {
+			"name": "(E) Mascota Alienígena",
+      "description": "Adorables alborotadores o leales guardianes, estas criaturas suelen dar más problemas de los que valen. ¿De dónde lo has sacado?"
+		},
+		"(G) Land Transport": {
+			"name": "(E) Transporte Terrestre",
+      "description": "Transporte terrestre suficiente para toda la tripulación. Con neumáticos o planeando cerca del suelo. Pueden ser bicicletas motorizadas, skimmers, barcos o coches muy pequeños."
+		},
+		"(G) Recon Drone": {
+			"name": "(E) Dron de Reconocimiento",
+      "description": "Un pequeño dron para la vigilancia, la cartografía y la recopilación de información en el espacio y la atmósfera. Puede recibir instrucciones sencillas: 'Escanee la mina en busca de señales de calor'. Utiliza el valor de comunicación para tiradas."
+		},
+		"(G) Survival Gear": {
+			"name": "(E) Equipo de Supervivencia",
+      "description": "Equipo de camping, tubos de oxígeno, equipo de escalada, equipo de buceo. Todo lo que una tripulación emprendedora necesita para sobrevivir en una roca inhóspita pero no inhabitable. Trajes de destilación incluidos."
+		},
+		"(G) Workshop": {
+			"name": "(E) Taller",
+      "description": "Cortadoras de plasma, un nanoensamblador, almacenamiento de componentes metálicos y eléctricos, una fragua... todo lo necesario para construir, modificar o desmontar máquinas, armas y herramientas complejas. Añade calidad +1 a las tiradas de construcción."
+		},
+		"(H) Cargo Hold": {
+			"name": "(Ca) Bodega de Carga",
+      "description": "Espacio suficiente en la nave para transportar una remesa moderada (previo pago). La carga es evidente cuando se aborda el barco y no se toman precauciones especiales para ocultar su contenido."
+		},
+		"(H) Crew Quarters": {
+			"name": "(Ca) Alojamentos de la Tripulación",
+      "description": "Se puede dormir en cualquier lugar de la nave, pero los alojamientos de la tripulación son adecuados. Los alojamientos de la tripulación ofrecen privacidad y comodidad en un ámbito en el que esas cosas son un lujo. Además, no hay que compartir, ni saber quién es el primer compañero que ronca."
+		},
+		"(H) Landing Bay": {
+			"name": "(Ca) Muelle de Aterrizaje",
+      "description": "Esclusas, puertas de compartimentos y rampas de despegue para alojar lanzaderas y pequeños aviones de combate para un piloto de despegue terrestre y espacial."
+		},
+		"(H) Smuggling Compartments": {
+			"name": "(Ca) Compartimentos de Contrabando",
+      "description": "Como carga (puede llevar un pequeño cargamento), pero no aparecerá en los escaneos rutinarios o en las inspecciones visuales de la nave. Con un valor de casco de 3+, también proporciona soporte vital a las personas."
+		},
+		"(St) Dark Hyperspace Lane Maps": {
+			"name": "(Da) Mapa de Rutas del Hyperespacio Oscuro",
+      "description": "Se trata de rutas a través de sistemas que no se mantienen oficialmente. A veces más rápido. Siempre menos patrullado. A menudo están llenos de criaturas de la Senda, piratas y otros malhechores. El viaje nunca es tan suave como en las rutas mantenidas por Star Smiths. Nadie quiere pensar mucho en los pobres tontos que murieron o se perdieron para siempre trazando estas rutas.",
+      "class":"Bailarina Estelar"      
+		},
+		"(St) False Ship Papers": {
+			"name": "(Da) Documentos Falsos de la Nave",
+      "description": "Todo contrabandista necesita unos documentos bien falsificados, que proporcionen a la tripulación y a la nave unas identidades que sean menos atacadas en cualquier sistema. Estos documentos suelen simplificar el viaje por la puerta, si el transpondedor y el barco son compatibles. Tienes unos cuantos conjuntos diferentes entre los que puedes cambiar, aunque tengas que practicar respondiendo a un nuevo nombre en cada punto de control. Puede hacer más difícil seguirte y rastrearte a través de las facciones enemigas.",
+      "class":"Bailarina Estelar"      
+		},
+		"(St) Lucky Charm": {
+			"name": "(Da) Amuleto de la Suerte",
+      "description": "Ya sea un artefacto de Ur o unos recuerdos expuestos en el puente, a veces la suerte consiste en tener fe en algo. El equipo comienza con +1 gambito para cada trabajo. Desbloquearlo cuesta dos mejoras, en lugar de la habitual.",
+      "class":"Bailarina Estelar"      
+		},
+		"(St) Smuggler's Rigging": {
+			"name": "(Da) Táctica del Contrabandista",
+      "description": "Tiras o pieles de imitación que se utilizan para sujetar objetos pequeños cerca del cuerpo, y que son una buena forma de dejarlos pasar por la seguridad. Añade un poco de espacio para llevar las manos libres mientras se trabaja fuera de la nave, y permite llevar un blaster a una reunión bien protegido mientras se mantiene la elegante silueta de la chaqueta. Sólo puedes llevar/ocultar un máximo de 1 objeto de carga de esta manera.",
+      "class":"Bailarina Estelar"      
+		},
+		"(St) Thrillseekers": {
+			"name": "(Da) Buscadores de Emociones",
+      "description": "Cada PJ obtiene +1 casilla de estrés (aumenta el estrés hasta un máximo de 10). El desbloqueo cuesta tres actualizaciones, no sólo una.",
+      "class":"Bailarina Estelar"      
+		},
+		"(T) Insight": {
+			"name": "(T) Perspicacia",
+      "description": "Puede representar un lugar apropiado en su nave, manuales relevantes o mentores expertos. Obtén 2 xp en la categoría correspondiente en lugar de 1 al realizar la acción Entrenar en tiempo libre."
+		},
+		"(T) Playbook": {
+			"name": "(T) Ficha",
+      "description": "Puede representar un lugar apropiado en su nave, manuales relevantes o mentores expertos. Obtén 2 xp en la categoría correspondiente en lugar de 1 al realizar la acción Entrenar en tiempo libre."
+		},
+		"(T) Prowess": {
+			"name": "(T) Proeza",
+      "description": "Puede representar un lugar apropiado en su nave, manuales relevantes o mentores expertos. Obtén 2 xp en la categoría correspondiente en lugar de 1 al realizar la acción Entrenar en tiempo libre."
+		},
+		"(T) Resolve": {
+			"name": "(T) Determinación",
+      "description": "Puede representar un lugar apropiado en su nave, manuales relevantes o mentores expertos. Obtén 2 xp en la categoría correspondiente en lugar de 1 al realizar la acción Entrenar en tiempo libre."
+		},
+		"(U) Holo-Emitters": {
+			"name": "(M) Holo-Emisores",
+      "description": "Se utiliza para las holoconferencias y las exhibiciones llamativas. Las imágenes no suelen resistir un examen minucioso, pero pueden ser convincentes durante un breve periodo de tiempo. Vienen con juegos y vídeos geniales."
+		},
+		"(U) Intruder Alarm": {
+			"name": "(M) Alarma de Intrusos",
+      "description": "Un conjunto completo de sensores en la nave, incluyendo sensores de movimiento, códigos en las puertas y botones de pánico capaces de activar una bocina y luces rojas intermitentes si algo está fuera de lugar."
+		},
+		"(U) Land Rover": {
+			"name": "(M) Land Rover",
+      "description": "Un vehículo blindado para todo tipo de terrenos, capaz de transportar cargas pesadas y personas por tierra. El cabrestante de alta potencia y los adhesivos decorativos vienen de serie."
+		},
+		"(U) Power Reserves": {
+			"name": "(M) Reservas de Energía",
+      "description": "Baterías y fuentes de energía capaces de suministrar energía a la nave independientemente del motor. Dura unas horas de funcionamiento con un uso mínimo o unos minutos a plena potencia. Actúa como una armadura contra los percances relacionados con la energía en la nave."
+		},
+		"(U) Shuttle": {
+			"name": "(M) Lanzadera",
+      "description": "Una pequeña nave espacial capaz de transportar a unas pocas personas desde el planeta hasta la órbita. Capacidad limitada de los sistemas: tratar cualquier sistema como de calidad cero frente a las naves reales. Se puede acoplar a esclusas, pero es mejor guardarlo en una bahía de aterrizaje si no quieres que te alcancen asteroides perdidos o el disparo de un cañón de partículas."
+		},
+		"(U) Stasis Pods": {
+			"name": "(M) Pods de Estásis",
+      "description": "Las vainas de última generación ofrecen espacio para un huésped gravemente herido, mortalmente enfermo o inconsciente. No impide los sueños."
+		},
+		"(U) Vault": {
+			"name": "(M) Cofre",
+      "description": "Muy útil para proteger los objetos de valor durante los viajes espaciales. La cerradura programable permite códigos de seguridad personalizados, códigos de un solo uso y registros de acceso. Utiliza el valor del casco cuando es desafiado."
+		},
+		"(W) Coherence Cannon": {
+			"name": "(Ar) Cañón de Cohesión",
+      "description": "Un arma capital. Capaz de un solo disparo hasta que se repare o se recargue en naves más pequeñas que los blindados. Puede freír los sistemas. Increíblemente mortal. Súper ilegal."
+		},
+		"(W) Grappling Hooks": {
+			"name": "(Ar) Ganchos",
+      "description": "Oficialmente para frenar en asteroides y pescar carga, es una serie de redes, cuerdas y brazos capaces de atar dos naves para remolcarlas o abordarlas. Legal."
+		},
+		"(W) Mining Drill": {
+			"name": "(Ar) Taladro Minero",
+      "description": "Taladro violento, de corto alcance y de gran potencia. Vaporiza la roca. Fácilmente modificable para perforar cascos. Genial."
+		},
+		"(W) Missiles": {
+			"name": "(Ar) Misiles",
+      "description": "Proyectiles con propulsión. No son legales."
+		},
+		"(W) Particle Cannons": {
+			"name": "(Ar) Cañones de Partículas",
+      "description": "¡Pew! ¡Pew! Normalmente se fija en una dirección en las naves personales. A menudo se cruzan. Legal sólo con permiso."
+		}
+	}
+}

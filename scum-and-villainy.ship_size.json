@@ -1,0 +1,29 @@
+{
+	"label": "Tamaños de Nave",
+  "mapping": {
+    "description": "data.description"
+  },  
+ 
+	"entries": {
+		"Corvette": {
+			"name": "Corveta",
+      "description": "Las grandes naves espaciales no pueden aterrizar en los planetas, deben permanecer en órbita y utilizar una lanzadera para aterrizar."
+		},
+		"Dreadnought": {
+			"name": "Acorazada",
+      "description": "Naves enormes, no pueden aterrizar en los planetas, suelen ser el buque insignia de una gran flota o una base móvil para naves más pequeñas."
+		},
+		"Freighter": {
+			"name": "Carguero",
+      "description": "Naves medianas, pueden aterrizar en planetas, el tamaño de nave más común."
+		},
+		"Frigate": {
+			"name": "Fragata",
+      "description": "Naves enormes, no pueden aterrizar en los planetas, a menudo naves de guerra con varias armas pesadas."
+		},
+		"Personal": {
+			"name": "Personal",
+      "description": "Naves pequeñas, pueden aterrizar en los planetas, pueden llevar armas pequeñas, pero no lo suficiente como para dañar seriamente las naves más grandes."
+		}
+	}
+}

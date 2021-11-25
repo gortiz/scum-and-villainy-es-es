@@ -1,0 +1,61 @@
+{
+	"label": "Consecuencias de ser buscado",
+	"entries": {
+		"Arrest": {
+			"name": "Arresto",
+			"description": "<p>Un detective presenta un expediente de pruebas a un juez para iniciar el caso contra tu tripulación. La policía del sistema envía una patrulla para deteneros (una banda al menos igual en <strong>escala</strong> a tu <strong>nível de búsqueda</strong> o una nave de ese nivel). Páguales con <strong>cred</strong> igual a tu <strong>nível de búsqueda +3</strong>, entregar a alguien a prisión (esto limpia tu <strong>atención</strong> y <strong>nível de búsqueda</strong> en el sistema) o intentar evitar la captura.</p>"
+		},
+		"Bounty Hunter": {
+			"name": "Caza Recompensas",
+			"description": "<p>Una facción enemiga contrata a un cazarrecompensas. Lucha, huye o paga. Si no tienes ninguna facción con estatus negativo, ahora evitas las desventuras.</p>"
+		},
+		"Collectors": {
+			"name": "Cobradores",
+			"description": "<p>Una agencia de cobros reclama parte de su barco. Págales <strong>2 cred</strong>, dáles componentes (eliminar un módulo de la nave) o hazlos desaparecer de otra manera.</p>"
+		},
+		"Cooperation": {
+			"name": "Cooperación",
+			"description": "<p>Una facción con la que tienes un estatus +2 o +3 te pide un 'favor'. Acepta ayudar o pierde el estatus con ellos. Si no tienes un estatus de facción +2 o +3, ahora evitas las desventuras.</p>"
+		},
+		"Impounded": {
+			"name": "Confiscado",
+			"description": "<p>Las autoridades del muelle confiscan su barco. Sobornar a los estibadores para que levanten el bloqueo con <strong>2 cred</strong>, o capturar su nave de vuelta. Si no estás en un planeta o estación, evita las desventuras por ahora.</p>"
+		},
+		"Interrogation": {
+			"name": "Interrogatorio",
+			"description": "<p>Los funcionarios del sistema acorralan a uno de los PJ para interrogarlo sobre los crímenes de la tripulación. ¿Cómo se las arreglaron para capturarlo? Pagar con <strong>2 Cred</strong>, o le presionan <strong>(nível 2 de daño)</strong>. Y les dirás lo que quieren saber <strong>(+2 de atención)</strong>. Puedes resistir cada una de estas consecuencias por separado.</p>"
+		},
+		"New \"Friends\"": {
+			"name": "Nuevos \"Amigos\"",
+			"description": "<p>Una facción neutral te pide que hagas un trabajo extremadamente peligroso, pagando poco o generando más <strong>atención</strong>de lo normal (el master decide). Acepta o pierde un estatus con ellos.</p>"
+		},
+		"Out of Gas": {
+			"name": "Sin Combustible",
+			"description": "<p>Una pieza de su nave falla catastróficamente, dañando el sistema y dejándolo inoperativo hasta su reparación. Si no usaste tu barco en el último trabajo, ahora evitarás las desventuras.</p>\n<p>Este desajuste puede producirse durante el vuelo entre planetas o sistemas, o en el camino hacia/desde un trabajo. Este fallo significa que no se puede utilizar todo el sistema (por ejemplo, los motores). ¿A quién hay que pedir ayuda y cuánto cuesta?</p>"
+		},
+		"Pirates!": {
+			"name": "Piratas!",
+			"description": "<p>Los piratas intentan tomar el control de tu barco por la fuerza. Adelantar, luchar o hacer un trato. Si no usaste tu barco en el último trabajo, evita las desventuras ahora.</p>"
+		},
+		"Reprisals": {
+			"name": "Represalias",
+			"description": "<p>Una facción enemiga se mueve contra ti o tus amigos. Paga <strong>1 cred</strong> por categoría de facción, permitir que se metan contigo o contraatacar. Si no tienes ninguna facción con estatus negativo, ahora evitas las desventuras.</p>"
+		},
+		"Ship Trouble": {
+			"name": "Problemas en la Nave",
+			"description": "<p>El sistema de una nave se rompe. Daña un sistema (el master decide).</p> <blockquote> <p>Puedes reparar el sistema con normalidad, aunque tendrás que hacer frente a las consecuencias del daño en el momento en que se produzca. Esta complicación puede ocurrir durante el vuelo entre planetas o sistemas, o en el camino hacia/desde un trabajo.</p> </blockquote></p>"
+		},
+		"Unquiet Black": {
+			"name": "Vacío Inquietante",
+			"description": "<p>Un extraterrestre o criatura de la Senda se las arregla para subir a bordo. Adquiere los servicios de un místico o exterminador para destruirlo o vencerlo, o enfréntate a él tú mismo.</p> <blockquote> <p>Trata la <strong>magnitud de la criatura de la Senda como igual de Grave que el nivel de búsqueda de la tripulación en el sistema</strong>. Parásitos, cargas que no sabías que estaban vivas, extrañas criaturas que se esconden en rutas no mapeadas y extraños efectos físicos por usar tus unidades de salto más allá de su capacidad pueden aplicarse aquí.</p> </blockquote>"
+		},
+		"Ur Field": {
+			"name": "Campo Ur",
+			"description": "<p>El portal más cercano os llama a cada uno en un idioma que no podéis entender. Resiste con <strong>Determinación</strong> o recibe <strong>daño de nivel 1</strong> de las visiones que no puedes ignorar.</p> <blockquote> <p>Lo que decidas hacer con las visiones depende de ti. Terminan después de que la tripulación abandone el sistema o en el siguiente día libre, lo que ocurra primero.</p> </blockquote>"
+		},
+		"Wanted Level 4": {
+			"name": "Nível de Búsqueda 4: Nave de Guerra",
+			"description": "<p>El gobernador envía una nave de guerra Legionaria o Malklaith para capturar tu nave. Cuando llegues a <strong>nivel de búsqueda 4</strong> en un sistema, La guardia personal del gobernador ha sido enviada para llevarte a la justicia, y tendrás que encontrar una forma de escapar. No se les puede sobornar, y luchar contra ellos sería una temeridad. En cualquier caso, <strong>si sobrevives</strong> al encuentro, tu <strong>nivel de búsqueda cae en 1</strong> Los recursos para tu búsqueda no son infinitos.</p> <blockquote> <p>Por lo general, el barco será una fragata bien armada con algunas naves personales. Puedes considerar la posibilidad de repintar o modificar tu nave, o conseguir documentos y transpondedores falsos para librarte de experiencias similares.</p> </blockquote>"
+		}
+	}
+}

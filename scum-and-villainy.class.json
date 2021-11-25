@@ -1,0 +1,53 @@
+{
+	"label": "Clases",
+  "mapping": {
+    "description": "data.description",
+    "experience_clues": "data.experience_clues",
+    "def_abilities": "data.def_abilities"  
+  },  
+  
+	"entries": {
+		"Mechanic": {
+			"name": "Mecánico",
+      "description": "Un mecánico y hacker",
+      "experience_clues": "Cuando juegues como Mecánico, gana xp afrontando retos con habilidad técnica o ingenio.",
+      "def_abilities": "(Me) Chatarrero, Slice, Nisa, Stev, Len, Kenn"     
+		},
+		"Muscle": {
+			"name": "Músculo",
+      "description": "Un luchador peligroso e intimidante",
+      "experience_clues": "Cuando juegues como Músculo, gana xp enfrentándote a retos con fuerza o amenazas.",
+      "def_abilities": "(Mu) Imparable, Krieger, Shod, Chon-zek, Yazu, Aya"     
+		},
+		"Mystic": {
+			"name": "Místico",
+      "description": "Un vagabundo galáctico en contacto con la Senda",
+      "experience_clues": "Cuando juegues como Místico, gana xp aceptando retos con la Sabiduría o la Senda.",
+      "def_abilities": "(Mi) La Senda, Horux, Hicks, Laxx, Rye, Blish"
+ 		},
+		"Pilot": {
+			"name": "Piloto",
+      "description": "Un mago del manejo de naves y adicto al peligro",
+      "experience_clues": "Cuando juegues como Piloto, gana xp aceptando retos de velocidad o habilidad.",
+      "def_abilities": "(P) Piloto Estrella, Yattu, Triv, Choss, Meris, Mav"     
+		},
+		"Scoundrel": {
+			"name": "Canalla",
+      "description": "Un desconectado y afortunado superviviente",
+      "experience_clues": "Cuando juegues como canalla, gana xp superando retos con encanto o atrevimiento.",
+      "def_abilities": "(Ca) Fortuito, Nyx, Ora, Jal, Rhin, Battro"     
+		},
+		"Speaker": {
+			"name": "Comunicador",
+      "description": "Una persona respetable",
+      "experience_clues": "Cuando juegues como Comunicador, gana xp superando retos con engaño o influencia.",
+      "def_abilities": "(Com) Aire de Respeto, Arryn, Manda, Kerry, Je-zee, ?"     
+		},
+		"Stitch": {
+			"name": "Doctor",
+      "description": "Un sanador o científico que viaja por el espacio",
+      "experience_clues": "Cuando juegues como Doctor, gana xp afrontando retos con visión o compasión.",
+      "def_abilities": "(Dr) Soy un Médico, No un..., Jackev, Alben, Ditha, Juda, Lynie"     
+		}
+	}
+}
