@@ -108,7 +108,7 @@
 		},
 		"(My) Center": {
 			"name": "(Mi) Centro",
-      "description": "Ganas la meditación como un vício. Al satisfacerlo, elimina +1 de estrés y añade Visiones Oscuras como un posible exceso.\n\nContemplar el universo conlleva sus riesgos. Al elegir Visiones Oscuras como exceso, la Senda te muestra a un ser querido, un contacto o un amigo en gran peligro.",
+      "description": "Ganas la meditación como un vicio. Al satisfacerlo, elimina +1 de estrés y añade Visiones Oscuras como un posible exceso.\n\nContemplar el universo conlleva sus riesgos. Al elegir Visiones Oscuras como exceso, la Senda te muestra a un ser querido, un contacto o un amigo en gran peligro.",
       "class":"Místico"      
 		},
 		"(My) Kinetics": {
@@ -148,7 +148,7 @@
 		},
 		"(My) Way Shield": {
 			"name": "(Mi) Escudo de la Senda",
-      "description": "Puedes bloquear los rayos blaster con la Senda (resiste con Determinación).\n\nSi resistes un ataque blaster, puedes gastar 1 estrés para redirigir el fuego y hacer tu propio ataque con él.\n\nResistir los blasters de esta manera suele reducir el daño a cero.",
+      "description": "Puedes bloquear los rayos blaster con la Senda (resiste con Voluntad).\n\nSi resistes un ataque blaster, puedes gastar 1 estrés para redirigir el fuego y hacer tu propio ataque con él.\n\nResistir los blasters de esta manera suele reducir el daño a cero.",
       "class":"Místico"      
 		},
 		"(My) Xeno": {
@@ -293,7 +293,7 @@
 		},
 		"(Sp) Purpose": {
 			"name": "(Com) Objetivo",
-      "description": "Você pode gastar sua armadura especial para se esforçar quando for derrotado por sua oposição ou quando estiver sob o efeito de ferimentos.\n\nAo resistir com Convicção, ganhe +1d.\n\nAo usar essa habilidade, marque a caixa de armadura na sua cartilha. Ser superado pode ser devido à qualidade, potência ou escala. Estar sob o efeito de ferimentos significa agir com uma penalidade de dano, embora você possa usar este esforço para ignorar a penalidade de dano (como por se esforçar). Se usar esta habilidade para se esforçar, você obtém um dos benefícios (+1d, +1 efeito, agir apesar de danos graves), mas não recebe 2 de estresse. Sua armadura especial é reestabelecida ao selecionar sua carga no início de um trabalho.",
+      "description": "Puedes gastar tu armadura especial para esforzarte cuando tu oponente sea dde una clase superior o cuando estés bajo el efecto de las heridas.\n\nCuando resistas con Voluntad, gana +1d.\n\nCuando uses esta habilidad, marca la casilla de armadura especial en tu ficha. La superación de clase puede deberse a la calidad, el poder o la escala. Estar bajo el efecto de las heridas significa actuar con una penalización de daño, aunque puedes usar este esfuerzo para ignorar la penalización de daño (por ejemplo, esforzándote). Si usas esta habilidad para esforzarte, obtienes uno de los beneficios (+1d, +1 efecto, actuar a pesar del daño grave), pero no obtienes 2 de estrés. Tu armadura especial se restablece cuando seleccionas tu carga al comienzo de un trabajo.",
       "class":"Comunicador"      
 		},
 		"(Sp) Subterfuge": {
@@ -307,54 +307,54 @@
       "class":"Comunicador"      
 		},
 		"(St) Book Learning": {
-			"name": "(Dr) Lectura",
+			"name": "(Ci) Lectura",
       "description": "Hablas varios idiomas y tienes una amplia formación.\n\nEstudiar durante una actividad fuera del trabajo te da +1d.\n\nComunicarte casi nunca es un problema para ti. Además, tienes experiencia en casi todas las materias académicas que se te presenten, y eres capaz de reunir información para descubrir lo que has aprendido en esos estudios.",
-      "class":"Doctor"      
+      "class":"Cirujano"      
 		},
 		"(St) Combat Medic": {
-			"name": "(Dr) Médico de Combate",
+			"name": "(Ci) Médico de Combate",
       "description": "Eres capaz de usar tu armadura especial para resistir cualquier consecuencia mientras atiendes a un paciente.\n\nCuando medicas a alguien en combate, eliminas 1 estrés.\n\nCuando uses esta habilidad, marca la casilla de armadura en tu ficha. Al resistir las consecuencias, pueden ser para ti, como resultado de una de tus tiradas, o para proteger al paciente. Tu armadura especial se restablece cuando seleccionas tu carga al comienzo de un trabajo.",
-      "class":"Doctor"      
+      "class":"Cirujano"      
 		},
 		"(St) Dr. Strange": {
-			"name": "(Dr) Dr. Extraño",
+			"name": "(Ci) Dr. Extraño",
       "description": "Tus investigaciones y campos de estudio son extraños, esotéricos y tienen un enfoque místico.\n\nSiempre puedes manipular artefactos Precursores de forma segura.\n\nCuando estudies un artefacto o hagas una tiradad de Medicina con una sustancia extraña, puedes preguntarte una de las siguientes cosas:\n\n¿Qué puede hacer esto?\n\n¿Por qué puede ser peligroso?\n\nSe requiere una tirada de sintonizar para manipular un artefacto Precursor de forma segura. Cuando hagas tus preguntas, puede ser además de cualquier otra cosa que vaya a hacer con el artefacto o la sustancia. Trata esto como una tirada de recopilación de información en la que has obtenido un 6.",
-      "class":"Doctor"      
+      "class":"Cirujano"      
 		},
 		"(St) I'm a Doctor Not a...": {
-			"name": "(Dr) Soy un Médico, No un...",
+			"name": "(Ci) Soy un Médico, No un...",
       "description": "Puedes forzarte para usar tu puntuacion de Medicina mientras realizas una acción diferente. Indica qué paciente, investigación o rango te ha enseñado este truco.\n\nTen en cuenta que las habilidades iniciales no pueden ser elegidas a través de la habilidad especial de Veterano.\n\nCuando usas esta habilidad, aprendemos un poco más sobre tu pasado. Considere la posibilidad de presentar a tus contactos estos hallazgos cuando corresponda.",
-      "class":"Doctor"      
+      "class":"Cirujano"      
 		},
 		"(St) Moral Compass": {
-			"name": "(Dr) Brújula Moral",
+			"name": "(Ci) Brújula Moral",
       "description": "Cuando hagas lo correcto a costa de ti mismo, marca xp (cualquier categoría).\n\nEl coste para ti debe ser real, aunque no tiene por qué ser devastador. Perder una oportunidad importante, sufrir un revés en un proyecto o tener una discusión acalorada con un amigo son algunos ejemplos.",
-      "class":"Doctor"      
+      "class":"Cirujano"      
 		},
 		"(St) Patch": {
-			"name": "(Dr) Remiendo",
+			"name": "(Ci) Remiendo",
       "description": "Puedes medicar a alguien durante un trabajo permitiendo que el paciente ignore los efectos de una penalización por daño.\n\nUna tirada exitosa dura todo el trabajo. Aunque tu paciente puede ignorar los efectos de la penalización por daño, esto no elimina la penalización; sigue habiendo menos casos de heridas adicionales.",
-      "class":"Doctor"      
+      "class":"Cirujano"      
 		},
 		"(St) Physicker": {
-			"name": "(Dr) Terapeuta",
+			"name": "(Ci) Terapeuta",
       "description": "Eres capaz de estudiar una enfermedad, una herida o un cadáver y reunir información de la escena del crimen. Además, tu equipo recibe +1d a las tiradas de recuperación.\n\nEsta habilidad suele representar un entrenamiento formal, ya que te permite realizar una investigación forense de un cadáver o deconstruir científicamente una enfermedad. La bonificación de recuperación de tu tripulación sólo se aplica si ayudas a tratar las heridas o lesiones en cualquier momento de la recuperación.",
-      "class":"Doctor"      
+      "class":"Cirujano"      
 		},
 		"(St) Under Pressure": {
-			"name": "(Dr) Bajo Presión",
+			"name": "(Ci) Bajo Presión",
       "description": "Añade un gambito a la reserva de dados cada vez que tú o un miembro de la tripulación reciba un daño de nivel 2 o superior.\n\nPara ganar el gambito, la consecuencia aplicada resultante debe ser de nivel 2 o superior; si se resiste o se reduce por debajo de ese nivel, no ganas el gambito.",
-      "class":"Doctor"      
+      "class":"Cirujano"      
 		},
 		"(St) Welcome Anywhere": {
-			"name": "(Dr) Bienvenido en Cualquier Lugar",
+			"name": "(Ci) Bienvenido en Cualquier Lugar",
       "description": "Mientras lleves tu traje de médico, serás bienvenido, incluso en lugares peligrosos.\n\nObtén +1d a Socializar y Convencer ofreciéndote a cuidar a cualquiera que lo necesite.\n\nCuando te necesiten, serás reconocible como médico y valioso para los que viven la dura vida de Procyon.", 
-      "class":"Doctor"      
+      "class":"Cirujano"      
 		},
 		"(St) Xeno": {
-			"name": "(Dr) Xeno",
+			"name": "(Ci) Xeno",
       "description": "Hay innumerables especies con un talento especial para la ciencia médica y con sentidos mejorados que hacen innecesario un escáner médico.\n\nPiensa en cómo podrías abordar la curación de forma diferente a la de un médico humano.\n\nPuede que no estés acostumbrado a especies con un solo corazón. O puede que te resulte irritante que otras personas no puedan regenerar sus miembros como los tuyos.\n\nDisfruta y celebra las diferencias.",
-      "class":"Doctor"      
+      "class":"Cirujano"      
 		}
 	}
 }

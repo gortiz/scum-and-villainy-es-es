@@ -1,5 +1,5 @@
 {
-	"label": "Reputación de la Tripulação",
+	"label": "Reputación de la Tripulación",
   "mapping": {
     "description": "data.description"
   }, 
@@ -7,7 +7,7 @@
 	"entries": {
 		"Ambitious": {
 			"name": "Ambiciosa",
-      "description": "Tener o mostrar un fuerte deseo y determinación para tener éxito."
+      "description": "Tener o mostrar un fuerte deseo y voluntad para tener éxito."
 		},
 		"Brutal": {
 			"name": "Brutal",

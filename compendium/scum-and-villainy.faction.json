@@ -24,7 +24,7 @@
       "assets": "Una legión de la Guardia Hegemónica. El Escorpión (acorazado). Un psíquico ilegal.",  
       "quirks": "Extrañamente, hay pocos xenos entre la Legión.",  
       "allies": "Casa Malklaith, Gremio de Herreros Estelares",  
-      "enemies": "Cuchillos Grises, Iglesia de la Llama Estelar, Legión Perdida, El Torbellino",  
+      "enemies": "Cuchillos de Ceniza, Iglesia de la Llama Estelar, Legión Perdida, El Vórtice",  
       "situation": "Tallon ha ganado muchos elogios en el campo de batalla, pero juró limpiar el ejército hegemónico de nepotismo cuando su mando fue sacrificado por la hija de un noble. Utiliza a su teniente psíquica, Liyara, para analizar en secreto a los oficiales y colocar discretamente a los legionarios"       
 		},
 		"Acolytes of Brashkadesh": {
@@ -37,11 +37,11 @@
       "assets": "Un artefacto de Ur con el que todos los acólitos sintonizaron, llamado el Pilar de la Verdad",  
       "quirks": "La sintonía con el Pilar permite a los Acólitos comunicarse entre sí e invocar las habilidades y recuerdos de otros Acólitos, pudiendo actuar a través de ellos.",  
       "allies": "Mendicantes",  
-      "enemies": "Cuchillos Grises, Gremio de Ingenieros",  
+      "enemies": "Cuchillos de Ceniza, Gremio de Ingenieros",  
       "situation": "Los Acólitos están listos para comenzar la siguiente fase de crecimiento de sus seguidores, pero el Pilar requiere enormes reservas de energía para mantenerse en sintonía con más gente. Planean adoctrinar a toda la plantilla en una planta de energía, para poder redirigirla a alimentar el Pilar de la Verdad."      
 		},
 		"Ashen Knives": {
-			"name": "Cuchillos grises",
+			"name": "Cuchillos de Ceniza",
       "description": "Peligroso sindicato criminal conocido por su control del juego y los asesinatos en el sector.",
       "type": "Criminal",          
       "goal": "Controla los mayores crímenes planetarios de Rin.",      
@@ -49,9 +49,9 @@
       "turf": "La guarida de la droga. Casas de juego. Un búnker secreto y reforzado en Warren (Cuartel General).",    
       "assets": "Un equipo de asesinos bien entrenados, a menudo con un artefacto Precursor o dos bajo la manga. Cajas fuertes. Jueces sobornados. Cuadrillas de matones.",  
       "quirks": "Para unirse al Sindicato, el Cuchillo debe quitarle la vida a alguien. Ser promovido requiere la realización de tareas desagradables. Sus líderes regionales se denominan \"Pashas\".",  
-      "allies": "El torbellino",  
+      "allies": "El Vórtice",  
       "enemies": "Sindicato Cobalto, Casa Malklaith",  
-      "situation": "El poder de los Cuchillos Grises en Warren a menudo eclipsa el de la Casa Malklaith. Esto todavía no se ha convertido en un problema, ya que el gobernador está más centrado en el núcleo. Una reciente alianza con el Torbellino (artículos de esgrima) ha llenado las arcas de los Cuchillos, y ahora su objetivo es la expansión."      
+      "situation": "El poder de los Cuchillos de Ceniza en Warren a menudo eclipsa el de la Casa Malklaith. Esto todavía no se ha convertido en un problema, ya que el gobernador está más centrado en el núcleo. Una reciente alianza con el Vórtice (artículos de esgrima) ha llenado las arcas de los Cuchillos, y ahora su objetivo es la expansión."      
 		},
 		"Ashtari Cult": {
 			"name": "Culto Ashtari",
@@ -88,7 +88,7 @@
       "turf": "El Camino de la Luz, un crucero de batalla que orbita increíblemente cerca de una estrella (HQ).",    
       "assets": "Un puñado de fanáticos dispuestos a morir por la causa. Un sello imperial les da carta blanca para hacer lo que quieran. Un poderoso crucero de batalla.",  
       "quirks": "Cada miembro está marcado con un símbolo de la Iglesia, denominado 'beso de luz'. Rezan fielmente bañándose en toda la luz que pueden soportar.",  
-      "allies": "La Banda Dyrinek, El Torbellino",  
+      "allies": "La Banda Dyrinek, El Vórtice",  
       "enemies": "Gremio de Ingenieros, Herreros de las Estrellas, Yaru",  
       "situation": "Alaana tiene pocos recursos, pero buenos. En este momento, la Iglesia no tiene muchos seguidores que informen de los acontecimientos, así que Alaana confía en sus oraciones y en sus instintos afinados para guiarse. La Iglesia se concentra en la búsqueda de objetivos clave más que en una acción generalizada."      
 		},
@@ -101,11 +101,11 @@
       "turf": "El Pozo, una cantera minera en Aleph (HQ). Un muelle principal y los muelles asociados en Warren.",    
       "assets": "Flota de barcos privados utilizados para el contrabando. Son fuertes y trabajadores en casi todos los planetas y estaciones que utilizan el cinturón de Cobalto.",  
       "quirks": "Cada miembro lleva una franja azul en algún lugar de su ropa. Una franja azul en las paredes de los muelles y almacenes es una llamada a la acción.",  
-      "allies": "La Banda Dyrinek, El Torbellino",  
-      "enemies": "Cuchillos grises, gremio de ingenieros, gremio de herreros estelares, Yaru",  
+      "allies": "La Banda Dyrinek, El Vórtice",  
+      "enemies": "Cuchillos de Ceniza, gremio de ingenieros, gremio de herreros estelares, Yaru",  
       "situation": "Jax se ha hecho cargo de las rutas entre los mundos de Aleph y el Núcleo. Ha enfadado a varias facciones poderosas del Gremio, y las guerras secretas entre ellas se acercan a una violenta explosión. Jax tiene armas y vehículos para una lucha sangrienta e inevitable, según él."      
 		},
-		"Cónclave 01": {
+		"Conclave 01": {
 			"name": "Cónclave 01",
       "description": "Urbots independientes y sensibles dirigidos por un antiguo Urbot conocido como Prime. Trabajan para controlar las explotaciones mineras y obtener el control de los módulos de IA de Precursor necesarios para generar verdaderas máquinas sensibles.",
       "type": "Extrañeza",          
@@ -114,7 +114,7 @@
       "turf": "Bases secretas en Baftoma y en los Baldíos de Indri (Cuartel General).",    
       "assets": "Conocimiento profundo de la tecnología Urbots y Ur. Un suministro de núcleos de IA inactivos. Rana-Daiyu, una poderosa nave espacial controlada por tres núcleos hermanos de Urbot. Una red de espías de Urbot que se hacen pasar por servidores comunes del sector.",  
       "quirks": "Todos los miembros del Cónclave son actualmente Urbots de diferentes formas y tamaños.",  
-      "allies": "Caballeros de la Concordia, El Torbellino (que tiene un capitán Urbot), Sah'iir",  
+      "allies": "Caballeros de la Concordia, El Vórtice (que tiene un capitán Urbot), Sah'iir",  
       "enemies": "51ª Legión, Gremio de Ingenieros",  
       "situation": "Prime quiere fundar una patria Urbot, pero para ello necesita números. Después de pasar años liberando núcleos, debe fabricar cuerpos para ellos y cultivarlos de forma segura. Espera hacerse con fábricas abandonadas en Iota y empezar a hacerlo en secreto."      
 		},
@@ -244,8 +244,8 @@
       "turf": "Malklaith es dueña del sector, pero el gobernador rara vez sale de Warren... Su personal se encuentra en puestos importantes en todos los sistemas del sector.",    
       "assets": "Impuestos del sector Procyon, generando vastas arcas. Una creciente colección de artefactos de los Precursores.",  
       "quirks": "El gobernador Malklaith lleva una serie de extraños anillos de origen precursor, cuyos poderes no son del todo conocidos, ni siquiera por él.",  
-      "allies": "51ª Legión, Nocturnos, La Sociedad Turner",  
-      "enemies": "La Agonía, Cuchillos Grises, Legión Perdida, El Torbellino",  
+      "allies": "51ª Legión, Oradores Nocturnos, La Sociedad Turner",  
+      "enemies": "La Agonía, Cuchillos de Ceniza, Legión Perdida, El Vórtice",  
       "situation": "Deshonrado tras un famoso duelo, el gobernador Malklaith está convencido de que la forma de recuperar su legítimo lugar es reuniendo secretos de los precursores (Doraam el Nocturno siempre le susurra esto al oído). Malklaith espera que esto le dé una ventaja en el secreto mundo de la política imperial; esta búsqueda es altamente ilegal."      
 		},
 		"Isotropa Max Secure": {
@@ -287,7 +287,7 @@
       "enemies": "La mayoría de las facciones hegemónicas",  
       "situation": "La 1ª Legión -la guardia privada del Hegemón- se rebeló cuando el actual Hegemón ascendió. Protegen a una joven, heredera del último Hegemón, a quien esperan restituir. Planean capturar a la jefa de la Iglesia de la Llama Estelar y convencerla de que bendiga a la niña como es debido."      
 		},
-		"Mendicantes": {
+		"Mendicants": {
 			"name": "Mendicantes",
       "description": "Originalmente la Iglesia del Corazón Esmeralda, su organización fue destruida políticamente. Ahora recorren las estrellas como médicos y curanderos ambulantes.",
       "type": "Extrañeza",    
@@ -296,19 +296,19 @@
       "turf": "El Templo de Amerath (HQ).",    
       "assets": "Un pequeño pero dedicado equipo de médicos mendicantes capaces de curar tanto con la ciencia como con los poderes del Camino. Un antiguo y poderoso místico mendicante.",  
       "quirks": "Los médicos mendicantes implantan artefactos de Ur (corazones de esmeralda) en sus cuerpos. Esto les cambia, pero también les permite curar a otros.",  
-      "allies": "Los Caballeros de la Concordia, Legión Perdida, El Torbellino",  
+      "allies": "Los Caballeros de la Concordia, Legión Perdida, El Vórtice",  
       "enemies": "Iglesia de la Llama Estelar, Red de Noticias Hegemónicas",  
       "situation": "Un antiguo mendicante curó una vez a un abad moribundo de la Llama de las Estrellas, que los proclamó una abominación. En el último levantamiento hegemónico, la Iglesia cambió el poder de la batalla por el derecho a exterminar a la mayoría de los mendicantes. Se perdieron muchos Corazones Esmeralda; los mendicantes buscan ahora refugio, que se rumorea está escondido en las profundidades de los antiguos templos en ruinas de Amerath."      
 		},
 		"Nightspeakers": {
-			"name": "Nocturnos",
+			"name": "Oradores Nocturnos",
       "description": "Místicos con inclinaciones oscuras empeñados en encontrar un conjunto de peligrosos artefactos Precursores.",
       "type": "Extrañeza",  
       "goal": "Consigue la llave Aleph de forma sigilosa",      
       "notables": "- Doraam (enmascarado, misterioso, dominante).\n- Oin-rai (luchador, fuerte, enorme, brutal).\n- Ismissa (ordenado, desarmado, místicamente poderoso).\n\n-Todos cuentan como pequeñas bandas en la batalla.",    
       "turf": "Black Star, un acorazado escondido en el sistema Brekk (HQ).",    
       "assets": "Poderes místicos, como la Voz de la Noche, que saca una zona de la Senda y crea oscuridad y efectos gravitatorios. Un acorazado.",  
-      "quirks": "Los Nocturnos tienen ojos negros como el carbón y voces resonantes tras ser entrenados en la Voz de la Noche. La mayoría lleva máscaras. La leyenda dice que hablan con voces de más allá de las estrellas.",  
+      "quirks": "Los Oradores Nocturnos tienen ojos negros como el carbón y voces resonantes tras ser entrenados en la Voz de la Noche. La mayoría lleva máscaras. La leyenda dice que hablan con voces de más allá de las estrellas.",  
       "allies": "Casa Malklaith",  
       "enemies": "51ª Legión, Iglesia de la Llama Estelar",  
       "situation": "Aunque son pocos, cada miembro es un potente místico. Contratan a poderosos individuos mientras buscan un conjunto de artefactos de los Precursores llamado la Ropa de la Noche. Doraam se convirtió en el místico personal y consejero del gobernador después de percibir un trozo de la Vestidura, la clave del Aleph."      
@@ -348,7 +348,7 @@
       "turf": "El Velo no tiene territorio, salvo algún que otro refugio o lugar para recargar y rearmar en las misiones.",    
       "assets": "Una red de espías. Dispositivos de alta tecnología. Algunas naves con dispositivos de ocultación.",  
       "quirks": "Todos los miembros del Velo han recibido un entrenamiento mental avanzado para resistir los interrogatorios y los poderes de la Senda.",  
-      "allies": "La Banda Dyrinek, El Torbellino",  
+      "allies": "La Banda Dyrinek, El Vórtice",  
       "enemies": "Gremio de Ingenieros, Gremio de herreros estelares, Yaru",  
       "situation": "El Velo sirve a la propia Hegemonía, justo por encima del Hegemón. A medida que las luchas de poder del núcleo se desbordan hacia el límite, el Velo le sigue. Sus ojos se fijan en los Gremios y en la incapacidad de Malklaith para controlarlos, por lo que diseñan cuidadosamente la caída de Malklaith sin desestabilizar el sector, esperando que otra Casa tenga mejor suerte."      
 		},
@@ -387,12 +387,12 @@
       "turf": "Una plataforma que orbita el Planeta Omega (HQ). Capillas secretas en Mem, Sonhandra y Lithios.",    
       "assets": "Potentes poderes místicos. Un zoológico de criaturas indocumentadas del Camino. Un laboratorio para la producción de medicamentos de infusión de la Senda.",  
       "quirks": "Cada uno de los miembros de La Agonía está alterado de forma muy visible, ya sea con extremidades adicionales, formas semiespectrales o nuevas bocas y ojos.",  
-      "allies": "La Banda Dyrinek, El Torbellino",  
+      "allies": "La Banda Dyrinek, El Vórtice",  
       "enemies": "Iglesia de la Llama Estelar, Casa Malklaith",  
       "situation": "Deshonrado tras un famoso duelo, el gobernador Malklaith está convencido de que la forma de recuperar su legítimo lugar es reuniendo secretos de los precursores (Doraam el Nocturno siempre le susurra esto al oído). Malklaith espera que esto le dé una ventaja en el secreto mundo de la política imperial; esta búsqueda es altamente ilegal."      
 		},
 		"The Maelstrom": {
-			"name": "El Torbellino",
+			"name": "El Vórtice",
       "description": "En el espacio turbulento, los piratas viven en una nebulosa difícil de navegar. A menudo chocan con la Legión.",
       "type": "Criminal",    
       "goal": "Tomar el control de una puerta de salto",      
@@ -400,9 +400,9 @@
       "turf": "La Ruptura de la Noche (nave capital, cuartel general). La Cala (hecha de barcos amarrados). La Nube Ashtari.",    
       "assets": "Ruptura nocturna (una nave capital con una puerta de salto en su interior). Impulsores de Tormenta (motores capaces de navegar por la Nube Ashtari). Una flota de barcos piratas.",  
       "quirks": "Los piratas ataban los barcos viejos o dañados y construían la Cala. Este tiene el tamaño de un planetoide, girando cerca del centro de la Nube de Ashtari.",  
-      "allies": "Cuchillos Grises, Sindicato Cobalto, Nocturnos.",  
+      "allies": "Cuchillos de Ceniza, Sindicato Cobalto, Oradores Nocturnos.",  
       "enemies": "51ª Legión, Saqueadores de Draxler, los Gremios, Casa Malklaith",  
-      "situation": "El Torbellino invade las rutas de transporte y vende mercancías a través de los Cuchillos Grises. Alanda busca una forma de saltar sistemas con toda su tripulación tomando una puerta de salto, preferiblemente sin que la Hegemonía la persiga."      
+      "situation": "El Vórtice invade las rutas de transporte y vende mercancías a través de los Cuchillos de Ceniza. Alanda busca una forma de saltar sistemas con toda su tripulación tomando una puerta de salto, preferiblemente sin que la Hegemonía la persiga."      
 		},
 		"Turner Society": {
 			"name": "La Sociedad Turner",
@@ -427,7 +427,7 @@
       "assets": "Templo del bosque oculto. Archivos del templo de los primeros días de la Hegemonía. Herramientas místicas. Un puñado de poderosos guerreros místicos.",  
       "quirks": "Cada miembro es formado por un mentor mayor. Convertirse en miembro de la Vigilancia significa recibir un artefacto de hoja como marca de su progreso.",  
       "allies": "Los Caballeros de la Concordia",  
-      "enemies": "Saqueadores Draxler, Sindicato Janus, Nocturnos, La Sociedad Turner",  
+      "enemies": "Saqueadores Draxler, Sindicato Janus, Oradores Nocturnos, La Sociedad Turner",  
       "situation": "Aunque la Hegemonía colonizó el sector hace cien años, la Guardia se fundó hace miles de años. Los miembros actuales son todos humanos, ya que los practicantes originales fueron eliminados cuando Nim- Amar pacificó a Procyon. Juzgaron indignos a los traficantes de armas y narcotraficantes de Aketi."      
 		},
 		"Vignerons": {

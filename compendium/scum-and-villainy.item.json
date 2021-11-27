@@ -53,7 +53,7 @@
 		},
 		"(Mu) Fine Martial Arts Style": {
 			"name": "(Mu) Estilo de Artes Marciales Superior",
-      "description": "Tu propia combinación personalizada de técnicas de lucha, única como una huella dactilar. ¿Dónde y con quién se formó por primera vez? ¿Cómo llamas a tu estilo? ¿Ha tenido alguna vez alumnos? [0 carga]",
+      "description": "Tu propia combinación personalizada de técnicas de lucha, única como una huella dactilar. ¿Dónde y con quién se formó por primera vez? ¿Cómo llamas a tu estilo? ¿Has tenido alguna vez alumnos? [0 carga]",
       "class": "Músculo"
 		},
 		"(Mu) Fine Sniper Rifle": {
@@ -265,34 +265,34 @@
       "class": "Comunicador"
 		},
 		"(St) Candies and Treats": {
-			"name": "(Dr) Dulces y caramelos",
+			"name": "(Ci) Dulces y caramelos",
       "description": "Para los clientes más valientes. ¿También los comes? ¿Has usado alguna vez para disfrazar un sedante para alguien? [1 carga]",
-      "class": "Doctor"
+      "class": "Cirujano"
 		},
 		"(St) Fine Bedside Manner": {
-			"name": "(Dr) Buen trato con pacientes",
+			"name": "(Ci) Buen trato con pacientes",
       "description": "Encanto que hace que los pacientes se sientan cómodos. Algunos médicos no se preocupan por eso. ¿Sabes relacionarte con mucha gente? ¿Comparte muchas anécdotas? ¿Proyecta usted una imagen de habilidad segura? [0 Carga]",
-      "class": "Doctor"
+      "class": "Cirujano"
 		},
 		"(St) Fine Clothing": {
-			"name": "(Dr) Ropas superiores",
+			"name": "(Ci) Ropas superiores",
       "description": "Un traje o conjunto para cenas elegantes y reuniones de la alta sociedad. ¿Es un artefacto de su pasado o algo que eligió cuando tuvo que solicitar financiación para su trabajo médico? [1 carga]",
-      "class": "Doctor"
+      "class": "Cirujano"
 		},
 		"(St) Fine Medkit": {
-			"name": "(Dr) Kit Médico superior",
+			"name": "(Ci) Kit Médico superior",
       "description": "Con más artículos de los habituales. Pinzas para la piel, escáneres de diagnóstico portátiles, piel sintética, estabilizadores óseos, spray hipoglucemiante, antídoto (para bestias alienígenas peligrosas) y una mayor selección de medicamentos. ¿Hay alguna marca distintiva en su kit médico? [2 cargas]",
-      "class": "Doctor"
+      "class": "Cirujano"
 		},
 		"(St) Recognizable Medic Garb": {
-			"name": "(Dr) Vestimenta médica reconocible",
+			"name": "(Ci) Uniforme médico reconocible",
       "description": "La ropa roja ordinaria de médico con el sello médico blanco oficial de la Hegemonía. Reconocible desde la distancia. ¿Cuáles son las normas sobre el tratamiento de los médicos en combate? ¿Tiene el personal médico obligaciones legales mientras lleva el uniforme? [0 carga]",
-      "class": "Doctor"
+      "class": "Cirujano"
 		},
 		"(St) Syringes and Applicators": {
-			"name": "(Dr) Jeringas y aplicadores",
+			"name": "(Ci) Jeringas y aplicadores",
       "description": "Jeringas, inyectores, aplicadores de parches. Muchos pueden ocultarse fácilmente en la mano. A veces, tener medicamentos a mano también significa administrarlos sutilmente. ¿Alguno de ellos no tiene fines médicos? [0 carga]",
-      "class": "Doctor"
+      "class": "Cirujano"
 		}
 	}
 }

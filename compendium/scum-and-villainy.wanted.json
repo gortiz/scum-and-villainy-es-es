@@ -51,7 +51,7 @@
 		},
 		"Ur Field": {
 			"name": "Campo Ur",
-			"description": "<p>El portal más cercano os llama a cada uno en un idioma que no podéis entender. Resiste con <strong>Determinación</strong> o recibe <strong>daño de nivel 1</strong> de las visiones que no puedes ignorar.</p> <blockquote> <p>Lo que decidas hacer con las visiones depende de ti. Terminan después de que la tripulación abandone el sistema o en el siguiente día libre, lo que ocurra primero.</p> </blockquote>"
+			"description": "<p>El portal más cercano os llama a cada uno en un idioma que no podéis entender. Resiste con <strong>Voluntad</strong> o recibe <strong>daño de nivel 1</strong> de las visiones que no puedes ignorar.</p> <blockquote> <p>Lo que decidas hacer con las visiones depende de ti. Terminan después de que la tripulación abandone el sistema o en el siguiente día libre, lo que ocurra primero.</p> </blockquote>"
 		},
 		"Wanted Level 4": {
 			"name": "Nível de Búsqueda 4: Nave de Guerra",

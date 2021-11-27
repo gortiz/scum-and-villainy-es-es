@@ -19,7 +19,7 @@
 		"Alben": {
 			"name": "Alben",
       "description": "Un ex-paciente. ¿Qué tenía? ¿Cómo puede ayudarte?",
-      "class":"Doctor"      
+      "class":"Cirujano"      
 		},
 		"Alor": {
 			"name": "Alor",
@@ -28,7 +28,7 @@
 		},
 		"Arlox": {
 			"name": "Arlox",
-      "description": "Un pachá de los cuchillos grises. Antes era un asesino, ahora es el líder de la banda. ¿También cazan recompensas ilegales para ellos?",
+      "description": "Un Pasha de los Cuchillos de Ceniza. Antes era un asesino, ahora es el líder de la banda. ¿También cazan recompensas ilegales para ellos?",
       "class":"Cerberus"      
 		},
 		"Arryn": {
@@ -69,7 +69,7 @@
 		"Ditha": {
 			"name": "Ditha",
       "description": "Un miembro de la familia. ¿Apoya su trabajo? ¿O está tratando de hacerte volver a casa?",
-      "class":"Doctor"      
+      "class":"Cirujano"      
 		},
 		"Garin": {
 			"name": "Garin",
@@ -104,7 +104,7 @@
 		"Jackev": {
 			"name": "Jackev",
       "description": "Un traficante de drogas. ¿Una conexión legítima o estás alimentando una adicción? ¿O ha perjudicado sus beneficios?",
-      "class":"Doctor"      
+      "class":"Cirujano"      
 		},
 		"Jal": {
 			"name": "Jal",
@@ -124,7 +124,7 @@
 		"Juda": {
 			"name": "Juda",
       "description": "Un médico. ¿Sigue ayudándote? ¿O es una vieja rival que quiere castigarte por ejercer ilegalmente la medicina?",
-      "class":"Doctor"      
+      "class":"Cirujano"      
 		},
 		"Kenn": {
 			"name": "Kenn",
@@ -159,7 +159,7 @@
 		"Lynie": {
 			"name": "Lynie",
       "description": "Un administrador de hospital. ¿Un antiguo jefe? ¿Se metió en problemas por tu culpa?",
-      "class":"Doctor"      
+      "class":"Cirujano"      
 		},
 		"Manda": {
 			"name": "Manda",

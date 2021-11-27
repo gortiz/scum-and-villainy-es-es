@@ -2,7 +2,7 @@
   "name":"scum-and-villainy-es-es",
   "title":"Scum and Villainy - Español",
   "description":"Traducción para el sistema Scum and Villainy.",
-  "version":"0.1.1",
+  "version":"0.1.2",
   "author":"Gato Malefico",
   "minimumCoreVersion":"0.8.9",
   "compatibleCoreVersion":"0.8.9",
@@ -33,5 +33,38 @@
   "system": [
     "scum-and-villainy"
   ],
-  "packs": []
+  "packs": [
+   {
+      "name": "ayudas-y-reglas",
+      "label": "Ayudas y Reglas",
+      "path": "packs/ayudas-y-reglas.db",
+      "entity": "JournalEntry",
+      "module": "scum-and-villainy-es-es",
+      "private": false
+    },
+    {
+      "name": "macros-es",
+      "label": "Macros ES",
+      "path": "packs/macros-es.db",
+      "entity": "Macro",
+      "module": "scum-and-villainy-es-es",
+      "private": false
+    },
+    {
+      "name": "tablas-de-nivel-de-se-busca",
+      "label": "Tablas de Nivel de Se Busca",
+      "path": "packs/tablas-de-nivel-de-se-busca.db",
+      "entity": "RollTable",
+      "module": "scum-and-villainy-es-es",
+      "private": false
+    },
+    {
+      "name": "tablas-de-trabajos",
+      "label": "Tablas de Trabajos",
+      "path": "packs/tablas-de-trabajos.db",
+      "entity": "RollTable",
+      "module": "scum-and-villainy-es-es",
+      "private": false
+    }
+  ]
 }
