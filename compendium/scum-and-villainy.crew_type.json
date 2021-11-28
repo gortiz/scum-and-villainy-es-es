@@ -11,19 +11,19 @@
 			"name": "Cerberus",
       "description": "Cazadores de recompensas y especialistas en extracción.",
       "experience_clues": "Gana xp al realizar con éxito una extracción o la captura de una recompensa.",
-      "def_abilities": "(C) Escáner de Largo Alcance, (Mo) Motor de Salto, (A) Ganchos, (A) Bergantín, (T) Proeza, Carguero, Stacey Weathers, Arlox, Ishi, Lix, Jezri"
+      "def_abilities": "(C) Escáner de Largo Alcance, (Mo) Motor de Salto, (A) Ganchos, (A) Celdas, (T) Proeza\nCarguero, Stacey Weathers, Arlox, Ishi, Lix, Jezri"
 		},
 		"Firedrake": {
 			"name": "Dragón de Fuego (Firedrake)",
       "description": "Rebeldes y criminales hegemónicos.",
       "experience_clues": "Gana xp realizando con éxito trabajos que se oponen a la dominación hegemónica.",
-      "def_abilities": "(A) Cañones de Partículas, (Mo) Motor de Salto, (Ca) Alojamentos de la Triuplación, (M) Lanzadera, (A) Escudos, Corveta, Garin, Tyura, Ada Black, Tiko Lux, Ibo-one"
+      "def_abilities": "(A) Cañones de Partículas, (Mo) Motor de Salto, (Ca) Alojamentos de la Triuplación, (M) Lanzadera, (A) Escudos\nCorveta, Garin, Tyura, Ada Black, Tiko Lux, Ibo-one"
 		},
 		"Stardancer": {
 			"name": "Bailarina Estelar (Stardancer)",
       "description": "Comerciantes ilícitos, contrabandistas y bloqueadores.",
       "experience_clues": "Gana xp al ejecutar con éxito una operación de transporte o contrabando.",
-      "def_abilities": "(Ca) Compartimentos de Contrabando, (Ca) Bodega de Carga, (Mo) Motor de Salto, (A) Cantina, (T) Perspicacia, Carguero, T'kala, Alor, Heani, Rakka, Citani"
+      "def_abilities": "(Ca) Compartimentos de Contrabando, (Ca) Bodega de Carga, (Mo) Motor de Salto, (A) Cantina, (T) Perspicacia\nCarguero, T'kala, Alor, Heani, Rakka, Citani"
 		}
 	}
 }

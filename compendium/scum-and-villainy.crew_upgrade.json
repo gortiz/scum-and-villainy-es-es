@@ -157,27 +157,27 @@
       "description": "Como carga (puede llevar un pequeño cargamento), pero no aparecerá en los escaneos rutinarios o en las inspecciones visuales de la nave. Con un valor de casco de 3+, también proporciona soporte vital a las personas."
 		},
 		"(St) Dark Hyperspace Lane Maps": {
-			"name": "(Da) Mapa de Rutas del Hyperespacio Oscuro",
+			"name": "(Ba) Mapa de Rutas del Hyperespacio Oscuro",
       "description": "Se trata de rutas a través de sistemas que no se mantienen oficialmente. A veces más rápido. Siempre menos patrullado. A menudo están llenos de criaturas de la Senda, piratas y otros malhechores. El viaje nunca es tan suave como en las rutas mantenidas por Star Smiths. Nadie quiere pensar mucho en los pobres tontos que murieron o se perdieron para siempre trazando estas rutas.",
       "class":"Bailarina Estelar"      
 		},
 		"(St) False Ship Papers": {
-			"name": "(Da) Documentos Falsos de la Nave",
+			"name": "(Ba) Documentos Falsos de la Nave",
       "description": "Todo contrabandista necesita unos documentos bien falsificados, que proporcionen a la tripulación y a la nave unas identidades que sean menos atacadas en cualquier sistema. Estos documentos suelen simplificar el viaje por la puerta, si el transpondedor y el barco son compatibles. Tienes unos cuantos conjuntos diferentes entre los que puedes cambiar, aunque tengas que practicar respondiendo a un nuevo nombre en cada punto de control. Puede hacer más difícil seguirte y rastrearte a través de las facciones enemigas.",
       "class":"Bailarina Estelar"      
 		},
 		"(St) Lucky Charm": {
-			"name": "(Da) Amuleto de la Suerte",
+			"name": "(Ba) Amuleto de la Suerte",
       "description": "Ya sea un artefacto de Ur o unos recuerdos expuestos en el puente, a veces la suerte consiste en tener fe en algo. El equipo comienza con +1 gambito para cada trabajo. Desbloquearlo cuesta dos mejoras, en lugar de la habitual.",
       "class":"Bailarina Estelar"      
 		},
 		"(St) Smuggler's Rigging": {
-			"name": "(Da) Táctica del Contrabandista",
+			"name": "(Ba) Táctica del Contrabandista",
       "description": "Tiras o pieles de imitación que se utilizan para sujetar objetos pequeños cerca del cuerpo, y que son una buena forma de dejarlos pasar por la seguridad. Añade un poco de espacio para llevar las manos libres mientras se trabaja fuera de la nave, y permite llevar un blaster a una reunión bien protegido mientras se mantiene la elegante silueta de la chaqueta. Sólo puedes llevar/ocultar un máximo de 1 objeto de carga de esta manera.",
       "class":"Bailarina Estelar"      
 		},
 		"(St) Thrillseekers": {
-			"name": "(Da) Buscadores de Emociones",
+			"name": "(Ba) Buscadores de Emociones",
       "description": "Cada PJ obtiene +1 casilla de estrés (aumenta el estrés hasta un máximo de 10). El desbloqueo cuesta tres actualizaciones, no sólo una.",
       "class":"Bailarina Estelar"      
 		},
