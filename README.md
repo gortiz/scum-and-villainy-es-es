@@ -1,6 +1,6 @@
 # Scum and Villainy - Español
 Módulo de traducción para Scum and Villainy
-Babele translation module to spanish for Scum and Villainy in Foundry VTT
+<br>Babele translation module to spanish for Scum and Villainy in Foundry VTT
 
 Esta traducción no es oficial. / This translation is fan made.
 
@@ -8,7 +8,7 @@ Esta traducción no es oficial. / This translation is fan made.
 - Instala el módulo Babele y este módulo.
 - Activa ambos en tu mundo.
 - Cambia el idioma a Español en la configuración de tu mundo.
-
+<br></br>
 - Install Babele module  and this module.
 - Activate both in your world configuration.
 - Change language to spanish in the world's configuration.
