@@ -88,8 +88,8 @@
       "turf": "El Camino de la Luz, un crucero de batalla que orbita increíblemente cerca de una estrella (HQ).",    
       "assets": "Un puñado de fanáticos dispuestos a morir por la causa. Un sello imperial les da carta blanca para hacer lo que quieran. Un poderoso crucero de batalla.",  
       "quirks": "Cada miembro está marcado con un símbolo de la Iglesia, denominado 'beso de luz'. Rezan fielmente bañándose en toda la luz que pueden soportar.",  
-      "allies": "La Banda Dyrinek, El Vórtice",  
-      "enemies": "Gremio de Ingenieros, Herreros de las Estrellas, Yaru",  
+      "allies": "Ninguno. La mayoría no quieren ser asociados con fanáticos",  
+      "enemies": "La mayoría de las facciones místicas",  
       "situation": "Alaana tiene pocos recursos, pero buenos. En este momento, la Iglesia no tiene muchos seguidores que informen de los acontecimientos, así que Alaana confía en sus oraciones y en sus instintos afinados para guiarse. La Iglesia se concentra en la búsqueda de objetivos clave más que en una acción generalizada."      
 		},
 		"Cobalt Syndicate": {
@@ -348,8 +348,8 @@
       "turf": "El Velo no tiene territorio, salvo algún que otro refugio o lugar para recargar y rearmar en las misiones.",    
       "assets": "Una red de espías. Dispositivos de alta tecnología. Algunas naves con dispositivos de ocultación.",  
       "quirks": "Todos los miembros del Velo han recibido un entrenamiento mental avanzado para resistir los interrogatorios y los poderes de la Senda.",  
-      "allies": "La Banda Dyrinek, El Vórtice",  
-      "enemies": "Gremio de Ingenieros, Gremio de herreros estelares, Yaru",  
+      "allies": "Red de Noticias Hegemónicas (RNH), facciones en las que han infiltrado agentes sin ser detectados",  
+      "enemies": "Casa Malklaith, Legión Perdida",  
       "situation": "El Velo sirve a la propia Hegemonía, justo por encima del Hegemón. A medida que las luchas de poder del núcleo se desbordan hacia el límite, el Velo le sigue. Sus ojos se fijan en los Gremios y en la incapacidad de Malklaith para controlarlos, por lo que diseñan cuidadosamente la caída de Malklaith sin desestabilizar el sector, esperando que otra Casa tenga mejor suerte."      
 		},
 		"Starsmiths Guild": {

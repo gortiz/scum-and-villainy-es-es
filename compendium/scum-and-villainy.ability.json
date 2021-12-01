@@ -47,12 +47,12 @@
       "class":"Mecánico"      
 		},
 		"(Me) Tinker": {
-			"name": "(Me) Chatarrero",
+			"name": "(Me)* Chatarrero",
       "description": "Cuando se trabaja en un reloj con apañar o hackear, o cuando estudias un esquema, rellena +1 segmento.\n\nNo se pueden elegir las habilidades iniciales a través de la habilidad especial de Veterano.\n\nObtienes este segmento de bonificación independientemente de si es una acción fuera de servicio o no. Es decir, ignorar la seguridad en un trabajo o hacer un parche de emergencia mientras se huye de una nave que te persigue es más fácil para ti que para otros.",
       "class":"Mecánico"      
 		},
 		"(Me) Xeno": {
-			"name": "(Me) Xeno",
+			"name": "(Me)* Xeno",
       "description": "Puedes gastar Estrés (0-2) para realizar una hazaña sobrehumana de la que sólo son capaces los miembros de tu especie. (Página 296)\n\nCada especie tiene mecánicos, así que cuando juegues con un xeno, ten en cuenta cómo se relaciona ese xenotipo con las máquinas.\n\nAlgunos xenos tienen una relación inusual con la tecnología (particularmente con la tecnología basada en Ur), como los Sah'iir, mientras que otros usan materiales inusuales, como Mem.",
       "class":"Mecánico"      
 		},
@@ -92,7 +92,7 @@
       "class":"Músculo"      
 		},
 		"(Mu) Unstoppable": {
-			"name": "(Mu) Imparable",
+			"name": "(Mu)* Imparable",
       "description": "Puedes intentar hacer una de las siguientes cosas:\n\nUna hazaña de fuerza física que roza lo sobrehumano: enfrentarte a una pequeña banda en igualdad de condiciones en un combate cuerpo a cuerpo.\n\nTen en cuenta que las habilidades iniciales no se pueden elegir a través de la habilidad especial de Veterano.\n\nAl hacer el esfuerzo para activar esta habilidad, sigues obteniendo uno de los beneficios del esfuerzo normal (+1d, +1 efecto, etc.) además de la habilidad especial.\n\nUna hazaña sobrehumana es aquella que una persona normal no podría realizar sin ayuda, como romper grilletes de metal. Si te enfrentas a una banda pequeña en igualdad de condiciones, tendrás la misma escala.",
       "class":"Músculo"      
 		},
@@ -102,7 +102,7 @@
       "class":"Músculo"      
 		},
 		"(Mu) Xeno": {
-			"name": "(Mu) Xeno",
+			"name": "(Mu)* Xeno",
       "description": "Puedes gastar Estrés (0-2) para realizar una hazaña sobrehumana de la que sólo son capaces los miembros de tu especie. (Página 296)\n\nDesde Worf hasta D'Argo y Chewbacca, los alienígenas poderosos en la batalla han sido una necesidad del género de la space opera. La habilidad inicial del Músculo es significativa, pero muchos xenos tienen una fuerza muy superior a la de un humano normal.\n\nAlgunos pueden tener más extremidades o adaptaciones para entornos hostiles.\n\nConsidera cómo tu herencia xeno puede convertirte en un Músculo más útil y habla con tu mesa sobre cómo deseas utilizar tu habilidad xeno.",
       "class":"Músculo"      
 		},
@@ -132,7 +132,7 @@
       "class":"Místico"      
 		},
 		"(My) The Way": {
-			"name": "(Mi) La Senda",
+			"name": "(Mi)* La Senda",
       "description": "Puedes gastar un gambito en lugar de pagar los costes de estrés.\n\nTen en cuenta que las habilidades iniciales no se pueden elegir a través de la habilidad especial de Veterano.\n\nCuando necesites gastar estrés, puedes hacer una tirada de riesgo. Esto incluye las resistencias y los costes de esfuerzo. En el caso de las habilidades que tienen un coste variable, como la separación, estos costes adicionales formarán parte de la misma activación, por lo que el esfuerzo y todos los recursos adicionales juntos sólo cuestan un gambito.",
       "class":"Místico"      
 		},
@@ -152,12 +152,12 @@
       "class":"Místico"      
 		},
 		"(My) Xeno": {
-			"name": "(Mi) Xeno",
+			"name": "(Mi)* Xeno",
       "description": "El sector está lleno de especies que están en sintonía con la Senda. Algunos afirman tener ascendencia con Ur, mientras que otros afirman haber evolucionado en un planeta dominado por la Senda.\n\nIndependientemente, como xeno místico, estás renunciando a una importante habilidad inicial y debes considerar cómo influye en tu desarrollo como Místico.\n\nTrabaja con tu Maestro y la mesa para definir habilidades y permisos especiales para tu tradición mística específica.",
       "class":"Místico"      
 		},
 		"(P) Ace Pilot": {
-			"name": "(P) Piloto Estrella",
+			"name": "(P)* Piloto As",
       "description": "Tienes potencia en todas las tiradas relacionadas con la velocidad. Cuando se tira para resistir las consecuencias del pilotaje, se gana +1d.\n\nTen en cuenta que las habilidades iniciales no pueden ser elegidas a través de la habilidad especial de Veterano.\n\nTu poder puede ser contrarrestado por una mejor calidad (si los motores de las naves enemigas son mejores que los tuyos, por ejemplo). Recuerda que las consecuencias del pilotaje no siempre son daños en la nave, pero a menudo se pueden resistir igualmente.",
       "class":"Piloto"      
 		},
@@ -173,7 +173,7 @@
 		},
 		"(P) Hedonist": {
 			"name": "(P) Hedonista",
-      "description": "Al satisfacer tu vicio, puedes ajustar el resultado de los dados en +/- 2.\n\nUn aliado que se una a ti puede hacer lo mismo.\n\nEl aliado debe unirse a ti en el vicio que estés satisfaciendo (o puedes satisfacer uno a través de una habilidad de la tripulación, como Cocina Casera de la Bailarina Estrella). Puede ajustar la puntuación en menos de 2 o no ajustarla en absoluto. También puedes recuperar más de 6 de estrés en una tirada de vicio de esta manera.",
+      "description": "Al satisfacer tu vicio, puedes ajustar el resultado de los dados en +/- 2.\n\nUn aliado que se una a ti puede hacer lo mismo.\n\nEl aliado debe unirse a ti en el vicio que estés satisfaciendo (o puedes satisfacer uno a través de una habilidad de la tripulación, como Cocina Casera de la Bailarina Estelar). Puede ajustar la puntuación en menos de 2 o no ajustarla en absoluto. También puedes recuperar más de 6 de estrés en una tirada de vicio de esta manera.",
       "class":"Piloto"      
 		},
 		"(P) Keen Eye": {
@@ -202,7 +202,7 @@
       "class":"Piloto"      
 		},
 		"(P) Xeno": {
-			"name": "(P) Xeno",
+			"name": "(P)* Xeno",
       "description": "Los pilotos xenos suelen estar asociados a las naves xeno.\n\nSi eliges esta opción, pregunta a tu master sobre las modificaciones que podrías hacer a tu nave o las mejoras inusuales a las que tu gente podría tener acceso.\n\nAl desarrollar a tu gente, piensa en cómo podría afectar a su pilotaje el hecho de tener sentidos inusuales (quizás vean la gravedad u otros espectros) o formas únicas de interactuar (como conexiones neurales directas).",
       "class":"Piloto"      
 		},
@@ -232,8 +232,8 @@
       "class":"Canalla"      
 		},
 		"(Sc) Serendipitous": {
-			"name": "(Ca) Fortuito",
-      "description": "Tu tripulación comienza con +1 gambito cuando se restablece la reserva de dados.\n\nTen en cuenta que las habilidades iniciales no pueden ser elegidas a través de la habilidad especial de Veterano.\n\nEsto aumenta los gambitos iniciales de la tripulación en un trabajo. Simplemente tienes más suerte que otras personas.",
+			"name": "(Ca)* Fortuito",
+      "description": "Tu tripulación comienza con +1 gámbito cuando se restablece la reserva.\n\nTen en cuenta que las habilidades iniciales no pueden ser elegidas a través de la habilidad especial de Veterano.\n\nEsto aumenta los gambitos iniciales de la tripulación en un trabajo. Simplemente tienes más suerte que otras personas.",
       "class":"Canalla"      
 		},
 		"(Sc) Shoot First": {
@@ -252,12 +252,12 @@
       "class":"Canalla"      
 		},
 		"(Sc) Xeno": {
-			"name": "(Ca) Xeno",
+			"name": "(Ca)* Xeno",
       "description": "Las canallas suelen ser representaciones del público, una 'persona corriente'.\n\nUn xeno canalla es un ejercicio de humanización del Otro y de hacer accesibles los personajes inusuales de Procyon.\n\nPiensa en tu cultura y en tu gente cuando crees tu xeno. ¿Acepta tu gente aburrida tu desprecio por las normas? ¿Son bienvenidos en la sociedad hegemónica o están en el límite de lo aceptable? ¿Son de Percyon o de algún otro lugar de la galaxia?",
       "class":"Canalla"      
 		},
 		"(Sp) Air of Respectability": {
-			"name": "(Com) Aire de Respeto",
+			"name": "(Com)* Aire de Respeto",
       "description": "Obtienes una actividad extra para adquirir recursos o para pasar desapercibido.\n\nTen en cuenta que las habilidades iniciales no pueden ser elegidas a través de la habilidad especial de Veterano.\n\nTus conexiones proporcionan un flujo constante de material y personas que te sirven para arreglar las cosas después de tus aventuras.",
       "class":"Comunicador"      
 		},
@@ -268,7 +268,7 @@
 		},
 		"(Sp) Favors Owed": {
 			"name": "(Com) Favores Debidos",
-      "description": "Mientras no estés de servicio, obtienes +1d al adquirir recursos o pasar desapercibido. Cuando recojas información, usa +1d.\n\nUsando tu autoridad, conexiones o información interna, obtienes mejor información y acceso a mejores recursos.",
+      "description": "Mientras no estés de servicio, obtienes +1d al adquirir recursos o pasar desapercibido. Cuando recabes información, usa +1d.\n\nUsando tu autoridad, conexiones o información interna, obtienes mejor información y acceso a mejores recursos.",
       "class":"Comunicador"      
 		},
 		"(Sp) Heart To Heart": {
@@ -302,7 +302,7 @@
       "class":"Comunicador"      
 		},
 		"(Sp) Xeno": {
-			"name": "(Com) Xeno",
+			"name": "(Com)* Xeno",
       "description": "Aparte de ser diplomáticos, los xenos comunicadores son algo poco común en la Hegemonía.\n\nEn el crimen organizado, los xenos son mucho más aceptados y, para algunos, incluso preferidos.\n\nEn las aventuras espaciales hay muchos ejemplos de empáticos naturales, especies con funciones cognitivas avanzadas, o incluso robots de protocolo que sirven como comunicadores para su tripulación.\n\nCuando consideres tu legado xeno, piensa en cómo se comunica tu especie y trabaja con tu master para descubrir cómo estos estilos de comunicación podrían manifestarse en el juego.",
       "class":"Comunicador"      
 		},
@@ -322,7 +322,7 @@
       "class":"Cirujano"      
 		},
 		"(St) I'm a Doctor Not a...": {
-			"name": "(Ci) Soy un Médico, No un...",
+			"name": "(Ci)* Soy un Médico, No un...",
       "description": "Puedes forzarte para usar tu puntuacion de Medicina mientras realizas una acción diferente. Indica qué paciente, investigación o rango te ha enseñado este truco.\n\nTen en cuenta que las habilidades iniciales no pueden ser elegidas a través de la habilidad especial de Veterano.\n\nCuando usas esta habilidad, aprendemos un poco más sobre tu pasado. Considere la posibilidad de presentar a tus contactos estos hallazgos cuando corresponda.",
       "class":"Cirujano"      
 		},
@@ -348,11 +348,11 @@
 		},
 		"(St) Welcome Anywhere": {
 			"name": "(Ci) Bienvenido en Cualquier Lugar",
-      "description": "Mientras lleves tu traje de médico, serás bienvenido, incluso en lugares peligrosos.\n\nObtén +1d a Socializar y Convencer ofreciéndote a cuidar a cualquiera que lo necesite.\n\nCuando te necesiten, serás reconocible como médico y valioso para los que viven la dura vida de Procyon.", 
+      "description": "Mientras lleves tu uniforme de médico, serás bienvenido, incluso en lugares peligrosos.\n\nObtén +1d a Socializar y Convencer ofreciéndote a cuidar a cualquiera que lo necesite.\n\nCuando te necesiten, serás reconocible como médico y valioso para los que viven la dura vida de Procyon.", 
       "class":"Cirujano"      
 		},
 		"(St) Xeno": {
-			"name": "(Ci) Xeno",
+			"name": "(Ci)* Xeno",
       "description": "Hay innumerables especies con un talento especial para la ciencia médica y con sentidos mejorados que hacen innecesario un escáner médico.\n\nPiensa en cómo podrías abordar la curación de forma diferente a la de un médico humano.\n\nPuede que no estés acostumbrado a especies con un solo corazón. O puede que te resulte irritante que otras personas no puedan regenerar sus miembros como los tuyos.\n\nDisfruta y celebra las diferencias.",
       "class":"Cirujano"      
 		}
