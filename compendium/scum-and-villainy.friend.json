@@ -9,7 +9,7 @@
 		"?": {
 			"name": "?",
       "description": "Crea a alguien de tu pasado cuando estés inspirado. Si obtienes la habilidad Viejos amigos, amplía esta lista cuando aterrices en un nuevo lugar.",
-      "class":"Comunicador"      
+      "class":"Orador"      
 		},
 		"Ada Black": {
 			"name": "Ada Black",
@@ -23,27 +23,27 @@
 		},
 		"Alor": {
 			"name": "Alor",
-      "description": "Un camarero de orejas afiladas. Buena fuente de trabajo y bebidas. ¿Qué le traen de sus viajes?",
+      "description": "Un camarero de orejas afiladas. Buena fuente de trabajo y bebidas. ¿Qué le traéis de vuestros viajes?",
       "class":"Bailarina Estelar"      
 		},
 		"Arlox": {
 			"name": "Arlox",
-      "description": "Un Pasha de los Cuchillos de Ceniza. Antes era un asesino, ahora es el líder de la banda. ¿También cazan recompensas ilegales para ellos?",
+      "description": "Un Pasha de los Cuchillos de Ceniza. Antes era un asesino, ahora es el líder de la banda. ¿También cazáis recompensas ilegales para ellos?",
       "class":"Cerberus"      
 		},
 		"Arryn": {
 			"name": "Arryn",
-      "description": "Una mujer de la nobleza. ¿Un viejo amigo o pariente? ¿O alguien cuyos límites has sobrepasado?",
-      "class":"Comunicador"
+      "description": "Una mujer de la nobleza. ¿Una vieja amiga o pariente? ¿O alguien cuyos límites has sobrepasado?",
+      "class":"Orador"
 		},
 		"Aya": {
 			"name": "Aya",
-      "description": "Una asesina. ¿Una antigua amante que aún te ama? ¿Un corazón rechazado? ¿O es usted un objetivo que se ha escapado?",
+      "description": "Una asesina. ¿Una antigua amante que aún te ama? ¿Un corazón rechazado? ¿O eres un objetivo que se ha escapado?",
       "class":"Músculo"      
 		},
 		"Battro": {
 			"name": "Battro",
-      "description": "Un cazador de recompensas. ¿Te dejó escapar antes? ¿Te está buscando ahora?",
+      "description": "Un cazarrecompensas. ¿Te dejó escapar antes? ¿Te está buscando ahora?",
       "class":"Canalla"      
 		},
 		"Blish": {
@@ -53,7 +53,7 @@
 		},
 		"Chon-zek": {
 			"name": "Chon-zek",
-      "description": "Un cazador de recompensas. ¿Ex pareja? ¿O un competidor con la misma trayectoria?",
+      "description": "Un cazarrecompensas. ¿Ex pareja? ¿O un competidor con la misma trayectoria?",
       "class":"Músculo"      
 		},
 		"Choss": {
@@ -68,12 +68,12 @@
 		},
 		"Ditha": {
 			"name": "Ditha",
-      "description": "Un miembro de la familia. ¿Apoya su trabajo? ¿O está tratando de hacerte volver a casa?",
+      "description": "Un miembro de la familia. ¿Apoya tu trabajo? ¿O está tratando de hacerte volver a casa?",
       "class":"Cirujano"      
 		},
 		"Garin": {
 			"name": "Garin",
-      "description": "Un ingeniero de armas del gremio. ¿Su conciencia no le permite cumplir todas las órdenes del Gremio? ¿Ayudó a adquirir su barco?",
+      "description": "Un ingeniero de armas del gremio. ¿Su conciencia no le permite cumplir todas las órdenes del Gremio? ¿Ayudó a adquirir tu nave?",
       "class":"Dragón de Fuego"      
 		},
 		"Heani": {
@@ -88,53 +88,53 @@
 		},
 		"Horux": {
 			"name": "Horux",
-      "description": "Un viejo profesor. ¿Todavía acude a ella para pedirle consejo? ¿O cree que has abusado de sus enseñanzas?",
+      "description": "Un vieja profesora. ¿Todavía acudes a ella para pedirle consejo? ¿O crees que has abusado de sus enseñanzas?",
       "class":"Místico"      
 		},
 		"Ibo-one": {
 			"name": "Ibo-one",
-      "description": "Un antiguo místico de culto. ¿Quizás una guía de ruinas peligrosas de Ur donde poder esconderse?",
+      "description": "Un antiguo místico de un culto. ¿Quizás un guía de ruinas peligrosas Ur donde poder esconderse?",
       "class":"Dragón de Fuego"      
 		},
 		"Ishi": {
 			"name": "Ishi",
-      "description": "Un traficante de armas. Las recompensas vienen armadas e Ishi nivela el campo. ¿Ajustó su barco?",
+      "description": "Un traficante de armas. Las recompensas vienen armadas e Ishi nivela el campo. ¿Ajustó tu nave?",
       "class":"Cerberus"      
 		},
 		"Jackev": {
 			"name": "Jackev",
-      "description": "Un traficante de drogas. ¿Una conexión legítima o estás alimentando una adicción? ¿O ha perjudicado sus beneficios?",
+      "description": "Un traficante de drogas. ¿Una conexión legítima o estás alimentando una adicción? ¿O ha perjudicado tus beneficios?",
       "class":"Cirujano"      
 		},
 		"Jal": {
 			"name": "Jal",
-      "description": "Mecánica de barcos. ¿Siempre le has ayudado con su barco? ¿O es su barco y quiere recuperarlo?",
+      "description": "Mecánica de naves. ¿Siempre te ha ayudado con tu nave? ¿O es su nave y quiere recuperarla?",
       "class":"Canalla"      
 		},
 		"Je-zee": {
 			"name": "Je-zee",
       "description": "Un diplomático. ¿Eran de facciones aliadas o de facciones opuestas?",
-      "class":"Comunicador"      
+      "class":"Orador"      
 		},
 		"Jezri": {
 			"name": "Jezri",
-      "description": "Un intermediario. Lo que necesites, Jezri lo tiene. Información, equipamiento, trabajos, amigos y enemigos. ¿Te ayudó Jezri a conseguir tu barco o tu licencia?",
+      "description": "Un intermediario. Lo que necesites, Jezri lo tiene. Información, equipamiento, trabajos, amigos y enemigos. ¿Te ayudó Jezri a conseguir tu nave o tu licencia?",
       "class":"Cerberus"      
 		},
 		"Juda": {
 			"name": "Juda",
-      "description": "Un médico. ¿Sigue ayudándote? ¿O es una vieja rival que quiere castigarte por ejercer ilegalmente la medicina?",
+      "description": "Una médico. ¿Sigue ayudándote? ¿O es una vieja rival que quiere castigarte por ejercer ilegalmente la medicina?",
       "class":"Cirujano"      
 		},
 		"Kenn": {
 			"name": "Kenn",
-      "description": "Un miembro de la familia. ¿También es usted mecánico? ¿Compitieron por la atención de sus padres?",
+      "description": "Un miembro de la familia. ¿También eres mecánico? ¿Compitieron por la atención de vuestros padres?",
       "class":"Mecánico"      
 		},
 		"Kerry": {
 			"name": "Kerry",
       "description": "Un médico. ¿Siempre se ocupa de ti? ¿O le has roto el corazón?",
-      "class":"Comunicador"      
+      "class":"Orador"      
 		},
 		"Krieger": {
 			"name": "Krieger",
@@ -164,7 +164,7 @@
 		"Manda": {
 			"name": "Manda",
       "description": "Un miembro del gremio. ¿Recibes información privilegiada? ¿O has robado los secretos del Gremio?",
-      "class":"Comunicador"      
+      "class":"Orador"      
 		},
 		"Mav": {
 			"name": "Mav",
@@ -183,7 +183,7 @@
 		},
 		"Nyx": {
 			"name": "Nyx",
-      "description": "Una prestamista. ¿Es usted su cliente favorito? ¿O un moroso con deudas?",
+      "description": "Una prestamista. ¿Eres su cliente favorito? ¿O un moroso con deudas?",
       "class":"Canalla"      
 		},
 		"Ora": {
@@ -198,7 +198,7 @@
 		},
 		"Rhin": {
 			"name": "Rhin",
-      "description": "Una contrabandista. ¿Una fuente fiable que te pasa consejos? ¿Una chica traviesa que ha subido de rango con usted? ¿O un rival en su línea de trabajo?",
+      "description": "Una contrabandista. ¿Una fuente fiable que te pasa consejos? ¿Una chica traviesa que ha subido de rango gracias at ti? ¿O una rival en tu línea de trabajo?",
       "class":"Canalla"      
 		},
 		"Rye": {
@@ -223,12 +223,12 @@
 		},
 		"Stev": {
 			"name": "Stev",
-      "description": "Un jugador con mala reputación. ¿Son amigos desde hace tiempo? ¿Hiciste trampa en la mesa?",
+      "description": "Un jugador con mala reputación. Sóis amigos desde hace tiempo? ¿Hiciste trampa en la mesa?",
       "class":"Mecánico"      
 		},
 		"T'kala": {
 			"name": "T'kala",
-      "description": "Un maestro del muelle. ¿Te ayudó a conseguir la nave?",
+      "description": "Un maestre estribador. ¿Te ayudó a conseguir la nave?",
       "class":"Bailarina Estelar"      
 		},
 		"Tiko Lux": {
@@ -238,22 +238,22 @@
 		},
 		"Triv": {
 			"name": "Triv",
-      "description": "Mecánica de barcos. ¿Siempre te ha ayudado con tu barco? ¿Se 'olvidó' de pagarle por una mejora importante?",
+      "description": "Mecánica de naves. ¿Siempre te ha ayudado con tu nave? ¿Se 'olvidó' de pagarle por una mejora importante?",
       "class":"Piloto"      
 		},
 		"Tyura": {
 			"name": "Tyura",
-      "description": "Un asesino legendario. ¿Cómo se ganó su lealtad? ¿Cuál es su disputa con la Hegemonía?",
+      "description": "Un asesino legendario. ¿Cómo te ganaste su lealtad? ¿Cuál es su disputa con la Hegemonía?",
       "class":"Dragón de Fuego"      
 		},
 		"Yattu": {
 			"name": "Yattu",
-      "description": "Un líder de la banda. ¿Solías volar para él? ¿Lo abandonaste en un trabajo?",
+      "description": "El líder de una banda. ¿Solías volar para él? ¿Lo abandonaste en un trabajo?",
       "class":"Piloto"      
 		},
 		"Yazu": {
 			"name": "Yazu",
-      "description": "Un policía corrupto. ¿Un amigo para cubrir su rastro o alguien que todavía le persigue por haberle metido en problemas?",
+      "description": "Un policía corrupto. ¿Un amigo para cubrir tu rastro o alguien que todavía te persigue por haberle metido en problemas?",
       "class":"Músculo"      
 		}
 	}

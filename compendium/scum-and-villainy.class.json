@@ -38,10 +38,10 @@
       "def_abilities": "Convencer(2), Escabullir(1), (Ca) Fortuito\nNyx, Ora, Jal, Rhin, Battro"     
 		},
 		"Speaker": {
-			"name": "Comunicador",
+			"name": "Orador",
       "description": "Una persona respetable",
-      "experience_clues": "Cuando juegues como Comunicador, ganas xp afrontando retos con engaño o influencia.",
-      "def_abilities": "Socializar(2), Mandar(1), (Com) Aire de Respeto\nArryn, Manda, Kerry, Je-zee, ?"     
+      "experience_clues": "Cuando juegues como Orador, ganas xp afrontando retos con engaño o influencia.",
+      "def_abilities": "Socializar(2), Mandar(1), (Or) Aire de Respeto\nArryn, Manda, Kerry, Je-zee, ?"     
 		},
 		"Stitch": {
 			"name": "Cirujano",

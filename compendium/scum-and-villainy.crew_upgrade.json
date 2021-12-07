@@ -28,11 +28,11 @@
 		},
 		"(A) Science Bay": {
 			"name": "(A) Ala Cinetífica",
-      "description": "Puede utilizarse para analizar las anomalías y los artefactos de los precursores. Almacenamiento seguro para cosas que podrían reaccionar de forma extraña con el resto de la nave (o la física)."
+      "description": "Puede utilizarse para analizar las anomalías y los artefactos Precursores. Almacenamiento seguro para cosas que podrían reaccionar de forma extraña con el resto de la nave (o la física)."
 		},
 		"(A) Shields": {
 			"name": "(A) Escudos",
-      "description": "Trampas de partículas y deflectores electromagnéticos. Puede ser sometido con fuego concentrado. Cuenta como blindaje contra las armas de la nave y las descargas de energía. Absorbe completamente los disparos de los blasters. Cuesta dos mejoras en lugar de una."
+      "description": "Trampas de partículas y deflectores electromagnéticos. Puede ser sometido con fuego concentrado. Cuenta como blindaje contra las armas de naves y las descargas de energía. Absorbe completamente los disparos de los blasters. Cuesta dos mejoras en lugar de una."
 		},
 		"(C) Fake Transponder": {
 			"name": "(C) Transpondedor Falso",
@@ -126,7 +126,7 @@
 		},
 		"(G) Land Transport": {
 			"name": "(E) Transporte Terrestre",
-      "description": "Transporte terrestre suficiente para toda la tripulación. Con neumáticos o planeando cerca del suelo. Pueden ser bicicletas motorizadas, skimmers, barcos o coches muy pequeños."
+      "description": "Transporte terrestre suficiente para toda la tripulación. Con neumáticos o planeando cerca del suelo. Pueden ser bicicletas motorizadas, skimmers, naves o coches muy pequeños."
 		},
 		"(G) Recon Drone": {
 			"name": "(E) Dron de Reconocimiento",
@@ -142,7 +142,7 @@
 		},
 		"(H) Cargo Hold": {
 			"name": "(Ca) Bodega de Carga",
-      "description": "Espacio suficiente en la nave para transportar una remesa moderada (previo pago). La carga es evidente cuando se aborda el barco y no se toman precauciones especiales para ocultar su contenido."
+      "description": "Espacio suficiente en la nave para transportar una remesa moderada (previo pago). La carga es evidente cuando se aborda la nave y no se toman precauciones especiales para ocultar su contenido."
 		},
 		"(H) Crew Quarters": {
 			"name": "(Ca) Alojamentos de la Tripulación",
@@ -163,7 +163,7 @@
 		},
 		"(St) False Ship Papers": {
 			"name": "(Ba) Documentos Falsos de la Nave",
-      "description": "Todo contrabandista necesita unos documentos bien falsificados, que proporcionen a la tripulación y a la nave unas identidades que sean menos atacadas en cualquier sistema. Estos documentos suelen simplificar el viaje por la puerta, si el transpondedor y el barco son compatibles. Tienes unos cuantos conjuntos diferentes entre los que puedes cambiar, aunque tengas que practicar respondiendo a un nuevo nombre en cada punto de control. Puede hacer más difícil seguirte y rastrearte a través de las facciones enemigas.",
+      "description": "Todo contrabandista necesita unos documentos bien falsificados, que proporcionen a la tripulación y a la nave unas identidades que sean menos atacadas en cualquier sistema. Estos documentos suelen simplificar el viaje por la puerta, si el transpondedor y la nave son compatibles. Tienes unos cuantos conjuntos diferentes entre los que puedes cambiar, aunque tengas que practicar respondiendo a un nuevo nombre en cada punto de control. Puede hacer más difícil seguirte y rastrearte a través de las facciones enemigas.",
       "class":"Bailarina Estelar"      
 		},
 		"(St) Lucky Charm": {

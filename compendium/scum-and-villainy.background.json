@@ -23,7 +23,7 @@
 		},
 		"Military": {
 			"name": "Militar",
-      "description": "Un soldado hegemónico, mercenario, agente de inteligencia, estratega, instructor de entrenamiento, etc." 
+      "description": "Un soldado hegemónico, mercenario, agente de inteligencia, estratega, instructor de combate, etc." 
 		},
 		"Noble": {
 			"name": "Noble",

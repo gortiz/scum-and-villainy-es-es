@@ -7,93 +7,93 @@
   
 	"entries": {
 		"(Me) Fine Hacking Rig": {
-			"name": "(Me) Equipo para Hackear Superior",
-      "description": "Gafas de visualización, exploits inéditos, chips overclockeados fuera del mercado, pinzas ópticas... El hacking implica tanto el hardware como el software. [1 carga]",
+			"name": "(Me) Plataforma de Hackeo Excelente",
+      "description": "Gafas de visualización, exploits inéditos, chips overclockeados del mercado negro, pinzas vampiro ópticas... El hacking es tanto el hardware como el software. ¿Quien mantiene tu equipo? ¿Escribes tus propios códigos o alguien te los facilita? ¿Tu kit tiene alguna decoración especial?[1 carga]",
       "class": "Mecánico"
 		},
 		"(Me) Fine Ship Repair Tools": {
-			"name": "(Me) Herramientas superiores de reparación de naves",
-      "description": "Llaves eléctricas, un taladro sónico, sondas de prueba, calibradores eléctricos, una pistola de remaches. [2 cargas]",
+			"name": "(Me) Herramientas excelentes de reparación de naves",
+      "description": "Herramientas eléctricas, un taladro sónico, sondas de prueba, calibradores eléctricos, una pistola de remaches. ¿Es un kit o las has ido comprando una a una? [2 cargas]",
       "class": "Mecánico"
 		},
 		"(Me) Genius Pet": {
 			"name": "(Me) Mascota genio",
-      "description": "No puede hablar, pero puede entender el lenguaje y ayudar en las tareas básicas. Le gustas. Muy mimoso. Anticipa tus acciones. [0 carga]",
+      "description": "No puede hablar, pero puede entender el lenguaje y ayudar en las tareas básicas. Le gustas. Muy adorable. Anticipa tus acciones. ¿Es algo común (como un perro o un gato) o es una criatura alienígena? ¿Cómo se llama? ¿De quién lo obtuviste (de forma legal o ilegal)?[0 carga]",
       "class": "Mecánico"
 		},
 		"(Me) Small Drone": {
 			"name": "(Me) Dron Pequeño",
-      "description": "Pequeño dron por control remoto con cámaras. Puede llevar algo ligero. [0 carga]",
+      "description": "Pequeño dron por control remoto con cámaras. Puede llevar algo ligero. ¿Lo fabricaste tu o lo compraste? ¿Vuela, anda o se arrastra? ¿qué apodo le pusiste? ¿Tienes varios drones en la nave o solo varios chasis y piezas de recambio para un solo dron? [0 carga]",
       "class": "Mecánico"
 		},
 		"(Me) Spare Parts": {
 			"name": "(Me) Piezas de repuesto",
-      "description": "Por lo general, para reparar barcos y aparatos electrónicos. A menudo se olvidan en el bolsillo o en el cinturón de herramientas.\n\nAunque no suelen ser muy caros, acabas llevando las piezas con las que trabajas y las piezas para reparar los barcos.\n\nSi necesitas un cable, una soldadura o un trozo de cinta adhesiva, los tienes a mano.\n\nLo que sea raro o más complejo puede requerir un rollo de estilo de vida para tenerlo contigo. [1 carga]",
+      "description": "Por lo general, para reparar naves y aparatos electrónicos. A menudo olvidadas en el bolsillo o en el cinturón de herramientas.\n\nAunque no suelen ser muy caras por lo general, de una forma u otra siempre acabas llevando las piezas con las que trabajas y las piezas para reparar las naves.\n\nSi necesitas un cable, un soldador o un trozo de cinta adhesiva, los tienes a mano.\n\nAlgo que sea más raro o complejo puede requerir una tirada de estilo de vida para tenerlo contigo. [1 carga]",
       "class": "Mecánico"
 		},
 		"(Me) Vision-Enhancing Goggles": {
 			"name": "(Me) Gafas de visión aumentada",
-      "description": "Gafas con ajustes térmicos y ultravioleta y niveles de aumento de miles. Se oscurece cuando es necesario. [1 carga]",
+      "description": "Gafas con ajustes para visión térmica y ultravioleta, al igual que varios niveles de aumento (x1000). También se oscurecen cuando es necesario. ¿Qué aspecto tienen? [1 carga]",
       "class": "Mecánico"
 		},
 		"(Mu) Detonator Launcher": {
 			"name": "(Mu) Zaratustra, un lanzagranadas",
-      "description": "Lanza granadas a gran velocidad. Las granadas son ilegales, por lo que generan Atención al ser disparadas. Puede utilizarse para marcar/dañar vehículos y estructuras. No es sutil. Baterías incluidas, pero los detonadores vienen por separado. [2 cargas]",
+      "description": "Lanzagranadas a gran velocidad. Las granadas son ilegales, por lo que generan Atención al ser disparadas. Puede utilizarse para marcar/dañar vehículos y estructuras. No es sutil. Baterías incluidas, pero los detonadores vienen por separado. [2 cargas]",
       "class": "Músculo"
 		},
 		"(Mu) Fine Blaster Pistol": {
 			"name": "(Mu) Krieger, una excelente pistola Blaster",
-      "description": "Como amigo o aliado, puede ser utilizado durante el tiempo de inactividad para amenazar o intimidar. Como enemigo, alguien lo posee y tiene una bala con su nombre. ¿Conoce esta arma íntimamente, de dónde o por qué? [1 carga]",
+      "description": "Como amigo o aliado, esta singular pistola puede ser utilizada durante el tiempo libre para amenazar o intimidar. Como enemigo, alguien la posee y tiene una bala con tu nombre. Conoces este arma íntimamente, ¿de dónde o por qué? [1 carga]",
       "class": "Músculo"
 		},
 		"(Mu) Fine Flamethrower": {
-			"name": "(Mu) Zmei, un buen lanzallamas",
-      "description": "Para cuando necesites calentar las cosas. Ajustes para regular y extra crujiente. No es fácil de ocultar. Sus ataques cubren el área de una habitación pequeña (y dejan marcas de quemaduras distintivas pueden resultar en atención adicional). Las complicaciones al recibir un disparo pueden incluir la ruptura de los depósitos de combustible. ¿Qué calcomanías o marcas legales tiene? [2 cargas]",
+			"name": "(Mu) Zmei, un excelente lanzallamas",
+      "description": "Para esos momentos en los que necesitas necesites calentar el ambiente. Ajustes para en su punto y extra crujiente. No es fácil de ocultar. Sus ataques cubren el área de una habitación pequeña (y dejan marcas de quemaduras distintivas que resultan en atención extra). Las complicaciones al recibir un disparo pueden incluir la ruptura de los depósitos de combustible. ¿Qué pegatinas o marcas lleva? [2 cargas]",
       "class": "Músculo"
 		},
 		"(Mu) Fine Martial Arts Style": {
-			"name": "(Mu) Estilo de Artes Marciales Superior",
-      "description": "Tu propia combinación personalizada de técnicas de lucha, única como una huella dactilar. ¿Dónde y con quién se formó por primera vez? ¿Cómo llamas a tu estilo? ¿Has tenido alguna vez alumnos? [0 carga]",
+			"name": "(Mu) Estilo de Artes Marciales Excelente",
+      "description": "Tu propia combinación personalizada de técnicas de lucha, única como una huella dactilar. ¿Dónde y con quién te entrenaste por primera vez? ¿Cómo llamas a tu estilo? ¿Has tenido alguna vez alumnos? [0 carga]",
       "class": "Músculo"
 		},
 		"(Mu) Fine Sniper Rifle": {
-			"name": "(Mu) Vera, un buen rifle de precisión",
-      "description": "Con bloqueo automático, máxima capacidad, gatillo personalizado, doble cartucho y contador completo. Puede disparar munición mística. ¿Lo personalizó usted mismo, lo encargó especialmente, lo sacó de un cuerpo o fue un regalo de alguien? [2 carga]",
+			"name": "(Mu) Vera, un excelente rifle de francotirador",
+      "description": "De alto calibre, con bloqueo automático, , gatillo personalizado, doble cartucho y calibración exhaustiva. Puede disparar munición mística. ¿Lo personalizaste tú mismo, lo encargaste especialmente, se lo quitaste a un muerto o fue un regalo de alguien? [2 carga]. Puede disparar munición mística. ¿Lo personalizó usted mismo, lo encargó especialmente, lo sacó de un cuerpo o fue un regalo de alguien? [2 carga]",
       "class": "Músculo"
 		},
 		"(Mu) Fine Vibro-Blade": {
-			"name": "(Mu) Sunder, una Vibro-cuchilla superior",
-      "description": "Corta casi cualquier material. Decorado. Cuchillo o navaja de duelo. ¿Qué diseño está grabado en la hoja? ¿Lo tomaste o lo conseguiste por derecho? [1 carga]",
+			"name": "(Mu) Sunder, una Vibro-cuchilla excelente",
+      "description": "Corta casi cualquier material. Decorada. Cuchillo o espada de duelo. ¿Qué diseño está grabado en la hoja? ¿Lo tomaste o lo ganaste por derecho? [1 carga]",
       "class": "Músculo"
 		},
 		"(Mu) Mystic Ammunition": {
 			"name": "(Mu) Munición Mística",
-      "description": "Una cápsula de gran calibre diseñada para ser disparada desde un arma especializada que libera energías místicas cuando impacta. Concede poder contra objetivos místicos. ¿Quién fabrica tus balas místicas? ¿Por qué son potentes contra las energías de la Senda? [0 carga]",
+      "description": "Con cartucho de gran calibre, diseñada para ser disparada desde un arma especializada que libera energías místicas cuando impacta. Concede potencia contra objetivos místicos. ¿Quién fabrica tus balas místicas? ¿Por qué son eficaces contra las energías de la Senda? [0 carga]",
       "class": "Músculo"
 		},
 		"(My) Fine Melee Weapon": {
-			"name": "(Mi) Arma Cuerpo a Cuerpo Superior",
-      "description": "Un arma anticuada que actúa como una extensión de su cuerpo. En la era de los blasters, las espadas y las armas de filo son restos de la cultura y la costumbre en su mayoría. Pero los poderes del Camino parecen interactuar a regañadientes con la tecnología avanzada. Cada orden mística guarda objetos anacrónicos y los utiliza de diferentes maneras. ¿Posees un arma así? En caso afirmativo, ¿qué formación ha recibido y cómo la utiliza?",
+			"name": "(Mi) Arma Cuerpo a Cuerpo Excelente",
+      "description": "Un arma anticuada que actúa como una extensión de tu cuerpo. En la era de los blasters, las espadas y las armas de filo son vestigios de la cultura y costumbres en su mayoría. Pero los poderes de la Senda parecen interactuar a regañadientes con la tecnología avanzada. Cada orden mística guarda objetos anacrónicos y los utiliza de diferentes maneras. ¿Posees un arma así? En caso afirmativo, ¿qué formación has recibido y cómo la utilizas? [2 cargas]",
       "class": "Místico"
 		},
 		"(My) Memento Of Your Travels": {
 			"name": "(Mi) Recuerdos de tus viajes",
-      "description": "Una pequeña estatua, una moneda anticuada, un mechón de pelo, un cuadro.",
+      "description": "Una pequeña estatua, una moneda anticuada, un mechón de pelo, un cuadro. ¿Quien te lo dio y porque lo guardas? ¿Es un buen o mal recuerdo? [0 carga]",
       "class": "Místico"
 		},
 		"(My) Offerings": {
 			"name": "(Mi) Ofrendas",
-      "description": "Una vela, una lámpara, flores, comida, agua, incienso, piedras de su viaje. ¿Regalos dejados en un santuario para que cualquier místico los recoja mientras pasea, u ofrecidos a cambio de un trabajo? [0 carga]",
+      "description": "Una vela, una lámpara, flores, comida, agua, incienso, piedras de un viaje. ¿Regalos dejados en un santuario para que cualquier místico los recoja mientras pasea, u ofrecidos a cambio de un trabajo? [0 carga]",
       "class": "Místico"
 		},
 		"(My) Outdated Religious Outfit": {
 			"name": "(Mi) Trajes Religiosos Fuera de Moda",
-      "description": "Batas, capas usadas, sandalias, etc. Los participantes y practicantes de los cultos hegemónicos populares y sancionados suelen llevar conocidas insignias de fabricación moderna. ¿Los tuyos fueron heredados? ¿Nunca lo ha sustituido? ¿Hecho a mano? [1 carga]",
+      "description": "Túnicas, capas usadas, sandalias, etc. Los participantes y practicantes de los cultos hegemónicos populares y autorizados suelen llevar insignias de fabricación moderna conocida. ¿Los tuyos fueron heredados? ¿Nunca los has sustituido? ¿Han sido hechos a mano? [1 carga]",
       "class": "Místico"
 		},
 		"(My) Precursor Artifact": {
 			"name": "(Mi) Artefacto Precursor",
-      "description": "Un pequeño objeto fabricado con materiales antiguos. Tecnología precursora. [1 carga]",
+      "description": "Un pequeño objeto fabricado con materiales antiguos. Tecnología Precursora. ¿Es algo que te fue dado por los místicos que te entrenaron, lo encontraste de pequeño o es algo que has recogido en tus viajes? ¿Qué hace? Habla con el resto de la mesa de su poder, valor y efectos secundarios.[1 carga]",
       "class": "Místico"
 		},
 		"(My) Trappings Of Religion": {
@@ -103,42 +103,42 @@
 		},
 		"(N) Knockout Drugs": {
 			"name": "(N) Drogas para Noquear",
-      "description": "Los efectos secundarios son comunes y pueden incluir dolor de cabeza, náuseas, mareos, muerte súbita, ataques violentos de ira y/o malestar leve. Puede no funcionar para todos los Xenos. [ carga]",
+      "description": "Los efectos secundarios son comunes y pueden incluir dolor de cabeza, náuseas, mareos, muerte súbita, ataques violentos de ira y/o malestar leve. Puede no funcionar para todos los Xenos. [0 carga]",
       "class": "No Letal"
 		},
 		"(N) Restraints": {
 			"name": "(N) Esposas",
-      "description": "Una amplia variedad para hacer frente a todo tipo de Xenos.",
+      "description": "Una amplia variedad para hacer frente a todo tipo de humanos y xeno. [0 carga]",
       "class": "No Letal"
 		},
 		"(N) Stun Batons": {
 			"name": "(N) Porras Aturdidoras",
-      "description": "¡Impactante!",
+      "description": "¡Impactante! [1 carga]",
       "class": "No Letal"
 		},
 		"(N) Stun Blasters": {
 			"name": "(N) Configuración aturdidora para Blasters",
-      "description": "Blasters normales con ajustes de aturdimiento, para cuando tu importante VIP no coopere.",
+      "description": "Blasters normales con ajustes de aturdimiento, para cuando tu VIP no coopere. [1 carga]",
       "class": "No Letal"
 		},
 		"(N) Stun Grenades": {
 			"name": "(N) Granadas Aturdidoras",
-      "description": "Flashbangs en el espacio! Reemplaza el detonador en la ficha.",
+      "description": "Flashbangs en el espacio. Reemplaza el detonador en la ficha. [1 carga]",
       "class": "No Letal"
 		},
 		"(P) Fine Customized Spacesuit": {
-			"name": "(P) Traje Espacial personalizado superior",
-      "description": "Bordado fresco, bengala de emergencia, algo de impulso. Te mantendrá vivo en el espacio o en caso de que tu cabina sea disparada. Te permite moverte un poco y quizás extender los saltos a la atmósfera. ¿Qué parches o arte personalizado tienes en el tuyo y qué significan? [2 cargas]",
+			"name": "(P) Traje Espacial personalizado excelente",
+      "description": "Parches molones, baliza de emergencia, algo de impulso. Te mantendrá vivo en el espacio o en caso de que tu cabina sea disparada. Te permite moverte y quizás puede extender los saltos cuando hay atmósfera. ¿Qué parches o arte personalizado tienes en el tuyo y qué significan? [2 cargas]",
       "class": "Piloto"
 		},
 		"(P) Fine Mechanic's Kit": {
-			"name": "(P) Kit de macánico superior",
-      "description": "Escáneres portátiles, kit de reparación de cascos, herramientas manuales diversas. Todo lo que necesitas para arreglar un vehículo y hacerlo volar de nuevo. ¿Qué herramienta acabas de conseguir? ¿Cuál has personalizado? [1 carga]",
+			"name": "(P) Kit de macánico excelente",
+      "description": "Escáneres portátiles, kit de reparación de casco de la nave, herramientas manuales diversas. Todo lo que necesitas para arreglar un vehículo y hacerlo volar de nuevo. ¿Qué herramienta acabas de conseguir? ¿Cuál has personalizado? [1 carga]",
       "class": "Piloto"
 		},
 		"(P) Fine Small Urbot": {
-			"name": "(P) Pequeño Urbot superior",
-      "description": "Un pequeño Urbot que ofrece apoyo para el pilotaje y puede llevar algunos objetos. Parece aterradoramente sensible. Los Urbots deben ser formateados una vez al año. ¿Hace cuánto tiempo que llevaste el tuyo al Gremio de Ingenieros para que te hicieran ese trámite? ¿Cuál es su denominación y qué rasgos de personalidad tiene? ¿Cómo es el chasis y cómo te ayuda a pilotarlo? [2 cargas]",
+			"name": "(P) Pequeño Urbot excelente",
+      "description": "Un pequeño Urbot que ofrece apoyo para el pilotaje y puede llevar pequeños objetos. Parece inquietantemente consciente. Los Urbots deben ser formateados una vez al año. ¿Hace cuánto tiempo que llevaste el tuyo al Gremio de Ingenieros para que te hicieran ese procedimiento? ¿Cuál es su denominación y qué rasgos de personalidad tiene? ¿Cómo es el chasis y cómo te ayuda a pilotarlo? [2 cargas]",
       "class": "Piloto"
 		},
 		"(P) Grappling Hook": {
@@ -148,7 +148,7 @@
 		},
 		"(P) Guild License": {
 			"name": "(P) Licencia de un Gremio",
-      "description": "Certificación de piloto legítima (aunque no sea la suya). Te permitirá pasar por una puerta de salto. ¿Cómo conseguiste el tuyo? [1 carga]",
+      "description": "Licencia de piloto legítima (aunque no sea la tuya). Te permitirá pasar por una puerta de salto. ¿Cómo la conseguiste? [1 carga]",
       "class": "Piloto"
 		},
 		"(P) Victory Cigars": {
@@ -158,135 +158,135 @@
 		},
 		"(S) Armor": {
 			"name": "(S) Armadura",
-      "description": "De cuerpo entero y nada sutil. Te protege de algunos disparos. Te defenderá de un cuchillo sin problemas. Cargado. Ayuda al movimiento."
+      "description": "De cuerpo entero y nada sutil. Te protege de algunos disparos. Te defenderá de un cuchillo sin problemas. Usa energía y ayuda al movimiento. [2 cargas]"
 		},
 		"(S) Blaster Pistol": {
 			"name": "(S) Pistola Blaster",
-      "description": "Dispara rayos de plasma calientes. Su alcance es sólo de cerca. Hace el pequeño ruido de 'pew' (obligatorio). Viene en una variedad de formas. ¿Cómo se personaliza el suyo?"
+      "description": "Dispara haces de plasma calientes. Precisa solo a corto alcance. Suena cuando dispara como ’piu piu' (obligatorio). Se encuentran en una gran variedad de formas. ¿Cómo esta la tuya personalizada? [1 o 2 cargas]"
 		},
 		"(S) Communicator": {
 			"name": "(S) Comunicador",
-      "description": "Tiene algunas bandas, probablemente incluso algunas encriptadas. Sólo funciona en órbita."
+      "description": "Tiene algunas bandas, probablemente incluso algunas encriptadas. Sólo funciona en órbita. [0 carga]"
 		},
 		"(S) Detonator": {
 			"name": "(S) Detonador",
-      "description": "Arma explosiva y mortal. Cabe en la palma de la mano y se puede lanzar. Se encarga de las puertas blindadas que los blasters pesados no pueden manejar. Es ilegal. No deberías tenerlo. No, en serio."
+      "description": "Arma explosiva y extremadamente mortal. Cabe en la palma de la mano y se puede lanzar. Se encarga de las puertas blindadas que los blasters pesados no pueden manejar. Es ilegal. No deberías tenerlo. No, en serio. [1 carga]"
 		},
 		"(S) Hacking Tools": {
 			"name": "(S) Herramientas de Hackeo",
-      "description": "Deque, alicates de empalme, enchufes y puertos, crackeadores de teclado, software especializado, fichas modificadas a medida, tabla de arco iris, exploits automatizados. Lo que todo hacker de crecimiento necesita."
+      "description": "Plataforma, alicates de empalme, enchufes y puertos, crackeadores de teclado, software especializado, fichas modificadas a medida, diccionarios arco iris, exploits automatizados. Lo que todo iniciado hacker necesita. [1 carga]"
 		},
 		"(S) Heavy Blaster": {
 			"name": "(S) Blaster Pesado",
-      "description": "Puede hacer un daño considerable a los vehículos y a cosas como las puertas no blindadas. Tiene una docena de disparos. Causa graves y complicados daños a las personas. Es ilegal."
+      "description": "Puede hacer un daño considerable a los vehículos y a cosas como las puertas no blindadas. Tiene una docena de disparos. Causa graves y engorrosos daños a las personas. Es ilegal. [2 cargas]"
 		},
 		"(S) Illicit Drugs": {
 			"name": "(S) Drogas Ilegales",
-      "description": "¿Cuál es tu veneno, vaquero del espacio? Uso personal, captura de una peligrosa recompensa o entretenimiento mientras se viaja entre planetas."
+      "description": "¿Cuál es tu veneno, vaquero espacial? Para uso personal, capturar una peligrosa recompensa o entretenimiento mientras viajas entre planetas. [0 carga]"
 		},
 		"(S) Medkit": {
-			"name": "(S) Kit Médico",
-      "description": "Sangre para algunas razas comunes, gasas, inyector antirradiación, bisturí láser, antisépticos, hilo, analgésicos."
+			"name": "(S) Botiquín Médico",
+      "description": "Sangre para algunas razas comunes, gasas, inyector anti-radiación, bisturí láser, antisépticos, hilo, analgésicos. [2 cargas]"
 		},
 		"(S) Melee Weapon": {
 			"name": "(S) Arma cuerpo a cuerpo",
-      "description": "Afilado. Sin cables. Puntiagudo. Para la perforación. Rebanar. Todos los tamaños diferentes. Algunos vienen con bordes láser. Algunos vibran... ¡Oh! Pilas incluidas."
+      "description": "Afilado. Contundente. Puntiagudo. Perforante. Cortante. Todos los tamaños diferentes. Algunos vienen con bordes láser. Algunos vibran... ¡Oh! Pilas incluidas. [1 carga]"
 		},
 		"(S) Repair Tools": {
 			"name": "(S) Herramientas de Reparación",
-      "description": "Cosas que necesitas para arreglar los motores de las naves, los velocípedos, los coches planeadores y similares. Herramientas para empalmar consolas y ajustar máquinas. Martillos, un soldador, destornilladores, llaves inglesas, cargadores de baterías, pinturas en spray."
+      "description": "Cosas que necesitas para arreglar los motores de las naves, los velocípedos, los coches planeadores y similares. Herramientas para empalmar consolas y ajustar máquinas. Martillos, un soldador, destornilladores, llaves inglesas, cargadores de baterías, pinturas en spray. [1 carga]"
 		},
 		"(S) Spacesuit": {
 			"name": "(S) Traje Espacial",
-      "description": "Algo de protección contra la radiación, supervivencia en atmósferas tóxicas, EVA (actividad extra vehicular). Medio día de oxígeno (u otro gas, líquido o sustancia que respires)."
+      "description": "Algo de protección contra la radiación, supervivencia en atmósferas tóxicas, EVA (actividad extra vehicular). Medio día de oxígeno (u otro gas, líquido o sustancia que respires). [2 cargas]"
 		},
 		"(S) Spy Gear": {
 			"name": "(S) Equipo de Espionage",
-      "description": "Disfraces, moduladores de voz, minicámaras, escáneres térmicos, huellas dactilares falsas y filtros de audio."
+      "description": "Disfraces, moduladores de voz, minicámaras, escáneres térmicos, huellas dactilares falsas y filtros de audio. [1 carga]"
 		},
 		"(Sc) Fine Blaster Pistol": {
-			"name": "(Ca) Pistola blaster superior",
-      "description": "(o un par a juego)\nPersonalizada o extraña. Puede disparar munición mística. ¿Qué es lo que disparan? ¿De dónde los has sacado? ¿Los has nombrado? [1 o 2 cargas]",
+			"name": "(Ca) Pistola blaster excelente",
+      "description": "(o un par a juego)\nPersonalizada o extraña. Puede disparar munición mística. ¿Qué es lo que disparan? ¿De dónde las has sacado? ¿Las has nombrado? [1 o 2 cargas]",
       "class": "Canalla"
 		},
 		"(Sc) Fine Coat": {
-			"name": "(Ca) Abrigo superior",
-      "description": "Un abrigo pesado, pero bien hecho y bien cuidado. Distintivo y con historia. ¿De dónde has sacado este abrigo? ¿Fue un regalo, una compra impulsiva o lo ganó en una apuesta? ¿Está decorado con alguna insignia o logotipo? Asegúrese de que tiene un aspecto o color memorable. [1 carga]",
+			"name": "(Ca) Chaqueta excelente",
+      "description": "Una chaqueta pesada, pero bien hecha y bien cuidada. Distintiva y con historia. ¿De dónde la has sacado? ¿Fue un regalo, una compra impulsiva o la ganaste en una apuesta? ¿Está decorada con alguna insignia o logotipo? Asegúrate de que tenga un aspecto o color memorable. [1 carga]",
       "class": "Canalla"
 		},
 		"(Sc) Forged Documents": {
 			"name": "(Ca) Documentos falsificados",
-      "description": "Facsímiles de documentos razonablemente bien hechos que nunca se concederían a alguien como tú. ¿Quién los hizo? ¿Aún le debes a alguien por ellos? ¿O se los robaste a alguien? [0 carga]",
+      "description": "Facsímiles de documentos razonablemente bien hechos que nunca se concederían a alguien como tú. ¿Quién los hizo? ¿Aún le debes a alguien por ellos? ¿O sé los robaste a alguien? [0 carga]",
       "class": "Canalla"
 		},
 		"(Sc) Loaded Dice or Trick Holo-cards": {
-			"name": "(Ca) Dados trucados o tarjetas holográficas con truco",
-      "description": "Los accesorios del juego han sido sutilmente alterados para favorecer ciertos resultados. La suerte es una de tus muchas habilidades, pero a veces necesitas un poco de ayuda. ¿Cuándo fue la última vez que le causó problemas? [0 carga]",
+			"name": "(Ca) Dados trucados o cartas holográficas con truco",
+      "description": "Los accesorios del juego han sido sutilmente alterados para favorecer ciertos resultados. La suerte es una de tus muchas habilidades, pero a veces necesitas un poco de ayuda. ¿Cuándo fue la última vez que te metieron en problemas? [0 carga]",
       "class": "Canalla"
 		},
 		"(Sc) Mystic Ammunition": {
 			"name": "(Ca) Munición Mística",
-      "description": "Una cápsula de alto calibre diseñada para ser disparada desde un arma especializada que libera energías místicas cuando impacta. Concede poder contra objetivos místicos. ¿Quién fabrica tus balas místicas? ¿Por qué son potentes contra las energías de la Senda? [0 carga]",
+      "description": "Con cartucho de gran calibre, diseñada para ser disparada desde un arma especializada que libera energías místicas cuando impacta. Concede potencia contra objetivos místicos. ¿Quién fabrica tus balas místicas? ¿Por qué son eficaces contra las energías de la Senda? [0 carga]",
       "class": "Canalla"
 		},
 		"(Sc) Personal Memento": {
 			"name": "(Ca) Recuerdo Personal",
-      "description": "Un recuerdo apreciado por usted. Un relicario, un pequeño holo, música de tu mundo. Para alguien tan vinculado a las vías espaciales, ¿qué tiene este recuerdo que lo hace tan importante? ¿A quién recuerdas? ¿Por qué lo sigues conservando? [0 carga]",
+      "description": "Un recuerdo que aprecias. Un relicario, un pequeño holograma, música de tu mundo. Para alguien tan vinculado a los viajes espaciales, ¿qué tiene este recuerdo que lo hace tan importante? ¿A quién recuerdas? ¿Por qué lo sigues conservando? [0 carga]",
       "class": "Canalla"
 		},
 		"(Sp) Fine Clothes": {
-			"name": "(Com) Ropas superiores",
-      "description": "Pareos de seda, trajes, finas capas azules. Destacas y siempre estás vestida para la ocasión. Nadie pensará que es un disfraz. ¿Qué conjunto es tu favorito? [1 carga]",
-      "class": "Comunicador"
+			"name": "(Or) Ropas Excelentes",
+      "description": "Pareos de seda, trajes, finas capas azules. Destacas y siempre estás vestido para la ocasión. Nadie pensará que es un disfraz. ¿Qué conjunto es tu favorito? [1 carga]",
+      "class": "Orador"
 		},
 		"(Sp) Large Luxury Item": {
-			"name": "(Com) Objetos de Lujo Grande",
-      "description": "Licores finos, regalos pequeños pero bien pensados, especias y perfumes, instrumentos superiores, juegos populares, etc. Pueden venir en una variedad de tamaños. Cada vez que lleves uno de ellos al trabajo, explica qué es y por qué es lujoso. [0, 1 o 2 cargas]",
-      "class": "Comunicador"
+			"name": "(Or) Objeto de Lujo Grande",
+      "description": "Licores finos, regalos pequeños pero bien pensados, especias y perfumes, instrumentos excelentes, juegos populares, etc. Pueden venir en una variedad de tamaños. Cada vez que lleves uno de ellos al trabajo, explica qué es y por qué es lujoso. [2 cargas]",
+      "class": "Orador"
 		},
 		"(Sp) Legitimate ID": {
-			"name": "(Com) Documento de identidad legítimo",
-      "description": "Una identificación hegemónica debidamente codificada que indica su estación legítima en la Hegemonía. ¿Quién se dará cuenta cuando muestre esto? [0 carga]",
-      "class": "Comunicador"
+			"name": "(Or) Documento de identidad legítimo",
+      "description": "Una identificación hegemónica debidamente codificada que indica tu estancia legítima en la Hegemonía. ¿Quién se dará cuenta cuando lo uses? [0 carga]",
+      "class": "Orador"
 		},
 		"(Sp) Medium Luxury Item": {
-			"name": "(Com) Objeto de Lujo Medio",
-      "description": "Licores finos, regalos pequeños pero bien pensados, especias y perfumes, instrumentos superiores, juegos populares, etc. Pueden venir en una variedad de tamaños. Cada vez que lleves uno de ellos al trabajo, explica qué es y por qué es lujoso. [0, 1 o 2 cargas]",
-      "class": "Comunicador"
+			"name": "(Or) Objeto de Lujo Medio",
+      "description": "Licores finos, regalos pequeños pero bien pensados, especias y perfumes, instrumentos excelentes, juegos populares, etc. Pueden venir en una variedad de tamaños. Cada vez que lleves uno de ellos al trabajo, explica qué es y por qué es lujoso. [1 carga]",
+      "class": "Orador"
 		},
 		"(Sp) Memento Of a Past Encounter": {
-			"name": "(Com) Recuerdo de un Encuentro Pasado",
-      "description": "Una joya distintiva, una cuchilla superior con el escudo de una casa, un anillo de sello, una pequeña estatua. ¿De quiénes son y por qué los conservan? [0 carga]",
-      "class": "Comunicador"
+			"name": "(Or) Recuerdo de un Encuentro Pasado",
+      "description": "Una joya distintiva, una cuchilla excelente con el escudo de una casa, un sello, una pequeña estatua. ¿De quiénes son y por qué los conservas? [0 carga]",
+      "class": "Orador"
 		},
 		"(Sp) Small Luxury Item": {
-			"name": "(Com) Objeto de Lujo Pequeño",
-      "description": "Licores finos, regalos pequeños pero bien pensados, especias y perfumes, instrumentos superiores, juegos populares, etc. Pueden venir en una variedad de tamaños. Cada vez que lleves uno de ellos al trabajo, explica qué es y por qué es lujoso. [0, 1 o 2 cargas]",
-      "class": "Comunicador"
+			"name": "(Or) Objeto de Lujo Pequeño",
+      "description": "Licores finos, regalos pequeños pero bien pensados, especias y perfumes, instrumentos excelentes, juegos populares, etc. Pueden venir en una variedad de tamaños. Cada vez que lleves uno de ellos al trabajo, explica qué es y por qué es lujoso. [0 carga]",
+      "class": "Orador"
 		},
 		"(St) Candies and Treats": {
 			"name": "(Ci) Dulces y caramelos",
-      "description": "Para los clientes más valientes. ¿También los comes? ¿Has usado alguna vez para disfrazar un sedante para alguien? [1 carga]",
+      "description": "Para los clientes más valientes. ¿También los comes tú? ¿Has usado alguna vez añadido un sedativo para alguien? [1 carga]",
       "class": "Cirujano"
 		},
 		"(St) Fine Bedside Manner": {
 			"name": "(Ci) Buen trato con pacientes",
-      "description": "Encanto que hace que los pacientes se sientan cómodos. Algunos médicos no se preocupan por eso. ¿Sabes relacionarte con mucha gente? ¿Comparte muchas anécdotas? ¿Proyecta usted una imagen de habilidad segura? [0 Carga]",
+      "description": "Encanto que hace que los pacientes se sientan cómodos. Algunos médicos no se preocupan por eso. ¿Sabes relacionarte con mucha gente? ¿Compartes muchas anécdotas? ¿Proyectas una imagen de saber lo que haces? [0 Carga]",
       "class": "Cirujano"
 		},
 		"(St) Fine Clothing": {
-			"name": "(Ci) Ropas superiores",
-      "description": "Un traje o conjunto para cenas elegantes y reuniones de la alta sociedad. ¿Es un artefacto de su pasado o algo que eligió cuando tuvo que solicitar financiación para su trabajo médico? [1 carga]",
+			"name": "(Ci) Ropas excelentes",
+      "description": "Un traje o conjunto para cenas elegantes y reuniones de la alta sociedad. ¿Es un artefacto de tu pasado o algo que compraste cuando tuviste que solicitar financiación para tu trabajo médico? [1 carga]",
       "class": "Cirujano"
 		},
 		"(St) Fine Medkit": {
-			"name": "(Ci) Kit Médico superior",
-      "description": "Con más artículos de los habituales. Pinzas para la piel, escáneres de diagnóstico portátiles, piel sintética, estabilizadores óseos, spray hipoglucemiante, antídoto (para bestias alienígenas peligrosas) y una mayor selección de medicamentos. ¿Hay alguna marca distintiva en su kit médico? [2 cargas]",
+			"name": "(Ci) Botiquín Médico Excelente",
+      "description": "Mejor surtido que los botiquines habituales. Pinzas para la piel, escáneres de diagnóstico portátiles, piel sintética, estabilizadores óseos, spray hipoglucemiante, antídoto (para bestias alienígenas peligrosas) y una gran selección de medicamentos. ¿Hay alguna marca distintiva en tu botiquín médico? [2 cargas]",
       "class": "Cirujano"
 		},
 		"(St) Recognizable Medic Garb": {
 			"name": "(Ci) Uniforme médico reconocible",
-      "description": "La ropa roja ordinaria de médico con el sello médico blanco oficial de la Hegemonía. Reconocible desde la distancia. ¿Cuáles son las normas sobre el tratamiento de los médicos en combate? ¿Tiene el personal médico obligaciones legales mientras lleva el uniforme? [0 carga]",
+      "description": "La vestimenta común para un sanitario de color roja con el sello médico blanco oficial de la Hegemonía. Reconocible a distancia. ¿Cuáles son las normas sobre el trato de los médicos en combate? ¿Tiene el personal médico obligaciones legales mientras lleva el uniforme? [0 carga]",
       "class": "Cirujano"
 		},
 		"(St) Syringes and Applicators": {

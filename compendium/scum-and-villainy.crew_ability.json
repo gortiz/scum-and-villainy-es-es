@@ -8,107 +8,107 @@
 	"entries": {
 		"(C) Deadly": {
 			"name": "(C) Mortal",
-      "description": "Cada PJ puede añadir 1 valor de acción a Mando, Pelea o Escabullirse (hasta un máximo de 3).\n\nCada jugador puede elegir su acción preferida (no tienen que elegir la misma). Si utilizas esta habilidad durante la creación inicial del personaje y la tripulación, anula el límite inicial normal de los valores de acción.",
+      "description": "Cada PJ puede añadir 1 punto de acción a Mando, Pelea o Escabullirse (hasta un máximo de 3).\n\nCada jugador puede elegir su acción preferida (no tienen que elegir la misma). Si utilizas esta habilidad durante la creación inicial del personaje y la tripulación, anula el límite inicial normal de los valores de puntos de acción.",
       "class":"Cerberus"      
 		},
 		"(C) Licensed": {
 			"name": "(C) Con Licencia",
-      "description": "Consigue -2 atención en cualquier trabajo legítimo de cazarecompensas.\n\nTu nave puede llevar armas de partículas y tu tripulación puede llevar y usar legalmente explosivos pesados en la persecución de un objetivo.\n\nEsto también significa que llevas licencia de cazarrecompensas. Se puede utilizar para explicar el hecho de estar en lugares donde no se debe estar y llevar armas cuando en otras circunstancias serían confiscadas. La cooperación con la ley varía de un planeta a otro.",
+      "description": "Consigue -2 atención en cualquier trabajo legítimo de cazarrecompensas.\n\nTu nave puede llevar armas de partículas y tu tripulación puede llevar y usar legalmente blasters pesados en la persecución de un objetivo.\n\nEsto también significa que llevas licencia de cazarrecompensas. Se puede utilizar para explicar el hecho de estar en lugares donde no se debe estar y llevar armas cuando en otras circunstancias serían confiscadas. La cooperación con la ley varía de un planeta a otro.",
       "class":"Cerberus"  
 		},
 		"(C) Light Touch": {
 			"name": "(C) Tacto Fino",
-      "description": "Se gana potencia rastreando a un objetivo o reuniendo información sobre la ubicación anterior de un objetivo.\n\nLas ubicaciones anteriores pueden incluir lugares en los que se han alojado, escenas del crimen, bares favoritos, etc. También se puede utilizar para rastrear si estás en el camino.",
+      "description": "Se gana potencia rastreando a un objetivo o reuniendo información sobre la ubicación anterior de un objetivo.\n\nLas ubicaciones anteriores pueden incluir lugares en los que se han alojado, escenas de un crimen, bares favoritos, etc. También se puede utilizar para rastrear si estás cerca del objetivo.",
       "class":"Cerberus"  
 		},
 		"(C) Loaded For Bear": {
 			"name": "(C) Cargados Hasta las Trancas",
-      "description": "Tu tripulación puede llevar +1 carga. Tienen una armadura distintiva de alta calidad.\n\nCuando llevan armadura, cuenta como armadura pesada (dos usos).\n\nLa carga máxima de cada miembro de la tripulación se incrementa (así la carga ligera pasa a ser 1-4, la media 5-6 y la pesada 7-9). ¿Quién creó esta armadura distintiva (y quién puede reconocer su marca)? La armadura pesada te permite marcar la segunda casilla de armadura (pesada) en tu ficha para reducir el daño correspondiente.",
+      "description": "Tu tripulación puede llevar +1 carga. Tiene una armadura distintiva de alta calidad.\n\nCuando lleva armadura, cuenta como armadura pesada (dos usos).\n\nLa carga máxima de cada miembro de la tripulación se incrementa (así la carga ligera pasa a ser 1-4, la media 5-6 y la pesada 7-9). ¿Quién creó esta armadura distintiva (y quién puede reconocer su manufactura)? La armadura pesada te permite marcar la segunda casilla de armadura (pesada) en tu ficha para reducir el daño correspondiente.",
       "class":"Cerberus"  
 		},
 		"(C) On the Trail": {
 			"name": "(C) Siguiendo el Rastro",
-      "description": "Su equipo obtiene tiempo extra para trabajar en proyectos a largo plazo o adquirir recursos para seguir las recompensas.\n\nA veces conoces la recompensa, pero no sabes dónde está escondida. Dependiendo de tus contactos e influencias, puede ser necesario algo más que una simple comprobación de la información obtenida. Cualquiera del equipo puede usar esta acción fuera de servicio y hacer la tirada correspondiente.",
+      "description": "La tripulación obtiene una actividad extra en tiempo libre para trabajar en proyectos a largo plazo o adquirir recursos para rastrear a las recompensas.\n\nA veces conoces a la recompensa, pero no sabes dónde está escondida. Dependiendo de tus contactos e influencias, puede ser necesario algo más que una simple tirada de recabar información. Cualquiera del equipo puede usar esta acción en tiempo libre y hacer la tirada correspondiente.",
       "class":"Cerberus"  
 		},
 		"(C) Play Both Sides": {
 			"name": "(C) Jugar a dos Bandas",
-      "description": "Cuando liberes a un objetivo de recompensa, haz que sea un contacto de la tripulación.\n\nAunque puede que no recibas el pago de las facciones que te contratan, muchas presas tienen algunos créditos ahorrados y están dispuestas a negociar por la libertad. Sin embargo, son más lucrativos los trabajos o las propinas que puedan tener. Añade al objetivo como contacto de la tripulación, teniendo en cuenta que un día puede ser capturado por otros cazarrecompensas (y puede pagar a tu tripulación un rescate). No todos los cazarrecompensas capturan a sus objetivos, por lo que el master ajustará (o no) el estado de la facción según lo requiera la narrativa al final de dicho trabajo.",
+      "description": "Cuando liberes a un objetivo de recompensa, lo puedes hacer un contacto de la tripulación.\n\nAunque puede que no recibas el pago de las facciones que te contratan, muchos objetivos tienen algunos creds ahorrados y están dispuestos a negociar por su libertad. Sin embargo, mucho más lucrativos pueden ser los trabajos o información privilegiada que puedan tener. Añade al objetivo como contacto de la tripulación, teniendo en cuenta que un día puede ser capturado por otros cazarrecompensas (y puede pagar a tu tripulación un rescate). No todos los cazarrecompensas capturan a sus objetivos, por lo que el master ajustará (o no) el estado de la facción según lo requiera la narrativa al final de dicho trabajo.",
       "class":"Cerberus"  
 		},
 		"(C) Snatch'N'Grab": {
 			"name": "(C) Captura y Agarre",
-      "description": "Cuando utilices el engaño, infiltración o social para ejecutar un secuestro o una extracción, añade +1d a tu tirada inicial.\n\nTu tripulación se concentra en obtener de forma segura un objetivo prioritario sin hacer saltar las alarmas. Cualquier misión en la que debas eliminar un objetivo vigilado por sus guardias se aplica a esta habilidad.",
+      "description": "Cuando utilices un plan de engaño, infiltración o social para ejecutar un secuestro o una extracción, añade +1d a tu tirada de enfrentamiento.\n\nEl objetivo de tu tripulación es en extraer de forma segura un objetivo prioritario sin hacer saltar las alarmas. Cualquier misión en la que debas extraer un objetivo vigilado por sus guardias se aplica a esta habilidad.",
       "class":"Cerberus"  
 		},
 		"(F) Forged In Fire": {
 			"name": "(Dr) Forjado en Fuego",
-      "description": "Su tripulación ha sido endurecida por una experiencia cruel. Cada uno de vosotros recibe +1d a todas las tiradas de resistencia. Esta habilidad se aplica a todos los PJ de la tripulación.",
+      "description": "La tripulación ha sido endurecida por una experiencia cruel. Cada uno de vosotros recibe +1d a todas las tiradas de resistencia. Esta habilidad se aplica a todos los PJ de la tripulación.",
       "class":"Dragón de Fuego"      
 		},
 		"(F) Hearts & Minds": {
 			"name": "(Dr) Corazones & Mentes",
-      "description": "Cada miembro de la tripulación puede añadir 1 valor de acción a ComMandarandar, Socializar o Convencer (hasta un máximo de 3).\n\nCada jugador puede elegir su acción preferida (no tienen que elegir la misma). Si utilizas esta habilidad durante la creación inicial del personaje y la tripulación, anula el límite inicial normal de los valores de acción.",
+      "description": "Cada miembro de la tripulación puede añadir 1 punto de acción a Mandar, Socializar o Convencer (hasta un máximo de 3).\n\nCada jugador puede elegir su acción preferida (no tienen que elegir la misma). Si utilizas esta habilidad durante la creación inicial del personaje y la tripulación, anula el límite inicial normal de los puntos de acción.",
       "class":"Dragón de Fuego"      
 		},
 		"(F) Just Cause": {
 			"name": "(Dr) Causa Justa",
-      "description": "Cuando tu tripulación hace lo correcto a un costo para ellos mismos, puedes anotar un xp de la tripulación.\n\nEl costo para la tripulación debe ser real, aunque no tiene que ser devastador. Perder una oportunidad importante, llegar tarde a un proyecto o enfadar a una facción poderosa son algunos ejemplos.",
+      "description": "Cuando la tripulación hace lo correcto a un coste para ellos mismos, se gana 1XP de la tripulación.\n\nEl coste para la tripulación debe ser real, aunque no tiene porque ser devastador. Perder una oportunidad importante, tener un retraso en un proyecto o enfadar a una facción poderosa son algunos ejemplos.",
       "class":"Dragón de Fuego"      
 		},
 		"(F) Natural Enemies": {
 			"name": "(Dr) Enemigos Naturales",
-      "description": "Cuando realices trabajos contra facciones de la Hegemonía, recibe +1d a la tirada inicial.\n\nEsto se aplica a cualquier trabajo en el que tu objetivo principal sea una de las facciones de la columna de la Hegemonía (ver página 316), como Gremios, Sectas o la Casa Malklaith. Si el trabajo molesta a una facción, pero no implica a sus miembros, la bonificación no se aplica.",
+      "description": "Cuando la tripulación realice trabajos contra facciones de la Hegemonía, recibe +1d a la tirada de enfrentamiento.\n\nEsto se aplica a cualquier trabajo en el que el objetivo principal sea una de las facciones de la columna de la Hegemonía (ver página 316), como Gremios, Sectas o la Casa Malklaith. Si el trabajo importuna a una facción, pero no implica a sus miembros, la bonificación no se aplica.",
       "class":"Dragón de Fuego"      
 		},
 		"(F) Old Hands": {
 			"name": "(Dr) Manos Viejas",
-      "description": "Cuando esté en Guerra (-3) con una facción de la Hegemonía, todos los miembros de la tripulación reciben +1d en las tiradas de vicio y siguen teniendo dos actividades libres en lugar de sólo una.Puedes elegir no tirar el dado extra para el vicio si lo deseas.",
+      "description": "Cuando esté en Guerra (-3) con una facción de la Hegemonía, todos los miembros de la tripulación reciben +1d en las tiradas de vicio y siguen teniendo dos actividades en tiempo libre en lugar de sólo una. Puedes elegir no tirar el dado extra para satisfacer el vicio si lo deseas.",
       "class":"Dragón de Fuego"      
 		},
 		"(F) Spark Of Rebellion": {
 			"name": "(Dr) Chispa de Rebelión",
-      "description": "Si dejas una tarjeta de visita o un símbolo de resistencia muy visible en el trabajo, recibe +2 de atención. Tu tripulación gana +1d a su vici durante su próximo tiempo libre y no puede excederse.\n\nCuando uses esta habilidad, discute cuál es tu símbolo de rebelión. Al dejar su tarjeta de visita, debe ser prominente o fácil de encontrar (preferiblemente para más de la Hegemonía).",
+      "description": "Si dejáis una tarjeta de visita o un símbolo de resistencia muy visible en el trabajo, recibe +2 de atención. La tripulación gana +1d a su tirada de vicio durante su próximo tiempo libre y no puede excederse.\n\nCuando esta habilidad es elegida, discutid cuál es el símbolo de rebelión. Al dejar la tarjeta de visita, debe ser prominente o fácil de encontrar (preferiblemente para más que la Hegemonía).",
       "class":"Dragón de Fuego"
 		},
 		"(F) Sympathizers": {
 			"name": "(Dr) Simpatizantes",
-      "description": "Su ideología es especialmente entrañable. Al tratar con una tripulación o facción, el master te dirá quién de ellos cree en tu causa (uno, algunos, muchos o todos).\n\nSi el master no está seguro de la respuesta, puede hacer una tirada de azar usando la calidad de la tripulación, quizás modificada por su posición con una facción. Las facciones no son monolíticas y aunque la facción en su conjunto (y ciertos individuos dentro de ella) pueden despreciar a los PJ, algunos de sus miembros siguen teniendo, quizás, tendencias rebeldes. Ten en cuenta que la respuesta a la pregunta sobre quién cree es siempre al menos una.",
+      "description": "Vuestra ideología es especialmente atractiva. Al tratar con una tripulación o facción, el master os dirá quién de ellos cree en tu causa (uno, algunos, muchos o todos).\n\nSi el master no está seguro de la respuesta, puede hacer una tirada de suerte usando la calidad de la tripulación, quizás modificada por la posición con la facción. Las facciones no son monolíticas y aunque la facción en su conjunto (y ciertos individuos dentro de ella) pueden despreciar a los PJ, algunos de sus miembros siguen teniendo, quizás, tendencias rebeldes. Ten en cuenta que la respuesta a la pregunta sobre quién cree es siempre al menos una persona.",
       "class":"Dragón de Fuego"      
 		},
 		"(S) Cargo Eye": {
-			"name": "(Ba) Ojo de Carga",
-      "description": "Tu tripulación gana +1 cred por trabajos de contrabando o entrega. Al buscar información siempre puedes preguntar: 'Qué es los mas valioso aquí?'\n\nel cred extra es independiente de lo que pague el tabajo. Puede hacerse la pregunta siempre que sea aplicable.",
+			"name": "(Ba) Ojo para Carga",
+      "description": "Tu tripulación gana +1 cred por trabajos de contrabando o entrega. Al recabar información siempre puedes preguntar: '¿Qué es los mas valioso aquí?'\n\nEl cred extra es independiente de lo que pague el trabajo. Puede hacerse la pregunta siempre que sea aplicable.",
       "class":"Bailarina Estelar"      
 		},
 		"(S) Field Repairs": {
 			"name": "(Ba) Reparaciones en Vuelo",
-      "description": "Ganas potencia reparando tu nave en el espacio. Si gastas un gambito en una tirada de apañar, ganas +2d (en lugar de +1d).\n\nEsta potencia puede, ficticiamente, permitirte hacer reparaciones que otros no pueden - por ejemplo, reparar por un tiempo una nave dañada que normalmente requiere un dique seco. Los dados de gambito extra se aplican a cualquier tirada de apañar, no sólo a las reparaciones.",
+      "description": "Ganas potencia reparando la nave en el espacio. Si gastas un gámbito en una tirada de apañar, ganas +2d (en lugar de +1d).\n\nEsta potencia puede, ficticiamente, permitirte hacer reparaciones que otros no pueden - por ejemplo, reparar de forma temporal una nave dañada que normalmente requiere un dique seco. Los dados de gámbito extra se aplican a cualquier tirada de apañar, no sólo a las reparaciones.",
       "class":"Bailarina Estelar"      
 		},
 		"(S) Home Cooking": {
 			"name": "(Ba) Cocina Casera",
-      "description": "Todo tu equipo adquiere la cocina casera como un vicio. Justo después de un trabajo, puedes gastar 1 cred y una actividad libre para cocinar para todos, lo que permite a toda la tripulación presente hacer una tirada de vicio.\n\nSi alguien se excede, se inicia una pelea y todos ganan 1 estrés después de la tirada de vicio.\n\nRequiere un módulo de cocina.\n\nLa tripulación puede dividir quién gasta la actividad y quién paga el cred. El estrés al final se aplica después de todos los resultados (esto incluye jugar con la ganancia o pérdida máxima de estrés, a través de la habilidad Hedonista del piloto). Cada uno de ustedes gana 1 estrés total (no 1 por exceso).",
+      "description": "Todo la tripulación adquiere la cocina casera como un vicio. Justo después de un trabajo, puedes gastar 1 cred y una actividad libre para cocinar para todos, lo que permite a toda la tripulación presente hacer una tirada de vicio.\n\nSi alguien se excede, se inicia una pelea y todos ganan 1 estrés después de la tirada de vicio.\n\nRequiere un módulo de cocina.\n\nLa tripulación puede dividir quién gasta la actividad y quién paga el cred. El estrés al final se aplica después de todos los resultados (esto incluye jugar con la ganancia o pérdida máxima de estrés, a través de la habilidad Hedonista del piloto). Cada uno gana 1 estrés total (no 1 por exceso).",
       "class":"Bailarina Estelar"      
 		},
 		"(S) Just Passing Through": {
 			"name": "(Ba) Sólo de Paso",
-      "description": "Durante la recompensa, quita -1 de atención en el trabajo.\n\nCuando tu atención es 4 o menos, ganas +1d para engañar a la gente haciéndote pasar por un ciudadano normal, y sigues teniendo dos actividades aunque estés en Guerra (-3) con cualquier facción, ya que tienen problemas para localizarte.\n\nUsa la atención del sistema en el que estás al inicio del descanso para determinar el número de actividades que realiza cada miembro de la tripulación. Si, durante el descanso, la tripulación pasa por un sistema con alta atención, las facciones enemigas pueden encontrarlos de todos modos.",
+      "description": "Durante la recompensa, recibes un bonificador de -1 de atención en el trabajo.\n\nCuando tu atención es 4 o menos, ganas +1d para engañar a la gente haciéndote pasar por un ciudadano normal, y sigues teniendo dos actividades aunque estés en Guerra (-3) con cualquier facción, ya que tienen problemas para localizarte.\n\nUsa la atención del sistema en el que estás al inicio del tiempo libre para determinar el número de actividades que realiza cada miembro de la tripulación. Si, durante el descanso, la tripulación pasa por un sistema en el que la atención es alta, las facciones enemigas pueden encontrarlos de todos modos.",
       "class":"Bailarina Estelar"      
 		},
 		"(S) Leverage": {
 			"name": "(Ba) Influencia",
-      "description": "El equipo sabe cómo mover los hilos y ganar favores. Al pasar desapercibido, en lugar de tirar, puedes reducir tu estatus en -1 con una facción en Colegas (+1) para reducir tu nivel de búsqueda en 1, y poner tu atención a 0 en un sistema.\n\nPuedes usar los cambios de facción que ocurrieron en el trabajo actual. No tienes que irte del sistema en el que hiciste el trabajo, la facción te ayudará a cubrir tu rastro de todos modos.",
+      "description": "El equipo sabe cómo mover los hilos y usar favores debidos. Al pasar desapercibido como actividad de tiempo libre, en lugar de tirar, puedes reducir tu estatus en -1 con una facción en Colegas (+1) o mejor para reducir tu nivel de búsqueda en 1, y poner tu atención a 0 en un sistema.\n\nPuedes usar los cambios de facción que ocurrieron en el trabajo actual. No tienes que irte del sistema en el que hiciste el trabajo, la facción te ayudará a cubrir tu rastro.",
       "class":"Bailarina Estelar"      
 		},
 		"(S) Problem Solvers": {
 			"name": "(Ba) Solucionadores de Problemas",
-      "description": "Cada PJ puede añadir 1 valor de acción a Apañar, Nave o Esfuerzo (hasta un máximo de 3).\n\nCada jugador puede elegir su acción preferida (no tienen que elegir la misma). Si utilizas esta habilidad durante la creación inicial del personaje y la tripulación, anula el límite inicial normal de los valores de acción.",
+      "description": "Cada PJ puede añadir 1 punto de acción a Apañar, Nave o Esfuerzo (hasta un máximo de 3).\n\nCada jugador puede elegir su acción preferida (no tienen que elegir la misma). Si utilizas esta habilidad durante la creación inicial del personaje y la tripulación, anula el límite inicial normal de los puntos de acción.",
       "class":"Bailarina Estelar"      
 		},
 		"(S) The Getaway": {
 			"name": "(Ba) La Fuga",
-      "description": "Ganas potencia cuando haces tiradas de esfuerzo o nave para evitar la captura o hacer un bloqueo. Al hacer un trabajo de entrega, recibe +1d a la tirada de inicio.\n\nA veces, escapar es la mejor parte de la valentía. Esta habilidad funciona para cualquier persona de la tripulación, esté o no en el barco. Un reparto puede ser cualquier trabajo en el que el objetivo principal sea transportar una carga (legal, ilegal o personal) entre dos lugares.",
+      "description": "La tripulación gana potencia cuando hace tiradas de Esfuerzo o Nave para evitar tu captura o evadir un bloqueo. Al hacer un trabajo de entrega, recibe +1d a la tirada de enfrentamiento.\n\nA veces, escapar es la mejor parte de la valentía. Esta habilidad funciona para cualquier persona de la tripulación, esté o no en la nave. Una entrega puede ser cualquier trabajo en el que el objetivo principal sea transportar una carga (legal, ilegal o una persona) entre dos lugares.",
       "class":"Bailarina Estelar"      
 		}
 	}
