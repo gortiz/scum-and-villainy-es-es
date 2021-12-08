@@ -317,7 +317,7 @@
       "class":"Cirujano"      
 		},
 		"(St) Dr. Strange": {
-			"name": "(Ci) Dr. Extraño",
+			"name": "(Ci) Dr. Misterio",
       "description": "Tus investigaciones y campos de estudio son extraños, esotéricos y tienen un enfoque místico.\n\nSiempre puedes manipular artefactos Precursores de forma segura.\n\nCuando estudies un artefacto o hagas una tirada de Medicina con una sustancia extraña, puedes preguntarte una de las siguientes cosas:\n\n¿Qué puede hacer esto?\n\n¿Por qué puede ser peligroso?\n\nSe requiere una tirada de sintonizar para manipular un artefacto Precursor de forma segura. Cuando hagas tus preguntas, esto puede ser además de cualquier otra cosa que vayas a hacer con el artefacto o la sustancia. Trata esto como una tirada de recabar información en la que has obtenido un 6.",
       "class":"Cirujano"      
 		},

@@ -7,12 +7,12 @@
   
 	"entries": {
 		"(Me) Fine Hacking Rig": {
-			"name": "(Me) Plataforma de Hackeo Excelente",
+			"name": "(Me) Plataforma de Hackeo buena",
       "description": "Gafas de visualización, exploits inéditos, chips overclockeados del mercado negro, pinzas vampiro ópticas... El hacking es tanto el hardware como el software. ¿Quien mantiene tu equipo? ¿Escribes tus propios códigos o alguien te los facilita? ¿Tu kit tiene alguna decoración especial?[1 carga]",
       "class": "Mecánico"
 		},
 		"(Me) Fine Ship Repair Tools": {
-			"name": "(Me) Herramientas excelentes de reparación de naves",
+			"name": "(Me) Herramientas buenas de reparación de naves",
       "description": "Herramientas eléctricas, un taladro sónico, sondas de prueba, calibradores eléctricos, una pistola de remaches. ¿Es un kit o las has ido comprando una a una? [2 cargas]",
       "class": "Mecánico"
 		},
@@ -42,27 +42,27 @@
       "class": "Músculo"
 		},
 		"(Mu) Fine Blaster Pistol": {
-			"name": "(Mu) Krieger, una excelente pistola Blaster",
+			"name": "(Mu) Krieger, una pistola Blaster buena",
       "description": "Como amigo o aliado, esta singular pistola puede ser utilizada durante el tiempo libre para amenazar o intimidar. Como enemigo, alguien la posee y tiene una bala con tu nombre. Conoces este arma íntimamente, ¿de dónde o por qué? [1 carga]",
       "class": "Músculo"
 		},
 		"(Mu) Fine Flamethrower": {
-			"name": "(Mu) Zmei, un excelente lanzallamas",
+			"name": "(Mu) Zmei, un lanzallamas bueno",
       "description": "Para esos momentos en los que necesitas necesites calentar el ambiente. Ajustes para en su punto y extra crujiente. No es fácil de ocultar. Sus ataques cubren el área de una habitación pequeña (y dejan marcas de quemaduras distintivas que resultan en atención extra). Las complicaciones al recibir un disparo pueden incluir la ruptura de los depósitos de combustible. ¿Qué pegatinas o marcas lleva? [2 cargas]",
       "class": "Músculo"
 		},
 		"(Mu) Fine Martial Arts Style": {
-			"name": "(Mu) Estilo de Artes Marciales Excelente",
+			"name": "(Mu) Estilo de Artes Marciales bueno",
       "description": "Tu propia combinación personalizada de técnicas de lucha, única como una huella dactilar. ¿Dónde y con quién te entrenaste por primera vez? ¿Cómo llamas a tu estilo? ¿Has tenido alguna vez alumnos? [0 carga]",
       "class": "Músculo"
 		},
 		"(Mu) Fine Sniper Rifle": {
-			"name": "(Mu) Vera, un excelente rifle de francotirador",
+			"name": "(Mu) Vera, un rifle de francotirador bueno",
       "description": "De alto calibre, con bloqueo automático, , gatillo personalizado, doble cartucho y calibración exhaustiva. Puede disparar munición mística. ¿Lo personalizaste tú mismo, lo encargaste especialmente, se lo quitaste a un muerto o fue un regalo de alguien? [2 carga]. Puede disparar munición mística. ¿Lo personalizó usted mismo, lo encargó especialmente, lo sacó de un cuerpo o fue un regalo de alguien? [2 carga]",
       "class": "Músculo"
 		},
 		"(Mu) Fine Vibro-Blade": {
-			"name": "(Mu) Sunder, una Vibro-cuchilla excelente",
+			"name": "(Mu) Sunder, una Vibro-cuchilla buena",
       "description": "Corta casi cualquier material. Decorada. Cuchillo o espada de duelo. ¿Qué diseño está grabado en la hoja? ¿Lo tomaste o lo ganaste por derecho? [1 carga]",
       "class": "Músculo"
 		},
@@ -72,7 +72,7 @@
       "class": "Músculo"
 		},
 		"(My) Fine Melee Weapon": {
-			"name": "(Mi) Arma Cuerpo a Cuerpo Excelente",
+			"name": "(Mi) Arma Cuerpo a Cuerpo buena",
       "description": "Un arma anticuada que actúa como una extensión de tu cuerpo. En la era de los blasters, las espadas y las armas de filo son vestigios de la cultura y costumbres en su mayoría. Pero los poderes de la Senda parecen interactuar a regañadientes con la tecnología avanzada. Cada orden mística guarda objetos anacrónicos y los utiliza de diferentes maneras. ¿Posees un arma así? En caso afirmativo, ¿qué formación has recibido y cómo la utilizas? [2 cargas]",
       "class": "Místico"
 		},
@@ -127,17 +127,17 @@
       "class": "No Letal"
 		},
 		"(P) Fine Customized Spacesuit": {
-			"name": "(P) Traje Espacial personalizado excelente",
+			"name": "(P) Traje Espacial personalizado bueno",
       "description": "Parches molones, baliza de emergencia, algo de impulso. Te mantendrá vivo en el espacio o en caso de que tu cabina sea disparada. Te permite moverte y quizás puede extender los saltos cuando hay atmósfera. ¿Qué parches o arte personalizado tienes en el tuyo y qué significan? [2 cargas]",
       "class": "Piloto"
 		},
 		"(P) Fine Mechanic's Kit": {
-			"name": "(P) Kit de macánico excelente",
+			"name": "(P) Kit de macánico bueno",
       "description": "Escáneres portátiles, kit de reparación de casco de la nave, herramientas manuales diversas. Todo lo que necesitas para arreglar un vehículo y hacerlo volar de nuevo. ¿Qué herramienta acabas de conseguir? ¿Cuál has personalizado? [1 carga]",
       "class": "Piloto"
 		},
 		"(P) Fine Small Urbot": {
-			"name": "(P) Pequeño Urbot excelente",
+			"name": "(P) Pequeño Urbot bueno",
       "description": "Un pequeño Urbot que ofrece apoyo para el pilotaje y puede llevar pequeños objetos. Parece inquietantemente consciente. Los Urbots deben ser formateados una vez al año. ¿Hace cuánto tiempo que llevaste el tuyo al Gremio de Ingenieros para que te hicieran ese procedimiento? ¿Cuál es su denominación y qué rasgos de personalidad tiene? ¿Cómo es el chasis y cómo te ayuda a pilotarlo? [2 cargas]",
       "class": "Piloto"
 		},
@@ -205,12 +205,12 @@
       "description": "Disfraces, moduladores de voz, minicámaras, escáneres térmicos, huellas dactilares falsas y filtros de audio. [1 carga]"
 		},
 		"(Sc) Fine Blaster Pistol": {
-			"name": "(Ca) Pistola blaster excelente",
+			"name": "(Ca) Pistola blaster buena",
       "description": "(o un par a juego)\nPersonalizada o extraña. Puede disparar munición mística. ¿Qué es lo que disparan? ¿De dónde las has sacado? ¿Las has nombrado? [1 o 2 cargas]",
       "class": "Canalla"
 		},
 		"(Sc) Fine Coat": {
-			"name": "(Ca) Chaqueta excelente",
+			"name": "(Ca) Chaqueta buena",
       "description": "Una chaqueta pesada, pero bien hecha y bien cuidada. Distintiva y con historia. ¿De dónde la has sacado? ¿Fue un regalo, una compra impulsiva o la ganaste en una apuesta? ¿Está decorada con alguna insignia o logotipo? Asegúrate de que tenga un aspecto o color memorable. [1 carga]",
       "class": "Canalla"
 		},
@@ -235,13 +235,13 @@
       "class": "Canalla"
 		},
 		"(Sp) Fine Clothes": {
-			"name": "(Or) Ropas Excelentes",
+			"name": "(Or) Ropas buenas",
       "description": "Pareos de seda, trajes, finas capas azules. Destacas y siempre estás vestido para la ocasión. Nadie pensará que es un disfraz. ¿Qué conjunto es tu favorito? [1 carga]",
       "class": "Orador"
 		},
 		"(Sp) Large Luxury Item": {
 			"name": "(Or) Objeto de Lujo Grande",
-      "description": "Licores finos, regalos pequeños pero bien pensados, especias y perfumes, instrumentos excelentes, juegos populares, etc. Pueden venir en una variedad de tamaños. Cada vez que lleves uno de ellos al trabajo, explica qué es y por qué es lujoso. [2 cargas]",
+      "description": "Licores finos, regalos pequeños pero bien pensados, especias y perfumes, instrumentos buenos, juegos populares, etc. Pueden venir en una variedad de tamaños. Cada vez que lleves uno de ellos al trabajo, explica qué es y por qué es lujoso. [2 cargas]",
       "class": "Orador"
 		},
 		"(Sp) Legitimate ID": {
@@ -251,17 +251,17 @@
 		},
 		"(Sp) Medium Luxury Item": {
 			"name": "(Or) Objeto de Lujo Medio",
-      "description": "Licores finos, regalos pequeños pero bien pensados, especias y perfumes, instrumentos excelentes, juegos populares, etc. Pueden venir en una variedad de tamaños. Cada vez que lleves uno de ellos al trabajo, explica qué es y por qué es lujoso. [1 carga]",
+      "description": "Licores finos, regalos pequeños pero bien pensados, especias y perfumes, instrumentos buenos, juegos populares, etc. Pueden venir en una variedad de tamaños. Cada vez que lleves uno de ellos al trabajo, explica qué es y por qué es lujoso. [1 carga]",
       "class": "Orador"
 		},
 		"(Sp) Memento Of a Past Encounter": {
 			"name": "(Or) Recuerdo de un Encuentro Pasado",
-      "description": "Una joya distintiva, una cuchilla excelente con el escudo de una casa, un sello, una pequeña estatua. ¿De quiénes son y por qué los conservas? [0 carga]",
+      "description": "Una joya distintiva, una cuchilla buena con el escudo de una casa, un sello, una pequeña estatua. ¿De quiénes son y por qué los conservas? [0 carga]",
       "class": "Orador"
 		},
 		"(Sp) Small Luxury Item": {
 			"name": "(Or) Objeto de Lujo Pequeño",
-      "description": "Licores finos, regalos pequeños pero bien pensados, especias y perfumes, instrumentos excelentes, juegos populares, etc. Pueden venir en una variedad de tamaños. Cada vez que lleves uno de ellos al trabajo, explica qué es y por qué es lujoso. [0 carga]",
+      "description": "Licores finos, regalos pequeños pero bien pensados, especias y perfumes, instrumentos buenos, juegos populares, etc. Pueden venir en una variedad de tamaños. Cada vez que lleves uno de ellos al trabajo, explica qué es y por qué es lujoso. [0 carga]",
       "class": "Orador"
 		},
 		"(St) Candies and Treats": {
@@ -275,12 +275,12 @@
       "class": "Cirujano"
 		},
 		"(St) Fine Clothing": {
-			"name": "(Ci) Ropas excelentes",
+			"name": "(Ci) Ropas buenas",
       "description": "Un traje o conjunto para cenas elegantes y reuniones de la alta sociedad. ¿Es un artefacto de tu pasado o algo que compraste cuando tuviste que solicitar financiación para tu trabajo médico? [1 carga]",
       "class": "Cirujano"
 		},
 		"(St) Fine Medkit": {
-			"name": "(Ci) Botiquín Médico Excelente",
+			"name": "(Ci) Botiquín Médico bueno",
       "description": "Mejor surtido que los botiquines habituales. Pinzas para la piel, escáneres de diagnóstico portátiles, piel sintética, estabilizadores óseos, spray hipoglucemiante, antídoto (para bestias alienígenas peligrosas) y una gran selección de medicamentos. ¿Hay alguna marca distintiva en tu botiquín médico? [2 cargas]",
       "class": "Cirujano"
 		},

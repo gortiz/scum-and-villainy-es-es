@@ -12,7 +12,7 @@
       "class":"Cerberus"      
 		},
 		"(C) Licensed": {
-			"name": "(C) Con Licencia",
+			"name": "(C)^ Con Licencia",
       "description": "Consigue -2 atención en cualquier trabajo legítimo de cazarrecompensas.\n\nTu nave puede llevar armas de partículas y tu tripulación puede llevar y usar legalmente blasters pesados en la persecución de un objetivo.\n\nEsto también significa que llevas licencia de cazarrecompensas. Se puede utilizar para explicar el hecho de estar en lugares donde no se debe estar y llevar armas cuando en otras circunstancias serían confiscadas. La cooperación con la ley varía de un planeta a otro.",
       "class":"Cerberus"  
 		},
@@ -62,8 +62,8 @@
       "class":"Dragón de Fuego"      
 		},
 		"(F) Old Hands": {
-			"name": "(Dr) Manos Viejas",
-      "description": "Cuando esté en Guerra (-3) con una facción de la Hegemonía, todos los miembros de la tripulación reciben +1d en las tiradas de vicio y siguen teniendo dos actividades en tiempo libre en lugar de sólo una. Puedes elegir no tirar el dado extra para satisfacer el vicio si lo deseas.",
+			"name": "(Dr)^ Manos Viejas",
+      "description": "Cuando estés en Guerra (-3) con una facción de la Hegemonía, todos los miembros de la tripulación reciben +1d en las tiradas de vicio y siguen teniendo dos actividades en tiempo libre en lugar de sólo una. Puedes elegir no tirar el dado extra para satisfacer el vicio si lo deseas.",
       "class":"Dragón de Fuego"      
 		},
 		"(F) Spark Of Rebellion": {
@@ -78,7 +78,7 @@
 		},
 		"(S) Cargo Eye": {
 			"name": "(Ba) Ojo para Carga",
-      "description": "Tu tripulación gana +1 cred por trabajos de contrabando o entrega. Al recabar información siempre puedes preguntar: '¿Qué es los mas valioso aquí?'\n\nEl cred extra es independiente de lo que pague el trabajo. Puede hacerse la pregunta siempre que sea aplicable.",
+      "description": "La tripulación gana +1 cred por trabajos de contrabando o entrega. Al recabar información siempre puedes preguntar: '¿Qué es los mas valioso aquí?'\n\nEl cred extra es independiente de lo que pague el trabajo. Puede hacerse la pregunta siempre que sea aplicable.",
       "class":"Bailarina Estelar"      
 		},
 		"(S) Field Repairs": {
@@ -107,7 +107,7 @@
       "class":"Bailarina Estelar"      
 		},
 		"(S) The Getaway": {
-			"name": "(Ba) La Fuga",
+			"name": "(Ba)^ La Fuga",
       "description": "La tripulación gana potencia cuando hace tiradas de Esfuerzo o Nave para evitar tu captura o evadir un bloqueo. Al hacer un trabajo de entrega, recibe +1d a la tirada de enfrentamiento.\n\nA veces, escapar es la mejor parte de la valentía. Esta habilidad funciona para cualquier persona de la tripulación, esté o no en la nave. Una entrega puede ser cualquier trabajo en el que el objetivo principal sea transportar una carga (legal, ilegal o una persona) entre dos lugares.",
       "class":"Bailarina Estelar"      
 		}

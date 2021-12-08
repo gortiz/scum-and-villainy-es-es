@@ -19,10 +19,10 @@
       "description": "Ejército hegemónico que representa la ley en cualquier lugar del planeta.",
       "type": "Hegemonía",    
       "goal": "Limpiar la legión de cualquier desleal.",
-      "notables": "- Tallon 'el Carnicero' (comandante, disciplinado, imponente, malvado).\n- Liyara (teniente, psíquica, sospechosa, extraña, leal).\n- Thrace (piloto as, temerario, jugador, leal).\n- Pavio (espía, xeno, ilegible, misterioso, leal).",    
+      "notables": "- Tallon 'el Carnicero' (comandante, disciplinado, imponente, malvado).\n- Liyara (teniente, psíquica, sospechosa, peculiar, leal).\n- Thrace (piloto as, temerario, jugador, leal).\n- Pavio (espía, xeno, ilegible, misterioso, leal).",    
       "turf": "El Escorpión (dreadnought, HQ). Astilleros en todo el sector. Puestos de avanzada en instalaciones gubernamentales y públicas, y rutas comerciales.",    
       "assets": "Una legión de la Guardia Hegemónica. El Escorpión (acorazado). Un psíquico ilegal.",  
-      "quirks": "Extrañamente, hay pocos xenos entre la Legión.",  
+      "quirks": "Misteriosamente, hay pocos xenos entre la Legión.",  
       "allies": "Casa Malklaith, Gremio de Herreros Estelares",  
       "enemies": "Cuchillos de Ceniza, Iglesia de la Llama Estelar, Legión Perdida, El Vórtice",  
       "situation": "Tallon ha ganado muchos elogios en el campo de batalla, pero juró limpiar el ejército hegemónico de nepotismo cuando su mando fue sacrificado por la hija de un noble. Utiliza a su teniente psíquica, Liyara, para analizar en secreto a los oficiales y colocar discretamente a los legionarios"       
@@ -30,7 +30,7 @@
 		"Acolytes of Brashkadesh": {
 			"name": "Acólitos de Brashkadesh",
       "description": "Un colectivo que evita la individualidad. Los iniciados adoptan el mismo vestido y el mismo nombre, en busca de la perfección a cualquier precio.",
-      "type": "Extrañeza",         
+      "type": "Misterioso",         
       "goal": "Convertir una fábrica entera a su religión.",      
       "notables": "- Ashkad (carismático, apasionado, idealista).\n- Ashkad (ambicioso, disimulador, musculoso).\n- Ashkad (místico, devoto, artístico).\n- Ashkad (técnico, hábil, mentiroso, rico).",    
       "turf": "Una gran cantidad de salas de meditación en Indri",    
@@ -56,7 +56,7 @@
 		"Ashtari Cult": {
 			"name": "Culto Ashtari",
       "description": "Un culto a los Precursores que afirma descender de los Ur. Llevan frascos de gases de la Nube Ashtari, que inhalan para conectarse con sus supuestos ancestros.",
-      "type": "Extrañeza",          
+      "type": "Misterioso",          
       "goal": "Alinear las lunas de Anochecer",      
       "notables": "- Urmak Theon (compasivo, educado, bien hablado).\n- Urmak Lesh (artesano, ex-Guilda, investigador).\n- Urley Fean (noble, cauteloso, oculto, influyente).\n- Rokono Maex (capitán, carroñero, tosco, incrédulo, estoico).",    
       "turf": "Una ruina Ur no documentada en Lithios. Una base lunar en una de las lunas de Anochecer (HQ).",    
@@ -108,7 +108,7 @@
 		"Conclave 01": {
 			"name": "Cónclave 01",
       "description": "Urbots independientes y conscientes dirigidos por un antiguo Urbot conocido como Prime. Trabajan para controlar las explotaciones mineras y obtener el control de los módulos de IA Precursores necesarios para generar verdaderas máquinas conscientes.",
-      "type": "Extrañeza",          
+      "type": "Misterioso",          
       "goal": "Tomar el control de la fábrica en Iota",      
       "notables": "- Prime (antiguo, poderoso, misterioso, sabio).\n- Bar-Hazuk (jardinero, grande, amable).\n- Delta-7 (arquitecto, plataforma de armas, enorme).\n- Sp-d3r (hacker, infiltrado, encapuchado, pequeño).",    
       "turf": "Bases secretas en Baftoma y en los Baldíos de Indri (Cuartel General).",    
@@ -199,7 +199,7 @@
 		"Ghosts": {
 			"name": "Fantasmas",
       "description": "Científicos que, debido a un accidente, conviven con un exotraje en estado de semifase. La Iglesia de la Llama Estelar ofrece una importante recompensa por ellos y por su naves fantasma, la Llave Esqueleto, muertos o destruidos (pero ciertamente no vivos).",
-      "type": "Extrañeza",    
+      "type": "Misterioso",    
       "goal": "Contratar a Memish para hacer una bomba para la puerta de Holt",      
       "notables": "- Nils Boyer (físico, brillante, lleno de remordimientos).\n- Roy Stanz (biólogo, amargado, buscavidas).\n- Eegon Mark (ingeniero, genio, diseñador de vestuario).\n- Pol Venker (ingeniero, autocomplaciente, caballero).",    
       "turf": "La Llave Esqueleto, una corbeta semifase (HQ). Un centro de investigación secreto en Lithios.",    
@@ -243,7 +243,7 @@
       "notables": "- Gobernador Ritam al'Malklaith (Noble, intenso, obsesionado, buen orador).\n- Jerrem (capitán de la guardia, muchas cicatrices, leal).\n- Shim (juez, corrupto, codicioso, ambicioso)",    
       "turf": "Malklaith es dueña del sector, pero el gobernador rara vez sale de Warren... Su personal se encuentra en puestos importantes en todos los sistemas del sector.",    
       "assets": "Impuestos del sector Procyon, generando vastas arcas. Una creciente colección de artefactos de los Precursores.",  
-      "quirks": "El gobernador Malklaith lleva una serie de extraños anillos de origen precursor, cuyos poderes no son del todo conocidos, ni siquiera por él.",  
+      "quirks": "El gobernador Malklaith lleva una serie de extraños anillos de origen Precursor, cuyos poderes no son del todo conocidos, ni siquiera por él.",  
       "allies": "51ª Legión, Oradores Nocturnos, La Sociedad Turner",  
       "enemies": "La Agonía, Cuchillos de Ceniza, Legión Perdida, El Vórtice",  
       "situation": "Deshonrado tras un famoso duelo, el gobernador Malklaith está convencido de que la forma de recuperar su legítimo lugar es reuniendo secretos de los precursores (Doraam, un orador Nocturno, siempre le susurra esto al oído). Malklaith espera que esto le dé una ventaja en el secreto mundo de la política imperial; esta búsqueda es altamente ilegal."      
@@ -290,7 +290,7 @@
 		"Mendicants": {
 			"name": "Mendicantes",
       "description": "Originalmente la Iglesia del Corazón Esmeralda, su organización fue destruida políticamente. Ahora recorren las estrellas como médicos y curanderos ambulantes.",
-      "type": "Extrañeza",    
+      "type": "Misterioso",    
       "goal": "Encontrar nuevos corazones de esmeralda",      
       "notables": "- Ammon (médico, compasivo, alterado).\n- Kambree (investigador, alegre, organizado).\n- Kairi (xeno, médico, sombrío).\n- Tar Hawkson (místico, antiguo, alterado, poderoso).",    
       "turf": "El Templo de Amerath (HQ).",    
@@ -303,7 +303,7 @@
 		"Nightspeakers": {
 			"name": "Oradores Nocturnos",
       "description": "Místicos con inclinaciones oscuras empeñados en encontrar un conjunto de peligrosos artefactos Precursores.",
-      "type": "Extrañeza",  
+      "type": "Misterioso",  
       "goal": "Conseguir la llave Aleph de forma sigilosa",      
       "notables": "- Doraam (enmascarado, misterioso, dominante).\n- Oin-rai (luchador, fuerte, enorme, brutal).\n- Ismissa (ordenado, desarmado, místicamente poderoso).\n\n-Todos cuentan como pequeñas bandas en la batalla.",    
       "turf": "Blackstarr, un acorazado escondido en el sistema Brekk (HQ).",    
@@ -316,7 +316,7 @@
 		"Sah'iir": {
 			"name": "Sah'iir",
       "description": "Xenos altos de piel de ébano que viajan con sirvientes con sus ojos vendados, que hablan en nombre de sus amos. Le dio a la Hegemonía su tecnología de red ansible. Poseen unas aterradoras naves de metal negro. Son muy ricos y trabajan como familias de comerciantes.",
-      "type": "Extrañeza",    
+      "type": "Misterioso",    
       "goal": "Encontrar la red de comunicación ansible UR",      
       "notables": "- Ren 3-Meti (matriarca, xeno, astuto, comandante).\n- Iisoo 7-Chim (comerciante, explorador, xeno, humanitario).\n- Wi 13-Meti (compañero de linaje de Ren, xeno, ambicioso, encubierto, con cicatrices).",    
       "turf": "La recientemente adquirida Embajada Sah'iir en Warren (sede). Puestos de trabajo en lugares que disponen de la red de comunicación ansible.",    
@@ -368,7 +368,7 @@
 		"Suneaters": {
 			"name": "Comesoles",
       "description": "Arqueólogos y científicos obsesionados con recrear la tecnología de las puertas de salto. Buscan apagar una estrella en pos de sus objetivos.",
-      "type": "Extrañeza",    
+      "type": "Misterioso",    
       "goal": "Devorar Iota-2 y almacenar energía",      
       "notables": "- Elil (astrofísica, fanática, brillante).\n- Ruba (arqueóloga, mística, vidente).\n- Racel (ingeniero, leal, indeciso).\n- Rygar Z'tann (místico, guardián, doblador de gravedad).",    
       "turf": "Una ruina Ur en Lithios (HQ). Varios almacenes en Dusk.",    
@@ -381,7 +381,7 @@
 		"The Agony": {
 			"name": "La Agonía",
       "description": "Culto de humanos que se infectan con criaturas de la Senda para acceder al universo de forma inquietante. Llamados así por el dolor que soportan por tener acceso a tales habilidades.",
-      "type": "Extrañeza",    
+      "type": "Misterioso",    
       "goal": "Mover el planeta Omega hacia Mem",      
       "notables": "- Lexal (místico, adicto, hambriento de poder, alado).\n- Iritha (místico, multiforme, brillante, poderoso, potente).\n- Noro (místico, calculador, deslumbrante, esbelto).",    
       "turf": "Una plataforma que orbita el Planeta Omega (HQ). Capillas secretas en Mem, Sonhandra y Lithios.",    
@@ -420,7 +420,7 @@
 		"Vigilance": {
 			"name": "Vigilancia",
       "description": "Guerreros místicos que llevan artefactos con cuchillas. Tratan de mantener un antiguo código de justicia para aquellos que consideran que necesitan justicia.",
-      "type": "Extrañeza",    
+      "type": "Misterioso",    
       "goal": "Destruir el Campamento Base I",      
       "notables": "- Quai-Rosh (anciano, místico, crítico).\n- Aayli Cazador Espacial (anciano, estoico, guerrero).\n- Ulek Bailarín Espacial (aprendiz, apresurado, amistoso).",    
       "turf": "El primer templo de Aketi (HQ).",    
@@ -433,7 +433,7 @@
 		"Vignerons": {
 			"name": "Vignerons",
       "description": "Un pequeño puñado de cazadores en busca de la inmortalidad via artefactos e implantes tecnológicos y productos químicos destilados de los vivos. Varios de ellos existen desde hace cientos de años. Muchos eran poderosos antes de su transformación, aunque ahora ocultan su verdadera identidad.",
-      "type": "Extrañeza",    
+      "type": "Misterioso",    
       "goal": "Convertir a los guerreros de élite",      
       "notables": "- Asphodel (general, impecable, calculador, voraz).\n- Nehemiah (guerrero, anciano, brutal, enorme, rápido).\n- Morwenna (mística, selectiva, cautivadora).",    
       "turf": "Anodino, un burdel en Amerath (HQ). Rust, una casa de subastas en Sonhandra.",    

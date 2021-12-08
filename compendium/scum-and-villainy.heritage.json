@@ -7,7 +7,7 @@
 	"entries": {
 		"Colonist": {
 			"name": "Colono",
-      "description": "Familias de colonos. Los agricultores, mineros y terraformadores forman la columna vertebral de la Hegemonía. Luchando por vivir en las fronteras de los planetas, estas personas se enfrentan a bestias alienígenas y a extrañas ruinas de Precursores más que la mayoría."
+      "description": "Familias de colonos. Los agricultores, mineros y terraformadores forman la columna vertebral de la Hegemonía. Luchando por vivir en las fronteras de los planetas, estas personas se enfrentan a bestias alienígenas y a misteriosas ruinas de Precursores más que la mayoría."
 		},
 		"Imperial": {
 			"name": "Imperial",
@@ -27,7 +27,7 @@
 		},
 		"Xeno": {
 			"name": "Xeno",
-      "description": "Las familias de xenos son tan diversas como los innumerables tipos de xenos de la galaxia. Te criaste en una cultura no humana. Los xenos luchan por ser aceptados en la Hegemonía, y muchas de sus prácticas se consideran extrañas o inusuales."
+      "description": "Las familias de xenos son tan diversas como los innumerables tipos de xenos de la galaxia. Te criaste en una cultura no humana. Los xenos luchan por ser aceptados en la Hegemonía, y muchas de sus prácticas se consideran misteriosas o inusuales."
 		}
 	}
 }
