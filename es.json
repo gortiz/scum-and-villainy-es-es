@@ -125,7 +125,7 @@
   "BITD.Coin": "Cred",
   "BITD.Coins": "Creds",
   "BITD.Stash": "Alijo",
-  "BITD.Gambits": "Gámbitos",
+  "BITD.Gambits": "Gambitos",
   "BITD.GambitRefresh1": "Resetear a ",
   "BITD.GambitRefresh2": "al comenzar un nuevo trabajo",
   "BITD.CrewReputation": "Reputación",
@@ -164,7 +164,7 @@
   "BITD.RollFailurePositionRisky": "Las cosas van mal. Sufres <strong>daño</strong>, ocurre una <strong>complicación</strong>, acabas en una posición <strong>desesperada</strong>, <strong>pierdes esta oportunidad</strong>.",
   "BITD.RollFailurePositionDesperate": "Es el peor resultado. Sufres <strong>daño grave</strong>, ocurre una <strong>complicación grave</strong>, <strong>pierdes esta oportunidad</strong>.",
   
-  "BITD.RollGambit": "Si <strong>no has gastado</strong> un gámbito es esta tirada, ganas <strong>un gámbito</strong>.",
+  "BITD.RollGambit": "Si <strong>no has gastado</strong> un gambito es esta tirada, ganas <strong>un gambito</strong>.",
   "BITD.RollXP": "Marca <strong>XP</strong> en el atributo asociado.",
   
   
@@ -199,6 +199,8 @@
   "BITD.RollUpkeepNoDamageDescription": "No te preocupes, el desgaste es menor y no afectará al rendimiento de la nave en el siguiente trabajo.",
   
   "BITD.RollZeromode": "Tirada de Cero Dados - Tiras dos dados, te quedas con el menor.",
+
+  "BITD.Forged": "De la habilidad especial \"Forjado en Fuego\"",
   
   "BITD.PositionControlled": "Controlada",
   "BITD.PositionRisky": "Arriesgada",
@@ -284,6 +286,9 @@
   "BITD.AddItem": "Añadir",
   "BITD.AddUpgrade": "Añadir",
   "BITD.AddFriend": "Añadir",
+
+  "BITD.AbilityLegend1": "* = Habilidad inicial, no se puede elegir para la mejora de Veterano",
+  "BITD.AbilityLegend2": "^ = Recomendada como primera habilidad",
   
   "BITD.item": "Objeto",
   "BITD.class": "Clase",
@@ -310,12 +315,12 @@
   "BITD.RollOptions": "Opciones de Tirada",
   
   
-  "BITD.ActionsHelp": "Tira 1d por cada punto de acción (-1d por daño). Aumenta tus posibilidades de éxito con las siguientes opciones:<br><strong>Obtener Asistencia:</strong> +1d si otro miembro de la tripulación te ayuda, ese PJ gana <strong>1 estrés</strong>.<br><strong>Gastar un gámbito:</strong> +1d si gastas <strong>1 gámbito</strong> (sólo se puede gastar 1 por tirada).<br><strong>Forzar:</strong> Recibes <strong>2 estrés</strong> para tener +1d, pero no puedes coger un <strong>Trato con el Diablo</strong>.<br><strong>Trato con el Diablo:</strong> Acepta una <strong>consecuencia</strong> para obtener +1d, pero no puedes <strong>Forzar</strong>.<br><strong>Acción en Grupo:</strong> Cada PJ involucrado hace una tirada de acción (utilizando la misma acción) y se usa el mejor resultado individual como el resultado global. Sin embargo, el PJ que dirige la acción de grupo recibe <strong>1 de estrés</strong> por cada PJ que haya obtido 1-3 como su mejor resultado.<br><strong>Preparar:</strong> Si tu acción tiene éxito y tiene sentido en la ficción, la tirada de acción del próximo PJ recive +1 en su posición o efecto.",
+  "BITD.ActionsHelp": "Tira 1d por cada punto de acción (-1d por daño). Aumenta tus posibilidades de éxito con las siguientes opciones:<br><strong>Obtener Asistencia:</strong> +1d si otro miembro de la tripulación te ayuda, ese PJ gana <strong>1 estrés</strong>.<br><strong>Gastar un gambito:</strong> +1d si gastas <strong>1 gambito</strong> (sólo se puede gastar 1 por tirada).<br><strong>Forzar:</strong> Recibes <strong>2 estrés</strong> para tener +1d, pero no puedes coger un <strong>Trato con el Diablo</strong>.<br><strong>Trato con el Diablo:</strong> Acepta una <strong>consecuencia</strong> para obtener +1d, pero no puedes <strong>Forzar</strong>.<br><strong>Acción en Grupo:</strong> Cada PJ involucrado hace una tirada de acción (utilizando la misma acción) y se usa el mejor resultado individual como el resultado global. Sin embargo, el PJ que dirige la acción de grupo recibe <strong>1 de estrés</strong> por cada PJ que haya obtido 1-3 como su mejor resultado.<br><strong>Preparar:</strong> Si tu acción tiene éxito y tiene sentido en la ficción, la tirada de acción del próximo PJ recive +1 en su posición o efecto.",
   "BITD.ViceHelp": "Realiza una tirada de Atributo utilizando el nivel de <strong>atributo mas bajo</strong> de tu PJ (Perspicacia, Proeza o Voluntad).<br><br>Si obtienes un resultado superior a la cantidad de estrés de tu PJ, te <strong>Excedes</strong>.",
   
   "BITD.ResistanceHelp": "Haz una tirada utilizando uno de los atributos (Perspicacia, Proeza o Voluntad) para <strong>reducir</strong> o <strong>evitar</strong> (a elección del master) los efectos de una consecuncia.<br><br>Tu PJ sufre 6 de <strong>estrés</strong> menos el resultado del dado más alto de la tirada de resistencia.<br><br><strong>Perspicacia:</strong> Consecuencias del engaño o del conocimiento.<br><strong>Proeza:</strong> Consecuencias del esfuerzo físico o de las lesiones.<br><strong> Voluntad:</strong> Consecuencias del esfuerzo mental o de la fuerza de voluntad.",
   
-  "BITD.CrewHelp": "Tira 1d por cada nivel de la tripulación para comprobar la eficacia de las herramientas, armas o recursos.  Añade +1d por objetos <strong>buenos</strong>.",
+  "BITD.CrewHelp": "Tira 1d por cada nivel de la tripulación para comprobar la eficacia de las herramientas, armas o recursos.  Añade +1d por objetos <strong>de calidad</strong>.",
   "BITD.UpkeepHelp": "Tira 1d por cada vez consecutiva que omitas el pago del mantenimiento (incluido éste). Esto reflejará el desgaste y los daños en la nave que podrían tener consecuencias en el futuro.",
   
   "BITD.Name": "Nombre",
