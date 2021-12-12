@@ -10,7 +10,7 @@
       "description": "Las grandes naves espaciales no pueden aterrizar en los planetas, deben permanecer en órbita y utilizar una lanzadera para aterrizar."
 		},
 		"Dreadnought": {
-			"name": "Acorazada",
+			"name": "Acorazado",
       "description": "Naves enormes, no pueden aterrizar en los planetas, suelen ser el buque insignia de una gran flota o una base móvil para naves más pequeñas."
 		},
 		"Freighter": {

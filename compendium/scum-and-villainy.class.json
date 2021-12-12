@@ -10,44 +10,44 @@
 		"Mechanic": {
 			"name": "Mecánico",
       "description": "Un mecánico y hacker",
-      "experience_clues": "Cuando juegues como Mecánico, ganas xp afrontando retos con habilidad técnica o ingenio.",
-      "def_abilities": "Apañar(2), Estudiar(1), (Me) Chatarrero\nSlice, Nisa, Stev, Len, Kenn"     
+      "experience_clues": "Cuando juegues como Mecánico, ganas XP afrontando retos con habilidad técnica o ingenio.",
+      "def_abilities": "Apañar +2, Estudiar +1, (Me) Chatarrero\nSlice, Nisa, Stev, Len, Kenn"     
 		},
 		"Muscle": {
 			"name": "Músculo",
       "description": "Un luchador peligroso e intimidante",
-      "experience_clues": "Cuando juegues como Músculo, ganas xp afrontando retos con fuerza o amenazas.",
-      "def_abilities": "Luchar(2), Mandar(1), (Mu) Imparable\nKrieger, Shod, Chon-zek, Yazu, Aya"     
+      "experience_clues": "Cuando juegues como Músculo, ganas XP afrontando retos con fuerza o amenazas.",
+      "def_abilities": "Luchar +2, Mandar +1, (Mu) Imparable\nKrieger, Shod, Chon-zek, Yazu, Aya"     
 		},
 		"Mystic": {
 			"name": "Místico",
       "description": "Un vagabundo galáctico en contacto con la Senda",
-      "experience_clues": "Cuando juegues como Místico, ganas xp afrontando retos con sabiduría o la Senda.",
-      "def_abilities": "Sintonizar(2), Esfuerzo(1), (Mi) La Senda\nHorux, Hicks, Laxx, Rye, Blish"
+      "experience_clues": "Cuando juegues como Místico, ganas XP afrontando retos con sabiduría o la Senda.",
+      "def_abilities": "Sintonizar +2, Esfuerzo +1, (Mi) La Senda\nHorux, Hicks, Laxx, Rye, Blish"
  		},
 		"Pilot": {
 			"name": "Piloto",
       "description": "Un mago del manejo de naves y adicto al peligro",
-      "experience_clues": "Cuando juegues como Piloto, ganas xp afrontando retos con velocidad o habilidad.",
-      "def_abilities": "Nave(2), Apañar(1), (P) Piloto Estrella\nYattu, Triv, Choss, Meris, Mav"     
+      "experience_clues": "Cuando juegues como Piloto, ganas XP afrontando retos con velocidad o habilidad.",
+      "def_abilities": "Nave +2, Apañar +1, (P) Piloto Estrella\nYattu, Triv, Choss, Meris, Mav"     
 		},
 		"Scoundrel": {
 			"name": "Canalla",
       "description": "Un desconectado y afortunado superviviente",
-      "experience_clues": "Cuando juegues como canalla, gana xp afrontando retos con encanto o audacia.",
-      "def_abilities": "Convencer(2), Escabullir(1), (Ca) Fortuito\nNyx, Ora, Jal, Rhin, Battro"     
+      "experience_clues": "Cuando juegues como canalla, gana XP afrontando retos con encanto o audacia.",
+      "def_abilities": "Convencer +2, Escabullir +1, (Ca) Fortuito\nNyx, Ora, Jal, Rhin, Battro"     
 		},
 		"Speaker": {
 			"name": "Orador",
       "description": "Una persona respetable",
-      "experience_clues": "Cuando juegues como Orador, ganas xp afrontando retos con engaño o influencia.",
-      "def_abilities": "Socializar(2), Mandar(1), (Or) Aire de Respeto\nArryn, Manda, Kerry, Je-zee, ?"     
+      "experience_clues": "Cuando juegues como Orador, ganas XP afrontando retos con engaño o influencia.",
+      "def_abilities": "Socializar +2, Mandar +1, (Or) Aire de Respeto\nArryn, Manda, Kerry, Je-zee, ?"     
 		},
 		"Stitch": {
 			"name": "Cirujano",
       "description": "Un sanador o científico que viaja por el espacio",
-      "experience_clues": "Cuando juegues como Cirujano, ganas xp afrontando retos con perspicacia o compasión.",
-      "def_abilities": "Medicina(2), Estudiar(1), (Dr) Soy un Médico, No un...\nJackev, Alben, Ditha, Juda, Lynie"     
+      "experience_clues": "Cuando juegues como Cirujano, ganas XP afrontando retos con perspicacia o compasión.",
+      "def_abilities": "Medicina +2, Estudiar +1, (Ci) Soy un Médico, No un...\nJackev, Alben, Ditha, Juda, Lynie"     
 		}
 	}
 }

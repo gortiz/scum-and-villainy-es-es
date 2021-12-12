@@ -157,52 +157,64 @@
       "class": "Piloto"
 		},
 		"(S) Armor": {
-			"name": "(S) Armadura",
-      "description": "De cuerpo entero y nada sutil. Te protege de algunos disparos. Te defenderá de un cuchillo sin problemas. Usa energía y ayuda al movimiento. [2 cargas]"
+			"name": "(Est) Armadura",
+      "description": "De cuerpo entero y nada sutil. Te protege de algunos disparos. Te defenderá de un cuchillo sin problemas. Usa energía y ayuda al movimiento. [2 cargas]",
+	  "class": "Estándar"
 		},
 		"(S) Blaster Pistol": {
-			"name": "(S) Pistola Blaster",
-      "description": "Dispara haces de plasma calientes. Precisa solo a corto alcance. Suena cuando dispara como ’piu piu' (obligatorio). Se encuentran en una gran variedad de formas. ¿Cómo esta la tuya personalizada? [1 o 2 cargas]"
+			"name": "(Est) Pistola Blaster",
+      "description": "Dispara haces de plasma calientes. Precisa solo a corto alcance. Suena cuando dispara como ’piu piu' (obligatorio). Se encuentran en una gran variedad de formas. ¿Cómo esta la tuya personalizada? [1 o 2 cargas]",
+	  "class": "Estándar"
 		},
 		"(S) Communicator": {
-			"name": "(S) Comunicador",
-      "description": "Tiene algunas bandas, probablemente incluso algunas encriptadas. Sólo funciona en órbita. [0 carga]"
+			"name": "(Est) Comunicador",
+      "description": "Tiene algunas bandas, probablemente incluso algunas encriptadas. Sólo funciona en órbita. [0 carga]",
+	  "class": "Estándar"
 		},
 		"(S) Detonator": {
-			"name": "(S) Detonador",
-      "description": "Arma explosiva y extremadamente mortal. Cabe en la palma de la mano y se puede lanzar. Se encarga de las puertas blindadas que los blasters pesados no pueden manejar. Es ilegal. No deberías tenerlo. No, en serio. [1 carga]"
+			"name": "(Est) Detonador",
+      "description": "Arma explosiva y extremadamente mortal. Cabe en la palma de la mano y se puede lanzar. Se encarga de las puertas blindadas que los blasters pesados no pueden manejar. Es ilegal. No deberías tenerlo. No, en serio. [1 carga]",
+	  "class": "Estándar"
 		},
 		"(S) Hacking Tools": {
-			"name": "(S) Herramientas de Hackeo",
-      "description": "Plataforma, alicates de empalme, enchufes y puertos, crackeadores de teclado, software especializado, fichas modificadas a medida, diccionarios arco iris, exploits automatizados. Lo que todo iniciado hacker necesita. [1 carga]"
+			"name": "(Est) Herramientas de Hackeo",
+      "description": "Plataforma, alicates de empalme, enchufes y puertos, crackeadores de teclado, software especializado, fichas modificadas a medida, diccionarios arco iris, exploits automatizados. Lo que todo iniciado hacker necesita. [1 carga]",
+	  "class": "Estándar"
 		},
 		"(S) Heavy Blaster": {
-			"name": "(S) Blaster Pesado",
-      "description": "Puede hacer un daño considerable a los vehículos y a cosas como las puertas no blindadas. Tiene una docena de disparos. Causa graves y engorrosos daños a las personas. Es ilegal. [2 cargas]"
+			"name": "(Est) Blaster Pesado",
+      "description": "Puede hacer un daño considerable a los vehículos y a cosas como las puertas no blindadas. Tiene una docena de disparos. Causa graves y engorrosos daños a las personas. Es ilegal. [2 cargas]",
+	  "class": "Estándar"
 		},
 		"(S) Illicit Drugs": {
-			"name": "(S) Drogas Ilegales",
-      "description": "¿Cuál es tu veneno, vaquero espacial? Para uso personal, capturar una peligrosa recompensa o entretenimiento mientras viajas entre planetas. [0 carga]"
+			"name": "(Est) Drogas Ilegales",
+      "description": "¿Cuál es tu veneno, vaquero espacial? Para uso personal, capturar una peligrosa recompensa o entretenimiento mientras viajas entre planetas. [0 carga]",
+	  "class": "Estándar"
 		},
 		"(S) Medkit": {
-			"name": "(S) Botiquín Médico",
-      "description": "Sangre para algunas razas comunes, gasas, inyector anti-radiación, bisturí láser, antisépticos, hilo, analgésicos. [2 cargas]"
+			"name": "(Est) Botiquín Médico",
+      "description": "Sangre para algunas razas comunes, gasas, inyector anti-radiación, bisturí láser, antisépticos, hilo, analgésicos. [2 cargas]",
+	  "class": "Estándar"
 		},
 		"(S) Melee Weapon": {
-			"name": "(S) Arma cuerpo a cuerpo",
-      "description": "Afilado. Contundente. Puntiagudo. Perforante. Cortante. Todos los tamaños diferentes. Algunos vienen con bordes láser. Algunos vibran... ¡Oh! Pilas incluidas. [1 carga]"
+			"name": "(Est) Arma cuerpo a cuerpo",
+      "description": "Afilado. Contundente. Puntiagudo. Perforante. Cortante. Todos los tamaños diferentes. Algunos vienen con bordes láser. Algunos vibran... ¡Oh! Pilas incluidas. [1 carga]",
+	  "class": "Estándar"
 		},
 		"(S) Repair Tools": {
-			"name": "(S) Herramientas de Reparación",
-      "description": "Cosas que necesitas para arreglar los motores de las naves, los velocípedos, los coches planeadores y similares. Herramientas para empalmar consolas y ajustar máquinas. Martillos, un soldador, destornilladores, llaves inglesas, cargadores de baterías, pinturas en spray. [1 carga]"
+			"name": "(Est) Herramientas de Reparación",
+      "description": "Cosas que necesitas para arreglar los motores de las naves, los velocípedos, los coches planeadores y similares. Herramientas para empalmar consolas y ajustar máquinas. Martillos, un soldador, destornilladores, llaves inglesas, cargadores de baterías, pinturas en spray. [1 carga]",
+	  "class": "Estándar"
 		},
 		"(S) Spacesuit": {
-			"name": "(S) Traje Espacial",
-      "description": "Algo de protección contra la radiación, supervivencia en atmósferas tóxicas, EVA (actividad extra vehicular). Medio día de oxígeno (u otro gas, líquido o sustancia que respires). [2 cargas]"
+			"name": "(Est) Traje Espacial",
+      "description": "Algo de protección contra la radiación, supervivencia en atmósferas tóxicas, EVA (actividad extra vehicular). Medio día de oxígeno (u otro gas, líquido o sustancia que respires). [2 cargas]",
+	  "class": "Estándar"
 		},
 		"(S) Spy Gear": {
-			"name": "(S) Equipo de Espionage",
-      "description": "Disfraces, moduladores de voz, minicámaras, escáneres térmicos, huellas dactilares falsas y filtros de audio. [1 carga]"
+			"name": "(Est) Equipo de Espionage",
+      "description": "Disfraces, moduladores de voz, minicámaras, escáneres térmicos, huellas dactilares falsas y filtros de audio. [1 carga]",
+	  "class": "Estándar"
 		},
 		"(Sc) Fine Blaster Pistol": {
 			"name": "(Ca) Pistola blaster de calidad",

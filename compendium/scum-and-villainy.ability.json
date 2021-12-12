@@ -48,12 +48,12 @@
 		},
 		"(Me) Tinker": {
 			"name": "(Me) Chatarrero",
-      "description": "Cuando trabajes en un reloj con Apañar o Hackear, o cuando Estudies un esquema, rellena +1 segmento.\n\n No se pueden elegir las habilidades iniciales a través de la habilidad especial de Veterano.\n\nObtienes este segmento extra independientemente de si es una acción durante un trabajo o en tiempo libre. Esto quiere decir que evitar los sistemas de seguridad en un trabajo o hacer un parche de emergencia mientras se huye de una nave que te persigue es más fácil para ti que para otros.",
+      "description": "Cuando trabajes en un reloj con Apañar o Hackear, o cuando Estudies un esquema, rellena +1 segmento.\n\nNo se pueden elegir las habilidades iniciales a través de la habilidad especial de Veterano.\n\nObtienes este segmento extra independientemente de si es una acción durante un trabajo o en tiempo libre. Esto quiere decir que evitar los sistemas de seguridad en un trabajo o hacer un parche de emergencia mientras se huye de una nave que te persigue es más fácil para ti que para otros.",
       "class":"Mecánico"      
 		},
 		"(Me) Xeno": {
 			"name": "(Me) Xeno",
-      "description": "Puedes gastar Estrés (0-2) para realizar una hazaña sobrehumana de la que sólo son capaces los miembros de tu especie. (Página 296)\n\nCada especie tiene mecánicos, así que cuando juegues con un xeno, ten en cuenta cómo se relaciona ese xenotipo con las máquinas.\n\nAlgunos xenos tienen una relación inusual con la tecnología (particularmente con la tecnología Ur), como los Sah'iir, mientras que otros usan materiales inusuales, como los Mem.\n\n ¿Tiene tu especie alguna adaptación inusual para trabajar con máquinas? ¿Es tu especie pequeña y puede colarse por conductos con facilidad? Considera también como estas adaptaciones reflejan en las interacciones que no sean con máquinas.\n\n ¿Como se integra tu herencia xeno en la historia? ¿Has sido excluido por los Gremios de algunas oportunidades por no ser humano?O al contrario, ¿ha sido tu especie acogida en el seno de la Hegemonía?",
+      "description": "Puedes gastar Estrés (0-2) para realizar una hazaña sobrehumana de la que sólo son capaces los miembros de tu especie. (Página 296)\n\nCada especie tiene mecánicos, así que cuando juegues con un xeno, ten en cuenta cómo se relaciona ese xenotipo con las máquinas.\n\nAlgunos xenos tienen una relación inusual con la tecnología (particularmente con la tecnología Ur), como los Sah'iir, mientras que otros usan materiales inusuales, como los Mem.\n\n¿Tiene tu especie alguna adaptación inusual para trabajar con máquinas? ¿Es tu especie pequeña y puede colarse por conductos con facilidad? Considera también como estas adaptaciones reflejan en las interacciones que no sean con máquinas.\n\n¿Como se integra tu herencia xeno en la historia? ¿Has sido excluido por los Gremios de algunas oportunidades por no ser humano?O al contrario, ¿ha sido tu especie acogida en el seno de la Hegemonía?",
       "class":"Mecánico"      
 		},
 		"(Mu) Backup": {
@@ -93,7 +93,7 @@
 		},
 		"(Mu) Unstoppable": {
 			"name": "(Mu) Imparable",
-      "description": "Puedes esforzarte para intentar hacer una de las siguientes cosas:\n\nUna hazaña de fuerza física que roza lo sobrehumano o enfrentarte a una pequeña banda en igualdad de condiciones en un combate cuerpo a cuerpo.\n\n Ten en cuenta que las habilidades iniciales no se pueden elegir a través de la habilidad especial de Veterano.\n\nAl esforzarte para activar esta habilidad, sigues obteniendo uno de los beneficios del esfuerzo normal (+1d, +1 efecto, etc.) además de la habilidad especial.\n\nUna hazaña sobrehumana es aquella que una persona normal no podría realizar sin ayuda, como romper grilletes de metal. Si te enfrentas a una banda pequeña en igualdad de condiciones, tendrás la misma escala.",
+      "description": "Puedes esforzarte para intentar hacer una de las siguientes cosas:\n\nUna hazaña de fuerza física que roza lo sobrehumano o enfrentarte a una pequeña banda en igualdad de condiciones en un combate cuerpo a cuerpo.\n\nTen en cuenta que las habilidades iniciales no se pueden elegir a través de la habilidad especial de Veterano.\n\nAl esforzarte para activar esta habilidad, sigues obteniendo uno de los beneficios del esfuerzo normal (+1d, +1 efecto, etc.) además de la habilidad especial.\n\nUna hazaña sobrehumana es aquella que una persona normal no podría realizar sin ayuda, como romper grilletes de metal. Si te enfrentas a una banda pequeña en igualdad de condiciones, tendrás la misma escala.",
       "class":"Músculo"      
 		},
 		"(Mu) Wrecking Crew": {
@@ -133,7 +133,7 @@
 		},
 		"(My) The Way": {
 			"name": "(Mi) La Senda",
-      "description": "Puedes gastar un a en lugar de pagar cualquier coste de estrés.\n\n Ten en cuenta que las habilidades iniciales no se pueden elegir a través de la habilidad especial de Veterano.\n\nCuando necesites gastar estrés, puedes gastar un a en su lugar. Esto incluye resistir y los costes de forzarse. En el caso de las habilidades que tienen un coste variable, como la separación, estos costes adicionales formarán parte de la misma activación, por lo que el esfuerzo y todos los recursos adicionales juntos sólo cuestan un a.",
+      "description": "Puedes gastar un a en lugar de pagar cualquier coste de estrés.\n\nTen en cuenta que las habilidades iniciales no se pueden elegir a través de la habilidad especial de Veterano.\n\nCuando necesites gastar estrés, puedes gastar un a en su lugar. Esto incluye resistir y los costes de forzarse. En el caso de las habilidades que tienen un coste variable, como la separación, estos costes adicionales formarán parte de la misma activación, por lo que el esfuerzo y todos los recursos adicionales juntos sólo cuestan un a.",
       "class":"Místico"      
 		},
 		"(My) Visions": {
@@ -158,7 +158,7 @@
 		},
 		"(P) Ace Pilot": {
 			"name": "(P) Piloto As",
-      "description": "Tienes potencia en todas las tiradas relacionadas con la velocidad. Cuando tires para resistir las consecuencias del pilotaje, se gana +1d.\n\n Ten en cuenta que las habilidades iniciales no pueden ser elegidas a través de la habilidad especial de Veterano.\n\nTu potencia puede ser contrarrestada por una mejor calidad (si los motores de las naves enemigas son mejores que los tuyos, por ejemplo). Recuerda que las consecuencias del pilotaje no son siempre daños en la nave, pero a menudo se pueden resistir igualmente.",
+      "description": "Tienes potencia en todas las tiradas relacionadas con la velocidad. Cuando tires para resistir las consecuencias del pilotaje, se gana +1d.\n\nTen en cuenta que las habilidades iniciales no pueden ser elegidas a través de la habilidad especial de Veterano.\n\nTu potencia puede ser contrarrestada por una mejor calidad (si los motores de las naves enemigas son mejores que los tuyos, por ejemplo). Recuerda que las consecuencias del pilotaje no son siempre daños en la nave, pero a menudo se pueden resistir igualmente.",
       "class":"Piloto"      
 		},
 		"(P) Commander": {
@@ -233,7 +233,7 @@
 		},
 		"(Sc) Serendipitous": {
 			"name": "(Ca) Fortuito",
-      "description": "Tu tripulación comienza con +1 a cuando se restablece la reserva.\n\n Ten en cuenta que las habilidades iniciales no pueden ser elegidas a través de la habilidad especial de Veterano.\n\nEsto aumenta los as iniciales de la tripulación en un trabajo. Simplemente tienes más suerte que otras personas.",
+      "description": "Tu tripulación comienza con +1 a cuando se restablece la reserva.\n\nTen en cuenta que las habilidades iniciales no pueden ser elegidas a través de la habilidad especial de Veterano.\n\nEsto aumenta los as iniciales de la tripulación en un trabajo. Simplemente tienes más suerte que otras personas.",
       "class":"Canalla"      
 		},
 		"(Sc) Shoot First": {
@@ -258,7 +258,7 @@
 		},
 		"(Sp) Air of Respectability": {
 			"name": "(Or) Aire de Respeto",
-      "description": "Obtienes una actividad extra en tiempo libre para adquirir recursos o para pasar desapercibido.\n\n Ten en cuenta que las habilidades iniciales no pueden ser elegidas a través de la habilidad especial de Veterano.\n\nTus conexiones proporcionan un flujo constante de material y personas que te sirven para apaciguar las cosas después de tus desventuras.",
+      "description": "Obtienes una actividad extra en tiempo libre para adquirir recursos o para pasar desapercibido.\n\nTen en cuenta que las habilidades iniciales no pueden ser elegidas a través de la habilidad especial de Veterano.\n\nTus conexiones proporcionan un flujo constante de material y personas que te sirven para apaciguar las cosas después de tus desventuras.",
       "class":"Orador"      
 		},
 		"(Sp) Disarming": {
@@ -323,7 +323,7 @@
 		},
 		"(St) I'm a Doctor Not a...": {
 			"name": "(Ci) Soy un Médico, No un...",
-      "description": "Puedes forzarte para usar tu puntuación de Medicina mientras realizas una acción diferente. Indica qué paciente, investigación o destino te ha enseñado este truco.\n\n Ten en cuenta que las habilidades iniciales no pueden ser elegidas a través de la habilidad especial de Veterano.\n\nCuando usas esta habilidad, aprendemos un poco más sobre tu pasado. Considera la posibilidad de presentar los contactos de estos hallazgos, siempre que corresponda.",
+      "description": "Puedes forzarte para usar tu puntuación de Medicina mientras realizas una acción diferente. Indica qué paciente, investigación o destino te ha enseñado este truco.\n\nTen en cuenta que las habilidades iniciales no pueden ser elegidas a través de la habilidad especial de Veterano.\n\nCuando usas esta habilidad, aprendemos un poco más sobre tu pasado. Considera la posibilidad de presentar los contactos de estos hallazgos, siempre que corresponda.",
       "class":"Cirujano"      
 		},
 		"(St) Moral Compass": {
