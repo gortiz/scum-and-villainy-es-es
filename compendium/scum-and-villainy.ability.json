@@ -98,12 +98,12 @@
 		},
 		"(Mu) Wrecking Crew": {
 			"name": "(Mu) Equipo de Demolición",
-      "description": "Tu fuerza y ferocidad son infames. Cuando golpeas en combate cuerpo a cuerpo, obtienes +1d.\n\nAl gastar un a en combate, también obtienes +1 de efecto en esa acción.\n\nTanto si eres un maestro de las artes marciales como si fuiste criado por místicos para luchar con armas antiguas, tu habilidad marcial en el combate cuerpo a cuerpo es legendaria (y puede atraer a aquellos que deseen aprender o desafiarte).\n\nSi gastas un a en una tirada de combate, recibe +1 de efecto en esa acción. Esto puede golpear más fuerte a un solo oponente o compensar las penalizaciones de escala o calidad. Este beneficio se acumula con el +1d del a y el +1d del beneficio base del Equipo de Demolición.",
+      "description": "Tu fuerza y ferocidad son infames. Cuando golpeas en combate cuerpo a cuerpo, obtienes +1d.\n\nAl gastar un gambito en combate, también obtienes +1 de efecto en esa acción.\n\nTanto si eres un maestro de las artes marciales como si fuiste criado por místicos para luchar con armas antiguas, tu habilidad marcial en el combate cuerpo a cuerpo es legendaria (y puede atraer a aquellos que deseen aprender o desafiarte).\n\nSi gastas un gambito en una tirada de combate, recibe +1 de efecto en esa acción. Esto puede golpear más fuerte a un solo oponente o compensar las penalizaciones de escala o calidad. Este beneficio se acumula con el +1d del gambito y el +1d del beneficio base del Equipo de Demolición.",
       "class":"Músculo"      
 		},
 		"(Mu) Xeno": {
 			"name": "(Mu) Xeno",
-      "description": "Puedes gastar Estrés (0-2) para realizar una hazaña sobrehumana de la que sólo son capaces los miembros de tu especie. (Página 296)\n\nDesde Worf hasta D'Argo y Chewbacca, los alienígenas poderosos en la batalla han sido una necesidad del género de la ópera espacial. La habilidad inicial del Músculo es significativa, pero muchos xenos tienen una fuerza muy superior a la de un humano normal.\n\nAlgunos pueden tener más extremidades o adaptaciones para entornos hostiles.\n\nConsidera cómo tu herencia xeno puede convertirte en un Músculo más útil y habla con tu mesa sobre cómo deseas utilizar tu habilidad xeno.\n\nIgualmente interesantes son las limitaciones que tu herencia seno tiene. Estas limitaciones pueden ser opciones para que tu tripulación gane as o crear situaciones narrativas interesantes. ¿Tu especie odia los entornos calurosos, como por ejemplo el de Aketi? ¿Que opino la Hegemonía de tu especie?",
+      "description": "Puedes gastar Estrés (0-2) para realizar una hazaña sobrehumana de la que sólo son capaces los miembros de tu especie. (Página 296)\n\nDesde Worf hasta D'Argo y Chewbacca, los alienígenas poderosos en la batalla han sido una necesidad del género de la ópera espacial. La habilidad inicial del Músculo es significativa, pero muchos xenos tienen una fuerza muy superior a la de un humano normal.\n\nAlgunos pueden tener más extremidades o adaptaciones para entornos hostiles.\n\nConsidera cómo tu herencia xeno puede convertirte en un Músculo más útil y habla con tu mesa sobre cómo deseas utilizar tu habilidad xeno.\n\nIgualmente interesantes son las limitaciones que tu herencia seno tiene. Estas limitaciones pueden ser opciones para que tu tripulación gane gambitos o crear situaciones narrativas interesantes. ¿Tu especie odia los entornos calurosos, como por ejemplo el de Aketi? ¿Que opino la Hegemonía de tu especie?",
       "class":"Músculo"      
 		},
 		"(My) Center": {
@@ -123,7 +123,7 @@
 		},
 		"(My) Psy-dancing": {
 			"name": "(Mi) Danza Psíquica",
-      "description": "Te puedes esforzar para nublar la mente de un objetivo y Convencer  frente a pruebas contradictorias.\n\n'Haga lo que le digo. Soy el embajador'.\n\nGasta 1 de estrés por cada efecto adicional: sólo tienen recuerdos vagos del evento - funciona en un grupo pequeño.\n\nEstas confusiones no persisten indefinidamente, aunque los que tienen recuerdos vagos a menudo llenan los detalles que faltan con suposiciones. 'Debo haber revisado su identificación. Siempre lo compruebo'.",
+      "description": "Te puedes esforzar para nublar la mente de un objetivo y Convencer frente a pruebas contradictorias.\n\n'Haga lo que le digo. Soy el embajador'.\n\nGasta 1 de estrés por cada efecto adicional: sólo tienen recuerdos vagos del evento - funciona en un grupo pequeño.\n\nEstas confusiones no persisten indefinidamente, aunque los que tienen recuerdos vagos a menudo llenan los detalles que faltan con suposiciones. 'Debo haber revisado su identificación. Siempre lo compruebo'.",
       "class":"Místico"      
 		},
 		"(My) Sundering": {
@@ -133,12 +133,12 @@
 		},
 		"(My) The Way": {
 			"name": "(Mi) La Senda",
-      "description": "Puedes gastar un a en lugar de pagar cualquier coste de estrés.\n\nTen en cuenta que las habilidades iniciales no se pueden elegir a través de la habilidad especial de Veterano.\n\nCuando necesites gastar estrés, puedes gastar un a en su lugar. Esto incluye resistir y los costes de forzarse. En el caso de las habilidades que tienen un coste variable, como la separación, estos costes adicionales formarán parte de la misma activación, por lo que el esfuerzo y todos los recursos adicionales juntos sólo cuestan un a.",
+      "description": "Puedes gastar un gambito en lugar de pagar cualquier coste de estrés.\n\nTen en cuenta que las habilidades iniciales no se pueden elegir a través de la habilidad especial de Veterano.\n\nCuando necesites gastar estrés, puedes gastar un gambito en su lugar. Esto incluye resistir y los costes de forzarse. En el caso de las habilidades que tienen un coste variable, como la separación, estos costes adicionales formarán parte de la misma activación, por lo que el esfuerzo y todos los recursos adicionales juntos sólo cuestan un a.",
       "class":"Místico"      
 		},
 		"(My) Visions": {
 			"name": "(Mi) Visiones",
-      "description": "Gasta 1 estrés para ver a distancia un lugar lejano o una persona conectada a ti de alguna manera íntima.\n\nGasta 1 estrés por cada efecto extra:\n\n-dura un minuto en lugar de un momento;\n\n-tu objetivo también puede verte y oírte;\n\n-puedes ver algo sólo familiar para ti, no íntimo.\n\nGastar un a en tu habilidad inicial ('la Senda') cubre todos los costes. Cuando tu objetivo también puede verte y oírte, ambos estáis dentro de la misma 'área' a efectos de otras habilidades.",
+      "description": "Gasta 1 estrés para ver a distancia un lugar lejano o una persona conectada a ti de alguna manera íntima.\n\nGasta 1 estrés por cada efecto extra:\n\n-dura un minuto en lugar de un momento;\n\n-tu objetivo también puede verte y oírte;\n\n-puedes ver algo sólo familiar para ti, no íntimo.\n\nGastar un gambito en tu habilidad inicial ('la Senda') cubre todos los costes. Cuando tu objetivo también puede verte y oírte, ambos estáis dentro de la misma 'área' a efectos de otras habilidades.",
       "class":"Místico"      
 		},
 		"(My) Warded": {
@@ -188,7 +188,7 @@
 		},
 		"(P) Punch It!": {
 			"name": "(P) Golpeálo!",
-      "description": "Cuando gastas un a en una tirada desesperada, cuenta cómo arriesgada.\n\nComo gastaste un a en la tirada, aun contando como arriesgada, la tirada no puede generar otro a (a menos que tengas otra habilidad que diga lo contrario). También ganas +1d por la tirada de a, pero la posición de la tirada debe ser ajustada, así como las consecuencias. Recuerda: esto se puede utilizar para cualquier tirada (no sólo para pilotar).",
+      "description": "Cuando gastas un gambito en una tirada desesperada, cuenta cómo arriesgada.\n\nComo gastaste un gambito en la tirada, aun contando como arriesgada, la tirada no puede generar otro gambito (a menos que tengas otra habilidad que diga lo contrario). También ganas +1d por la tirada de gambito, pero la posición de la tirada debe ser ajustada, así como las consecuencias. Recuerda: esto se puede utilizar para cualquier tirada (no sólo para pilotar).",
       "class":"Piloto"      
 		},
 		"(P) Side Job": {
@@ -203,7 +203,7 @@
 		},
 		"(P) Xeno": {
 			"name": "(P) Xeno",
-      "description": "Los pilotos xeno suelen estar asociados a las naves xeno.\n\nSi eliges esta opción, pregunta a tu master sobre las modificaciones que podrías hacer a tu nave o las mejoras inusuales a las que tu gente podría tener acceso.\n\nAl detallar a tu gente, piensa en cómo podría afectar a su pilotaje el hecho de tener sentidos inusuales (quizás vean la gravedad u otros espectros) o formas únicas de interactuar (como conexiones neuronales directas).\n\nTambién piensa en como esas adaptaciones podrían ser una desventaja en otras situaciones. Si generas impulsos eléctricos cuando manipulas equipos, puede que no seas el mas indicado para estar cerca de equipos electrónicos delicados. El master elige si estas limitaciones generan as a tu tripulación.",
+      "description": "Los pilotos xeno suelen estar asociados a las naves xeno.\n\nSi eliges esta opción, pregunta a tu master sobre las modificaciones que podrías hacer a tu nave o las mejoras inusuales a las que tu gente podría tener acceso.\n\nAl detallar a tu gente, piensa en cómo podría afectar a su pilotaje el hecho de tener sentidos inusuales (quizás vean la gravedad u otros espectros) o formas únicas de interactuar (como conexiones neuronales directas).\n\nTambién piensa en como esas adaptaciones podrían ser una desventaja en otras situaciones. Si generas impulsos eléctricos cuando manipulas equipos, puede que no seas el mas indicado para estar cerca de equipos electrónicos delicados. El master elige si estas limitaciones generan gambitos a tu tripulación.",
       "class":"Piloto"      
 		},
 		"(Sc) Ask Questions Later": {
@@ -228,12 +228,12 @@
 		},
 		"(Sc) Never Tell Me the Odds": {
 			"name": "(Ca) Nunca me Digas las Probabilidades.",
-      "description": "Generas as en acciones desesperadas. También puedes generar as incluso si ya has utilizado un a.\n\nNormalmente sólo generas as en tiradas arriesgadas en las cuáles no has gastado un a. Tu capacidad de 'estirar' los as, regenerándolos en jugadas en las que ya los ha gastado, te da la capacidad de ponerte en situaciones que otros ni siquiera querrían considerar.",
+      "description": "Generas gambitos en acciones desesperadas. También puedes generar gambitos incluso si ya has utilizado un gambito.\n\nNormalmente sólo generas gambitos en tiradas arriesgadas en las cuáles no has gastado un gambito. Tu capacidad de 'estirar' los gambitos, regenerándolos en jugadas en las que ya los has gastado, te da la capacidad de ponerte en situaciones que otros ni siquiera querrían considerar.",
       "class":"Canalla"      
 		},
 		"(Sc) Serendipitous": {
 			"name": "(Ca) Fortuito",
-      "description": "Tu tripulación comienza con +1 a cuando se restablece la reserva.\n\nTen en cuenta que las habilidades iniciales no pueden ser elegidas a través de la habilidad especial de Veterano.\n\nEsto aumenta los as iniciales de la tripulación en un trabajo. Simplemente tienes más suerte que otras personas.",
+      "description": "Tu tripulación comienza con +1 gambito cuando se restablece la reserva.\n\nTen en cuenta que las habilidades iniciales no pueden ser elegidas a través de la habilidad especial de Veterano.\n\nEsto aumenta los gambitos iniciales de la tripulación en un trabajo. Simplemente tienes más suerte que otras personas.",
       "class":"Canalla"      
 		},
 		"(Sc) Shoot First": {
@@ -263,7 +263,7 @@
 		},
 		"(Sp) Disarming": {
 			"name": "(Or) Desarmar",
-      "description": "Cuando uses un a hablando, las hostilidades y el peligro también se detienen mientras hablas.\n\nSigues ganando +1d a cualquier tirada que necesites hacer para explicarte, probablemente socializar, convencer o mandar.",
+      "description": "Cuando uses un gambito hablando, las hostilidades y el peligro también se detienen mientras hablas.\n\nSigues ganando +1d a cualquier tirada que necesites hacer para explicarte, probablemente socializar, convencer o mandar.",
       "class":"Orador"      
 		},
 		"(Sp) Favors Owed": {
@@ -343,7 +343,7 @@
 		},
 		"(St) Under Pressure": {
 			"name": "(Ci) Bajo Presión",
-      "description": "Añade un a a la reserva de dados cada vez que tú o un miembro de la tripulación reciba un daño de nivel 2 o superior.\n\nPara ganar el a, la consecuencia aplicada resultante debe ser de nivel 2 o superior; si se resiste o se reduce por debajo de ese nivel, no ganas el a.",
+      "description": "Añade un gambito a la reserva de dados cada vez que tú o un miembro de la tripulación reciba un daño de nivel 2 o superior.\n\nPara ganar el gambito, la consecuencia aplicada resultante debe ser de nivel 2 o superior; si se resiste o se reduce por debajo de ese nivel, no ganas el a.",
       "class":"Cirujano"      
 		},
 		"(St) Welcome Anywhere": {
