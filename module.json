@@ -5,7 +5,7 @@
   "version":"0.2.7",
   "author":"Gato Malefico",
   "minimumCoreVersion":"0.8.9",
-  "compatibleCoreVersion":"0.8.9",
+  "compatibleCoreVersion":"9",
   "esmodules": ["babele-register.js"],
   "url":"https://github.com/jesberpen/scum-and-villainy-es-es",
   "manifest": "https://raw.githubusercontent.com/jesberpen/scum-and-villainy-es-es/main/module.json",
