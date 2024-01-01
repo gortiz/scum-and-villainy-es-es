@@ -87,6 +87,6 @@
   ],
 
   "url":"https://github.com/gortiz/scum-and-villainy-es-es",
-  "manifest": "https://raw.githubusercontent.com/gortiz/scum-and-villainy-es-es/main/module.json",
-  "download": "https://codeload.github.com/gortiz/scum-and-villainy-es-es/zip/main"
+  "manifest": "https://raw.githubusercontent.com/gortiz/scum-and-villainy-es-es/personalizacion/module.json",
+  "download": "https://codeload.github.com/gortiz/scum-and-villainy-es-es/zip/personalizacion"
 }
