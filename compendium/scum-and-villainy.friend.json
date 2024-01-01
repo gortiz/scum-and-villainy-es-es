@@ -14,7 +14,7 @@
 		"Ada Black": {
 			"name": "Ada Black",
       "description": "Una artista famoso. La favorito del sector. ¿Quizás sus viajes podrían ser una buena tapadera para infiltrarse en zonas bloqueadas?",
-      "class":"Dragón de Fuego"      
+      "class":"Dragao"
 		},
 		"Alben": {
 			"name": "Alben",
@@ -24,7 +24,7 @@
 		"Alor": {
 			"name": "Alor",
       "description": "Un camarero de orejas afiladas. Buena fuente de trabajo y bebidas. ¿Qué le traéis de vuestros viajes?",
-      "class":"Bailarina Estelar"      
+      "class":"Stardancer"
 		},
 		"Arlox": {
 			"name": "Arlox",
@@ -64,7 +64,7 @@
 		"Citani": {
 			"name": "Citani",
       "description": "Un agente de información solitario. ¿Quién es su jefe cuando no está con la tripulación? ¿Qué tipo de información vende normalmente?",
-      "class":"Bailarina Estelar"      
+      "class":"Stardancer"
 		},
 		"Ditha": {
 			"name": "Ditha",
@@ -74,12 +74,12 @@
 		"Garin": {
 			"name": "Garin",
       "description": "Un ingeniero de armas del gremio. ¿Su conciencia no le permite cumplir todas las órdenes del Gremio? ¿Ayudó a adquirir tu nave?",
-      "class":"Dragón de Fuego"      
+      "class":"Dragao"
 		},
 		"Heani": {
 			"name": "Heani",
       "description": "Un capitán de remolcador. ¿Con qué frecuencia os cruzáis en la oscuridad del espacio? ¿Cuándo te trajo de vuelta a salvo?",
-      "class":"Bailarina Estelar"      
+      "class":"Stardancer"
 		},
 		"Hicks": {
 			"name": "Hicks",
@@ -94,7 +94,7 @@
 		"Ibo-one": {
 			"name": "Ibo-one",
       "description": "Un antiguo místico de un culto. ¿Quizás un guía de ruinas peligrosas Ur donde poder esconderse?",
-      "class":"Dragón de Fuego"      
+      "class":"Dragao"
 		},
 		"Ishi": {
 			"name": "Ishi",
@@ -194,7 +194,7 @@
 		"Rakka": {
 			"name": "Rakka",
       "description": "Una diplomática. ¿A qué facción representa? ¿Cómo se hicieron amigos de alguien tan influyente?",
-      "class":"Bailarina Estelar"      
+      "class":"Stardancer"
 		},
 		"Rhin": {
 			"name": "Rhin",
@@ -229,12 +229,12 @@
 		"T'kala": {
 			"name": "T'kala",
       "description": "Un maestre estribador. ¿Te ayudó a conseguir la nave?",
-      "class":"Bailarina Estelar"      
+      "class":"Stardancer"
 		},
 		"Tiko Lux": {
 			"name": "Tiko Lux",
       "description": "Un piloto importante. El mejor, pero expulsado de la Legión. ¿Un chofer de escapada para ti?",
-      "class":"Dragón de Fuego"      
+      "class":"Dragao"
 		},
 		"Triv": {
 			"name": "Triv",
@@ -244,7 +244,7 @@
 		"Tyura": {
 			"name": "Tyura",
       "description": "Un asesino legendario. ¿Cómo te ganaste su lealtad? ¿Cuál es su disputa con la Hegemonía?",
-      "class":"Dragón de Fuego"      
+      "class":"Dragao"
 		},
 		"Yattu": {
 			"name": "Yattu",

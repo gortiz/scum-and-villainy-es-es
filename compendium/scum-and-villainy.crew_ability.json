@@ -44,72 +44,72 @@
 		"(F) Forged In Fire": {
 			"name": "(Dr) Forjado en Fuego",
       "description": "La tripulación ha sido endurecida por una experiencia cruel. Cada uno de vosotros recibe +1d a todas las tiradas de resistencia. Esta habilidad se aplica a todos los PJ de la tripulación.",
-      "class":"Dragón de Fuego"      
+      "class":"Dragao"
 		},
 		"(F) Hearts & Minds": {
 			"name": "(Dr) Corazones & Mentes",
       "description": "Cada miembro de la tripulación puede añadir 1 punto de acción a Mandar, Socializar o Convencer (hasta un máximo de 3).\n\nCada jugador puede elegir su acción preferida (no tienen que elegir la misma). Si utilizas esta habilidad durante la creación inicial del personaje y la tripulación, anula el límite inicial normal de los puntos de acción.",
-      "class":"Dragón de Fuego"      
+      "class":"Dragao"
 		},
 		"(F) Just Cause": {
 			"name": "(Dr) Causa Justa",
       "description": "Cuando la tripulación hace lo correcto a un coste para ellos mismos, se gana 1XP de la tripulación.\n\nEl coste para la tripulación debe ser real, aunque no tiene porque ser devastador. Perder una oportunidad importante, tener un retraso en un proyecto o enfadar a una facción poderosa son algunos ejemplos.",
-      "class":"Dragón de Fuego"      
+      "class":"Dragao"
 		},
 		"(F) Natural Enemies": {
 			"name": "(Dr) Enemigos Naturales",
       "description": "Cuando la tripulación realice trabajos contra facciones de la Hegemonía, recibe +1d a la tirada de enfrentamiento.\n\nEsto se aplica a cualquier trabajo en el que el objetivo principal sea una de las facciones de la columna de la Hegemonía (ver página 316), como Gremios, Sectas o la Casa Malklaith. Si el trabajo importuna a una facción, pero no implica a sus miembros, la bonificación no se aplica.",
-      "class":"Dragón de Fuego"      
+      "class":"Dragao"
 		},
 		"(F) Old Hands": {
 			"name": "(Dr) Manos Viejas",
       "description": "Cuando estés en Guerra (-3) con una facción de la Hegemonía, todos los miembros de la tripulación reciben +1d en las tiradas de vicio y siguen teniendo dos actividades en tiempo libre en lugar de sólo una. Puedes elegir no tirar el dado extra para satisfacer el vicio si lo deseas.",
-      "class":"Dragón de Fuego"      
+      "class":"Dragao"
 		},
 		"(F) Spark Of Rebellion": {
 			"name": "(Dr) Chispa de Rebelión",
       "description": "Si dejáis una tarjeta de visita o un símbolo de resistencia muy visible en el trabajo, recibe +2 de atención. La tripulación gana +1d a su tirada de vicio durante su próximo tiempo libre y no puede excederse.\n\nCuando esta habilidad es elegida, discutid cuál es el símbolo de rebelión. Al dejar la tarjeta de visita, debe ser prominente o fácil de encontrar (preferiblemente para más que la Hegemonía).",
-      "class":"Dragón de Fuego"
+      "class":"Dragao"
 		},
 		"(F) Sympathizers": {
 			"name": "(Dr) Simpatizantes",
       "description": "Vuestra ideología es especialmente atractiva. Al tratar con una tripulación o facción, el master os dirá quién de ellos cree en tu causa (uno, algunos, muchos o todos).\n\nSi el master no está seguro de la respuesta, puede hacer una tirada de suerte usando la calidad de la tripulación, quizás modificada por la posición con la facción. Las facciones no son monolíticas y aunque la facción en su conjunto (y ciertos individuos dentro de ella) pueden despreciar a los PJ, algunos de sus miembros siguen teniendo, quizás, tendencias rebeldes. Ten en cuenta que la respuesta a la pregunta sobre quién cree es siempre al menos una persona.",
-      "class":"Dragón de Fuego"      
+      "class":"Dragao"
 		},
 		"(S) Cargo Eye": {
 			"name": "(Ba) Ojo para Carga",
       "description": "La tripulación gana +1 cred por trabajos de contrabando o entrega. Al recabar información siempre puedes preguntar: '¿Qué es los mas valioso aquí?'\n\nEl cred extra es independiente de lo que pague el trabajo. Puede hacerse la pregunta siempre que sea aplicable.",
-      "class":"Bailarina Estelar"      
+      "class":"Stardancer"
 		},
 		"(S) Field Repairs": {
 			"name": "(Ba) Reparaciones en Vuelo",
       "description": "Ganas potencia reparando la nave en el espacio. Si gastas un gambito en una tirada de apañar, ganas +2d (en lugar de +1d).\n\nEsta potencia puede, ficticiamente, permitirte hacer reparaciones que otros no pueden - por ejemplo, reparar de forma temporal una nave dañada que normalmente requiere un dique seco. Los dados de gambito extra se aplican a cualquier tirada de apañar, no sólo a las reparaciones.",
-      "class":"Bailarina Estelar"      
+      "class":"Stardancer"
 		},
 		"(S) Home Cooking": {
 			"name": "(Ba) Cocina Casera",
       "description": "Todo la tripulación adquiere la cocina casera como un vicio. Justo después de un trabajo, puedes gastar 1 cred y una actividad libre para cocinar para todos, lo que permite a toda la tripulación presente hacer una tirada de vicio.\n\nSi alguien se excede, se inicia una pelea y todos ganan 1 estrés después de la tirada de vicio.\n\nRequiere un módulo de cocina.\n\nLa tripulación puede dividir quién gasta la actividad y quién paga el cred. El estrés al final se aplica después de todos los resultados (esto incluye jugar con la ganancia o pérdida máxima de estrés, a través de la habilidad Hedonista del piloto). Cada uno gana 1 estrés total (no 1 por exceso).",
-      "class":"Bailarina Estelar"      
+      "class":"Stardancer"
 		},
 		"(S) Just Passing Through": {
 			"name": "(Ba) Sólo de Paso",
       "description": "Durante la recompensa, recibes un bonificador de -1 de atención en el trabajo.\n\nCuando tu atención es 4 o menos, ganas +1d para engañar a la gente haciéndote pasar por un ciudadano normal, y sigues teniendo dos actividades aunque estés en Guerra (-3) con cualquier facción, ya que tienen problemas para localizarte.\n\nUsa la atención del sistema en el que estás al inicio del tiempo libre para determinar el número de actividades que realiza cada miembro de la tripulación. Si, durante el descanso, la tripulación pasa por un sistema en el que la atención es alta, las facciones enemigas pueden encontrarlos de todos modos.",
-      "class":"Bailarina Estelar"      
+      "class":"Stardancer"
 		},
 		"(S) Leverage": {
 			"name": "(Ba) Influencia",
       "description": "El equipo sabe cómo mover los hilos y usar favores debidos. Al pasar desapercibido como actividad de tiempo libre, en lugar de tirar, puedes reducir tu estatus en -1 con una facción en Colegas (+1) o mejor para reducir tu nivel de búsqueda en 1, y poner tu atención a 0 en un sistema.\n\nPuedes usar los cambios de facción que ocurrieron en el trabajo actual. No tienes que irte del sistema en el que hiciste el trabajo, la facción te ayudará a cubrir tu rastro.",
-      "class":"Bailarina Estelar"      
+      "class":"Stardancer"
 		},
 		"(S) Problem Solvers": {
 			"name": "(Ba) Solucionadores de Problemas",
       "description": "Cada PJ puede añadir 1 punto de acción a Apañar, Nave o Esfuerzo (hasta un máximo de 3).\n\nCada jugador puede elegir su acción preferida (no tienen que elegir la misma). Si utilizas esta habilidad durante la creación inicial del personaje y la tripulación, anula el límite inicial normal de los puntos de acción.",
-      "class":"Bailarina Estelar"      
+      "class":"Stardancer"
 		},
 		"(S) The Getaway": {
 			"name": "(Ba) La Fuga",
       "description": "La tripulación gana potencia cuando hace tiradas de Esfuerzo o Nave para evitar tu captura o evadir un bloqueo. Al hacer un trabajo de entrega, recibe +1d a la tirada de enfrentamiento.\n\nA veces, escapar es la mejor parte de la valentía. Esta habilidad funciona para cualquier persona de la tripulación, esté o no en la nave. Una entrega puede ser cualquier trabajo en el que el objetivo principal sea transportar una carga (legal, ilegal o una persona) entre dos lugares.",
-      "class":"Bailarina Estelar"      
+      "class":"Stardancer"
 		}
 	}
 }

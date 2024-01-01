@@ -173,7 +173,7 @@
 		},
 		"(P) Hedonist": {
 			"name": "(P) Hedonista",
-      "description": "Al satisfacer tu vicio, puedes ajustar el resultado de los dados en +/- 2.\n\nUn aliado que se una a ti puede hacer lo mismo.\n\nEl aliado debe unirse a ti en el mismo vicio que estés satisfaciendo (o puedes satisfacer uno a través de una habilidad de la tripulación, como Cocina Casera de la Bailarina Estelar). Puede ajustar la puntuación en menos de 2 o no ajustarla en absoluto. También puedes recuperar más de 6 de estrés en una tirada de vicio de esta manera.",
+      "description": "Al satisfacer tu vicio, puedes ajustar el resultado de los dados en +/- 2.\n\nUn aliado que se una a ti puede hacer lo mismo.\n\nEl aliado debe unirse a ti en el mismo vicio que estés satisfaciendo (o puedes satisfacer uno a través de una habilidad de la tripulación, como Cocina Casera de la Stardancer). Puede ajustar la puntuación en menos de 2 o no ajustarla en absoluto. También puedes recuperar más de 6 de estrés en una tirada de vicio de esta manera.",
       "class":"Piloto"      
 		},
 		"(P) Keen Eye": {

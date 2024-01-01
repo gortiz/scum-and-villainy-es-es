@@ -14,13 +14,13 @@
       "def_abilities": "(Com) Escáner de Largo Alcance, (Mo) Motor de Salto, (Aux) Ganchos, (Aux) Celdas, (Ent) Destreza\nTipo de nave:Carguero\nStacey Weathers, Arlox, Ishi, Lix, Jezri"
 		},
 		"Firedrake": {
-			"name": "Dragón de Fuego",
+			"name": "Dragao",
       "description": "Rebeldes y criminales hegemónicos.",
       "experience_clues": "Gana XP realizando con éxito trabajos que se oponen a la dominación hegemónica.",
       "def_abilities": "(Ar) Cañones de Partículas, (Mo) Motor de Salto, (Ca) Alojamentos de la Tripulación, (Mej) Lanzadera, (Aux) Escudos\nTipo de nave: Corveta\nGarin, Tyura, Ada Black, Tiko Lux, Ibo-one"
 		},
 		"Stardancer": {
-			"name": "Bailarina Estelar",
+			"name": "Stardancer",
       "description": "Comerciantes ilícitos, contrabandistas y evasores.",
       "experience_clues": "Gana XP al ejecutar con éxito una operación de transporte o contrabando.",
       "def_abilities": "(Ca) Compartimentos de Contrabando, (Ca) Bodega de Carga, (Mo) Motor de Salto, (Aux) Cantina, (Ent) Perspicacia\nTipo de nave:Carguero\nT'kala, Alor, Heani, Rakka, Citani"
